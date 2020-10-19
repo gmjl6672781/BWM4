@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c45a8f43e4676f4fb6bb535e43d49d0, type: 3}
+  m_Name: Task06_2
+  m_EditorClassIdentifier: 
+  parent: {fileID: 11400000, guid: 1491eb0e518918d4c8fef1180d3ef4b1, type: 2}
+  child: {fileID: 0}
+  littleBrother: {fileID: 0}
+  oldBrother: {fileID: 11400000, guid: 847840efdb5ac3545880401bb087e619, type: 2}
+  isRead: 0
+  taskName: "\u6A21\u7EC4\u9AD8\u538B\u7EBF\u675F\u63D2\u5934\u505A\u6807\u8BB0"
+  index: 20
+  keyTitle: 
+  keyTip: 
+  isCanRecord: 0
+  score: 0
+  traingScore: 5
+  examScore: 10
+  taskType: 0
+  taskGoals:
+  - {fileID: 11400000, guid: 4e0bb68561eeeae4795ff5cc79d94d1b, type: 2}
+  - {fileID: 11400000, guid: 608580f462a198a4583ff58e97a9fca3, type: 2}
+  - {fileID: 11400000, guid: 3ded2df727fa2334794c81f993fc5956, type: 2}
+  - {fileID: 11400000, guid: 74b24b99d0bc3174b8db90c262ab0921, type: 2}
+  - {fileID: 11400000, guid: 6ee524142352fa049b69b86576dbde51, type: 2}
+  taskTools:
+  - {fileID: 11400000, guid: ad700833e6aa5bc469f0dcf7550eca3d, type: 2}
+  - {fileID: 11400000, guid: b0edcb9e40f8ce743b97b665050cd9dc, type: 2}
+  - {fileID: 11400000, guid: 44a01754957a43e49805f972f1e712d2, type: 2}
+  - {fileID: 11400000, guid: 18ab476b71d9f9244ba829aa62980d38, type: 2}
+  - {fileID: 11400000, guid: 8ddda867019d2124b94b4d4bd2e4e535, type: 2}
+  - {fileID: 11400000, guid: 21889eae1e271a84ab16b1036abe2dbd, type: 2}
+  - {fileID: 11400000, guid: e31a0a160c3181845be5294913188a0c, type: 2}
+  - {fileID: 11400000, guid: 09721b9d62b9eed4ea8f0a3fccaee5e7, type: 2}
+  - {fileID: 11400000, guid: da044fbac20f0f3439e22f9bf6712ff3, type: 2}
+  - {fileID: 11400000, guid: 066b8246e963ca84097b13a6da9fc04d, type: 2}
+  - {fileID: 11400000, guid: 844da8921e050a545baa229a1107d037, type: 2}
+  - {fileID: 11400000, guid: 992533ffc4e7e684bbccc41e93baf669, type: 2}
+  - {fileID: 11400000, guid: 98c28f307076ac5419e8249944530661, type: 2}
+  - {fileID: 11400000, guid: bd7aa687edba6f04c915b797db9f8676, type: 2}
+  dynamicConfs: []
+  delayTimeStartToDoing: 3
+  delayTimeToStart: 3
+  isPlayAudioSuccessTask: 1
+  isPlayAudioOnError: 1
+  audioOnErrorKeys: []
+  sceneAudioKeys:
+  - T1034
+  isJumpBigOnGoalError: 1
+  isRePlayStartAudio: 1
+  isPlayDynOnTaskError: 0
+  errorTaskDynamics: []
+  isAutoPopQuest: 0
+  watieTime: 10
+  isJustPlayAudio: 0
+  reDoTime: 10
+  errorSound: -1
+  TaskOverDynamicConf:
+  - {fileID: 11400000, guid: c1a9ccd395a2ed3498089e6b3bd250b7, type: 2}
+  isCanPopDlg: 1
+  judgementDlgConf: {fileID: 0}
+  isForceShow: 0

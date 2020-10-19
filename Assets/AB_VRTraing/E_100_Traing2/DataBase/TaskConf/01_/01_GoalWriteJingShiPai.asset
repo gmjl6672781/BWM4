@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f1b6954043a5c3418c907f32f441a98, type: 3}
+  m_Name: 01_GoalWriteJingShiPai
+  m_EditorClassIdentifier: 
+  goalName: "\u4E66\u5199\u8B66\u793A\u724C"
+  goalMode: 0
+  priority: 2
+  isAutoPlayStartAudio: 0
+  isAutoHighlightStartTool: 0
+  goalKey: T1016
+  goalTrainingStartAudioKeys:
+  - T1016
+  goalTrainingErrorAudioKeys: []
+  goalTrainingStartHighlightTools:
+  - toolConf: {fileID: 11400000, guid: ade9c29fc4cf4e846893ed531e40b3bb, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: 85b364d99e1818e44b0c21f99f96a0ae, type: 2}
+    isHighlight: 1
+  goalExaminationStartAudioKeys: []
+  goalExaminationErrorAudioKeys: []
+  goalExaminationStartHighlightTools: []
+  isNecessaryGoal: 1
+  goalTeachingStartAudioKeys: []
+  playDeltTime: 0
+  toolBaiBanBi: {fileID: 11400000, guid: b52a4269e2ed21842b9b14a24702f02f, type: 2}
+  toolBaiBan: {fileID: 11400000, guid: a07be2cbf52a5994a90e210e956233a6, type: 2}
+  baiBanConf: {fileID: 11400000, guid: 36d35ce6578f4c04eb159a2384424572, type: 2}

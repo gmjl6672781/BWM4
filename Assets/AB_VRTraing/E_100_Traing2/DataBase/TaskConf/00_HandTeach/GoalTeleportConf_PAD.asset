@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2690f1b2d9b09841bfd9e0de858b267, type: 3}
+  m_Name: GoalTeleportConf_PAD
+  m_EditorClassIdentifier: 
+  goalName: 
+  goalMode: 0
+  priority: 0
+  isAutoPlayStartAudio: 1
+  isAutoHighlightStartTool: 1
+  goalKey: T1002
+  goalTrainingStartAudioKeys:
+  - T1002
+  goalTrainingErrorAudioKeys: []
+  goalTrainingStartHighlightTools: []
+  goalExaminationStartAudioKeys:
+  - T1002
+  goalExaminationErrorAudioKeys: []
+  goalExaminationStartHighlightTools: []
+  goalTeachingStartAudioKeys:
+  - T1002
+  playDeltTime: 0
+  isFinalGoal: 0
+  vrInputConf: {fileID: 11400000, guid: 29eca9cec6b83d2488449d3c59692176, type: 2}
+  handType: 0
+  keyCode: 0
+  msgKey: T64
+  isShock: 1

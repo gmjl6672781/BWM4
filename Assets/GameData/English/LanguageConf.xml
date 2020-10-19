@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <LanguageConf>
+    <T1 PriKey="T1" Message="Please enter your account" AudioPath="" />
+    <T2 PriKey="T2" Message="Please enter your password" AudioPath="" />
+    <T3 PriKey="T3" Message="Login" AudioPath="" />
+    <T4 PriKey="T4" Message="Chinese" AudioPath="" />
+    <T5 PriKey="T5" Message="Your account or password is incorrect! |Please check your internet connection and try again!" AudioPath="" />
+    <T6 PriKey="T6" Message="Setting" AudioPath="" />
+    <T7 PriKey="T7" Message="Choose language " AudioPath="" />
+    <T8 PriKey="T8" Message="Text guidance" AudioPath="" />
+    <T9 PriKey="T9" Message="Voice guidance" AudioPath="" />
+    <T10 PriKey="T10" Message="Voice effects" AudioPath="" />
+    <T11 PriKey="T11" Message="Male voice" AudioPath="" />
+    <T12 PriKey="T12" Message="Female voice" AudioPath="" />
+    <T13 PriKey="T13" Message="On/Off" AudioPath="" />
+    <T14 PriKey="T14" Message="View" AudioPath="" />
+    <T15 PriKey="T15" Message="Meadow" AudioPath="" />
+    <T16 PriKey="T16" Message="Beach" AudioPath="" />
+    <T17 PriKey="T17" Message="Universe" AudioPath="" />
+    <T18 PriKey="T18" Message="Jungle" AudioPath="" />
+    <T19 PriKey="T19" Message="Log out" AudioPath="" />
+    <T20 PriKey="T20" Message="Choose training mode or test mode" AudioPath="" />
+    <T21 PriKey="T21" Message="Mission" AudioPath="" />
+    <T22 PriKey="T22" Message="Isolate the repair area" AudioPath="" />
+    <T23 PriKey="T23" Message="Conduct visual inspection of high voltage battery assemly " AudioPath="" />
+    <T24 PriKey="T24" Message="Remove the high voltage battery cell module " AudioPath="" />
+    <T25 PriKey="T25" Message="Install the high voltage battery cell module" AudioPath="" />
+    <T26 PriKey="T26" Message="Complete the high voltage battery repair work" AudioPath="" />
+    <T27 PriKey="T27" Message="Tip: Skip to other step is not allowed in test mode" AudioPath="" />
+    <T28 PriKey="T28" Message="Restart" AudioPath="" />
+    <T29 PriKey="T29" Message="Back to the home page" AudioPath="" />
+    <T30 PriKey="T30" Message="Personal profile" AudioPath="" />
+    <T31 PriKey="T31" Message="Account" AudioPath="" />
+    <T32 PriKey="T32" Message="Name" AudioPath="" />
+    <T33 PriKey="T33" Message="Dealer" AudioPath="" />
+    <T34 PriKey="T34" Message="History records" AudioPath="" />
+    <T35 PriKey="T35" Message="Training mode" AudioPath="" />
+    <T36 PriKey="T36" Message="Test mode" AudioPath="" />
+    <T37 PriKey="T37" Message="Passed" AudioPath="" />
+    <T38 PriKey="T38" Message="Failed" AudioPath="" />
+    <T39 PriKey="T39" Message="Isolate the high voltage repair area" AudioPath="" />
+    <T40 PriKey="T40" Message="Conduct visual inspection of high voltage battery assemly " AudioPath="" />
+    <T41 PriKey="T41" Message="Conduct visual inspection inside of the high voltage battery " AudioPath="" />
+    <T42 PriKey="T42" Message="Disconnect high voltage connectors in serial connection" AudioPath="" />
+    <T43 PriKey="T43" Message="Refurse unauthorized person entering the area" AudioPath="" />
+    <T44 PriKey="T44" Message="Mark low-voltage connector" AudioPath="" />
+    <T45 PriKey="T45" Message="Unplug low-voltage connector" AudioPath="" />
+    <T46 PriKey="T46" Message="Remove the plastic cover of cell module" AudioPath="" />
+    <T47 PriKey="T47" Message="Loosen the fixing bolts of the high voltage cell module" AudioPath="" />
+    <T48 PriKey="T48" Message="Remove  the high voltage battery cell module" AudioPath="" />
+    <T49 PriKey="T49" Message="Install the high voltage battery cell module" AudioPath="" />
+    <T50 PriKey="T50" Message="Tighten the fixing bolts of the high voltage cell module" AudioPath="" />
+    <T51 PriKey="T51" Message="Install the plastic cover of cell module" AudioPath="" />
+    <T52 PriKey="T52" Message="Connect low-voltage connecters" AudioPath="" />
+    <T53 PriKey="T53" Message="Remove the mark from low-voltage connecters" AudioPath="" />
+    <T54 PriKey="T54" Message="Connect the high voltage cables" AudioPath="" />
+    <T55 PriKey="T55" Message="Use cable straps and fasten the high-voltage cables" AudioPath="" />
+    <T56 PriKey="T56" Message="Fasten cable straps with standard torque" AudioPath="" />
+    <T57 PriKey="T57" Message="Install the seal for battery upper cover" AudioPath="" />
+    <T58 PriKey="T58" Message="Check the tools" AudioPath="" />
+    <T59 PriKey="T59" Message="Close the high voltage repair area" AudioPath="" />
+    <T60 PriKey="T60" Message="Handle operation guide" AudioPath="" />
+    <T61 PriKey="T61" Message="Please use the left handle and press the menu button to show the menu" AudioPath="" />
+    <T62 PriKey="T62" Message="Press the menu button" AudioPath="" />
+    <T63 PriKey="T63" Message="Please use either handle, press Pad button a few seconds and release to move your location" AudioPath="" />
+    <T64 PriKey="T64" Message="Press Pad button a few seconds" AudioPath="" />
+    <T65 PriKey="T65" Message="Left/Right" AudioPath="" />
+    <T66 PriKey="T66" Message="Task list to show steps for repair work" AudioPath="" />
+    <T67 PriKey="T67" Message="Check personal VR training record in participant center" AudioPath="" />
+    <T68 PriKey="T68" Message="Setting interface can be defined according to paticipant account" AudioPath="" />
+    <T69 PriKey="T69" Message="Please slide the Pad button to switch the menu, following the instructions on the left handle" AudioPath="" />
+    <T70 PriKey="T70" Message="Slide the Pad button" AudioPath="" />
+    <T71 PriKey="T71" Message="Please press the &quot;Side Button&quot; to show the sub-step, following the instructions on the left handle" AudioPath="" />
+    <T72 PriKey="T72" Message="Press the &quot;Side Button&quot; " AudioPath="" />
+    <T73 PriKey="T73" Message="Please use the handle to touch the button in screen and press the trigger key to &quot; start the mission&quot;" AudioPath="" />
+    <T74 PriKey="T74" Message="Start the mission and go to learn " AudioPath="" />
+    <T75 PriKey="T75" Message="Press the trigger key" AudioPath="" />
+    <T76 PriKey="T76" Message="Before starting high-voltage battery repair work,| which step should be completed?" AudioPath="" />
+    <T77 PriKey="T77" Message="Please finish visual inspection of the high-voltage battery assembly completely  before starting work. " AudioPath="" />
+    <T PriKey="T" Message=" " AudioPath="test" />
+    <T78 PriKey="T78" Message="Choose appropriate tools to remove the battery upper cover" AudioPath="" />
+    <T79 PriKey="T79" Message="Wipe off the surface of the high-voltage battery with a special cleaner" AudioPath="" />
+    <T80 PriKey="T80" Message="What kind of work should be complete first after the battery upper cover is removed?" AudioPath="" />
+    <T81 PriKey="T81" Message="Please finish visual inspection of the high-voltage battery assembly completely  before starting work. " AudioPath="" />
+    <T82 PriKey="T82" Message="Use plastic lever and disconnect the high-voltage cable between cell modules." AudioPath="" />
+    <T83 PriKey="T83" Message="Refering to the cell module location diagram in ISTA,| specific marks should be made on all high voltage connectors as well as cell modules." AudioPath="" />
+    <T84 PriKey="T84" Message="The customer who owns this G38PHEV would like to enter the battery repair area|and check the inside of the battery. How should you respond?" AudioPath="" />
+    <T85 PriKey="T85" Message="Allow him to stay in the repair area and answer his question" AudioPath="" />
+    <T86 PriKey="T86" Message="Stop his entry, and advice him to leave the battery repair area." AudioPath="" />
+    <T87 PriKey="T87" Message="After interrupted the first serial cable connection inside of the battery|, what work should be completed first before continuously disconnect| other high-voltage cables?" AudioPath="" />
+    <T88 PriKey="T88" Message="Refering to the cell module location diagram in ISTA,specific marks should be made only on cell modules." AudioPath="" />
+    <T89 PriKey="T89" Message="Refering to the cell module location diagram in ISTA, specific marks should be made on both high voltage cell modules and cables using sticker." AudioPath="" />
+    <T90 PriKey="T90" Message="How to use this tool to lift up the battery cell module？" AudioPath="" />
+    <T91 PriKey="T91" Message="Lift up the battery cell module by 2 technicians" AudioPath="" />
+    <T92 PriKey="T92" Message="Lift up the battery cell module by 1 technician" AudioPath="" />
+    <T93 PriKey="T93" Message="Another technician with battery repair qualification wants to help |you with high-voltage cable connecting. How will you respond?" AudioPath="" />
+    <T94 PriKey="T94" Message="Accept his support and assign some work to him " AudioPath="" />
+    <T95 PriKey="T95" Message="Refuse his help, and advice him to leave the battery repair area. |Then start the work independently" AudioPath="" />
+    <T96 PriKey="T96" Message="Before closing the battery with the upper cover,  |please confirm what kind of work is needed?" AudioPath="" />
+    <T97 PriKey="T97" Message="Close the high-voltage battery cover and fasten it with bolts" AudioPath="" />
+    <T98 PriKey="T98" Message="Conduct visual inspection in toolboxes and high voltage battery, |ensure toolbox is complete without missing" AudioPath="" />
+    <T99 PriKey="T99" Message="Failed steps in the test " AudioPath="" />
+    <T100 PriKey="T100" Message="Test scores" AudioPath="" />
+    <T101 PriKey="T101" Message="Isolate the high voltage repair area before work" AudioPath="" />
+    <T102 PriKey="T102" Message="Conduct visual inspection of the high voltage battery assembly before opening." AudioPath="" />
+    <T103 PriKey="T103" Message="Conduct visual inspection inside the high voltage battery after opening" AudioPath="" />
+    <T104 PriKey="T104" Message="Any unauthorized person should be prohibited from entering the working area." AudioPath="" />
+    <T105 PriKey="T105" Message="High voltage connectors should be marked in case wrong connection happened " AudioPath="" />
+    <T106 PriKey="T106" Message="Please choose proper special tool during high voltage battery repair " AudioPath="" />
+    <T107 PriKey="T107" Message="work independently is required during high voltage battery repair" AudioPath="" />
+    <T108 PriKey="T108" Message="Before installing the cover, check whether any tool is lost inside of the battery" AudioPath="" />
+    <T109 PriKey="T109" Message="Before technician leave the working area during battery repair, the high-voltage| battery must be completely closed and working area needs to be isolated." AudioPath="" />
+    <T110 PriKey="T110" Message="Records of uncompleted steps." AudioPath="" />
+    <T111 PriKey="T111" Message="Before start of work, the repair area should be isolated first. " AudioPath="" />
+    <T112 PriKey="T112" Message="Conduct visual inspection of the high voltage battery assembly before opening." AudioPath="" />
+    <T113 PriKey="T113" Message="Conduct visual inspection inside the high voltage battery after opening" AudioPath="" />
+    <T114 PriKey="T114" Message="Before removing the high-voltage cell modules, high voltage connectors in| serial connection should be interrupted first." AudioPath="" />
+    <T115 PriKey="T115" Message="Any unauthorized person should be prohibited from entering the working area." AudioPath="" />
+    <T116 PriKey="T116" Message="Mark the low-voltage connectors as well " AudioPath="" />
+    <T117 PriKey="T117" Message="Disconnect the low-voltage connectors " AudioPath="" />
+    <T118 PriKey="T118" Message="Remove the plastic cover of cell module" AudioPath="" />
+    <T119 PriKey="T119" Message="the fixing bolts on battery cell module should be loosen with a ratchet wrench." AudioPath="" />
+    <T120 PriKey="T120" Message="When removing the battery, it must be lifted the battery using the| lifting tool with 2 technicians at the same time." AudioPath="" />
+    <T121 PriKey="T121" Message="During battery installation, it must be lifted the battery using the| lifting tool with 2 technicians at the same time." AudioPath="" />
+    <T122 PriKey="T122" Message="During battery installation, you should use a ratchet wrench to tighten the battery fixing bolts." AudioPath="" />
+    <T123 PriKey="T123" Message="After the battery bolts are tightened, the plastic cover of cell module should be installed." AudioPath="" />
+    <T124 PriKey="T124" Message="Please install the low-voltage connectors according to the marks made before" AudioPath="" />
+    <T125 PriKey="T125" Message="Please clear the marks on the low-voltage connector" AudioPath="" />
+    <T126 PriKey="T126" Message="Please connect the high-voltage cables indepentedly" AudioPath="" />
+    <T127 PriKey="T127" Message="Please use cable straps to fasten the high-voltage cables" AudioPath="" />
+    <T128 PriKey="T128" Message="Please use standard torque to fasten the cable straps" AudioPath="" />
+    <T129 PriKey="T129" Message="Please apply the seal before installing the battery cover" AudioPath="" />
+    <T130 PriKey="T130" Message="Please check whether any tool is missing in the battery before installing the battery cover" AudioPath="" />
+    <T131 PriKey="T131" Message="Before technician leave the working area during battery repair,the high-voltage |battery must be completely closed and working area needs to be isolated." AudioPath="" />
+    <T132 PriKey="T132" Message="Username or password cannot be empty!" AudioPath="" />
+    <T133 PriKey="T133" Message="Skip" AudioPath="" />
+    <T134 PriKey="T134" Message="Login error, please check the network！" AudioPath="" />
+    <T1000 PriKey="T1000" Message="Very good! Your operation is correct!" AudioPath="good.wav" />
+    <T1001 PriKey="T1001" Message="Awesome! Your operation is correct!" AudioPath="awesome.wav" />
+    <T1002 PriKey="T1002" Message="Please use either handle, press Pad button a few seconds and release to move your location." AudioPath="pad.wav" />
+    <T1003 PriKey="T1003" Message="Please use the left handle, press the menu button to show the menu." AudioPath="menu.wav" />
+    <T1004 PriKey="T1004" Message="Please slide the Pad button to switch the menu, following the instructions of the left handle." AudioPath="pads.wav" />
+    <T1005 PriKey="T1005" Message="Please press the &quot;Side Button&quot; to show the steps of training mode, following the instructions of the left handle." AudioPath="side.wav" />
+    <T1006 PriKey="T1006" Message="Please use the handle to touch the button in screen and press the trigger key to &quot;start the mission&quot;." AudioPath="task.wav" />
+    <T1007 PriKey="T1007" Message="Very good! You have already learned the basic operations of the handle, Let's start the mission and learn together." AudioPath="learn.wav" />
+    <T1008 PriKey="T1008" Message="You are a high-voltage technician with third-generation high-voltage battery repair qualifications, Please select &quot;Training Mode&quot;or &quot;Test Mode&quot;." AudioPath="mode.wav" />
+    <T1009 PriKey="T1009" Message="&lt;b&gt;Training mode:&lt;/b&gt;&#xA;Mainly for users join in the learning for the first time and need practice, This training is aimed to let them master the main work procedures and operation guidelines, Please follow the indications and guidance." AudioPath="training.wav" />
+    <T1010 PriKey="T1010" Message="&lt;b&gt;Test mode: &lt;/b&gt;&#xA;Mainly for users already participated in the related training or with certain experience, This mode aims to test users' mastering of core operation guidelines, The user should complete all the works based the task briefing and their own experience." AudioPath="examination.wav" />
+    <T1011 PriKey="T1011" Message="Indications shown in the ISTA during diagnosis on a G38PHEV: Please replace the 1 &amp; 2 high-voltage battery cell module, At the moment, the complete high-voltage battery has been removed from the car,  please proceed and complete the relevant operations." AudioPath="background.wav" />
+    <T1012 PriKey="T1012" Message="What do you think is wrong with this battery repair station?|  Please correct it." AudioPath="station.wav" />
+    <T1013 PriKey="T1013" Message="Please confirm whether the battery repair station has been completely corrected." AudioPath="amend.wav" />
+    <T1014 PriKey="T1014" Message="Please pay attention to the seperation of the| battery repair area, and place appropriate warning signs." AudioPath="region.wav" />
+    <T1015 PriKey="T1015" Message="Pull out the isolation tape on the isolation| pier and close the repair area." AudioPath="closed.wav" />
+    <T1016 PriKey="T1016" Message="Please complete the operator's information on| the high-voltage warning sign with the whiteboard marker." AudioPath="pen.wav" />
+    <T1017 PriKey="T1017" Message="Please place the warning sign on one of the barriors." AudioPath="warning.wav" />
+    <T1018 PriKey="T1018" Message="Before starting high-voltage battery repair work,| which step should be completed?" AudioPath="battery.wav" />
+    <T1019 PriKey="T1019" Message="Please enter the battery repair station and pick up the appropriate item to complete the work." AudioPath="suitable.wav" />
+    <T1020 PriKey="T1020" Message="Please finish visual inspection of the high-voltage |battery assembly completely  before starting work. Check actual condition of the battery and ensure there's no safety risks." AudioPath="clear.wav" />
+    <T1021 PriKey="T1021" Message="Please conduct visual inspection of the high voltage| battery assembly with a light." AudioPath="illumination.wav" />
+    <T1022 PriKey="T1022" Message="What kind of work should be complete first after| the battery upper cover is removed?" AudioPath="ask.wav" />
+    <T1023 PriKey="T1023" Message="The battery upper cover is removed, please pick up the appropriate item to complete the work." AudioPath="suitables.wav" />
+    <T1024 PriKey="T1024" Message="Please finish visual inspection of the high-voltage| battery assembly completely  before starting work. Check actual condition of the battery and ensure there's no safety risks." AudioPath="visually.wav" />
+    <T1025 PriKey="T1025" Message="Please check the connectors and cables inside the battery with light." AudioPath="component.wav" />
+    <T1026 PriKey="T1026" Message="First of all, please disconnect the high-voltage cable| between battery cell module 2 and 3,  and also cable between cell module 6 and 7." AudioPath="module.wav" />
+    <T1027 PriKey="T1027" Message="The customer who owns this G38PHEV would like to enter the battery repair| area and check the inside of the battery. How should you respond?" AudioPath="response.wav" />
+    <T1028 PriKey="T1028" Message="During the high-voltage battery repair,any unauthorized person should be prohibited from entering the working area." AudioPath="personnel.wav" />
+    <T1029 PriKey="T1029" Message="Please stop his entry, and advice him to leave the battery repair area." AudioPath="claim.wav" />
+    <T1030 PriKey="T1030" Message="After interrupted the first serial cable connection inside of the battery|, what work should be completed first before continuously| disconnect other high-voltage cables?" AudioPath="connection.wav" />
+    <T1031 PriKey="T1031" Message="The serial cable connection has been interrupted,before removing the battery |cell module|, please pick up the appropriate item to continue the repair work." AudioPath="operating.wav" />
+    <T1032 PriKey="T1032" Message="Please noted it should refer to the cell module location| diagram in ISTA before removing the cell modules. And specific marks should be made on all high voltage connectors as well as cell modules, in case wrong connecting and positioning happens during installation afterwards." AudioPath="indicate.wav" />
+    <T1033 PriKey="T1033" Message="Please refer to the cell module location diagram,| mark the module number &quot;1&quot; and &quot;2&quot;,  and also the high voltage connnector marks &quot;1-&quot; and &quot;2+&quot; ." AudioPath="numbering.wav" />
+    <T1034 PriKey="T1034" Message="Please mark module &quot;1&quot; ,&quot;2&quot; and &quot;1-&quot; , &quot;2+&quot; high voltage connector according to the information in the module location diagram" AudioPath="number.wav" />
+    <T1035 PriKey="T1035" Message="The visual check inside of the battery has been completed, |please pick up the appropriate item to continue the repair work." AudioPath="mark.wav" />
+    <T1036 PriKey="T1036" Message="Please remove the marked low-voltage wiring harness connectors." AudioPath="check.wav" />
+    <T1037 PriKey="T1037" Message="Please remove the plastic cover of cell| module and place it onto the worktable." AudioPath="remove.wav" />
+    <T1038 PriKey="T1038" Message="Please remove the high-voltage battery cell module." AudioPath="disassembly.wav" />
+    <T1039 PriKey="T1039" Message="Please loosen the fixing bolts on battery| cell module with a ratchet wrench." AudioPath="wrench.wav" />
+    <T1040 PriKey="T1040" Message="The high-voltage battery cell modules and |high-voltage connnectors have all been marked. The connection of high voltage cebles and fixing bolts on 1 &amp; 2 battery modules have also been removed. Please remove the 1 &amp; 2 double cell module." AudioPath="bolt.wav" />
+    <T1041 PriKey="T1041" Message="Please lift up the battery cell modules |and place onto the target position." AudioPath="aims.wav" />
+    <T1042 PriKey="T1042" Message="Please use special tools required in ISTA| to lift up the battery cell module." AudioPath="ista.wav" />
+    <T1043 PriKey="T1043" Message="How to use this tool to lift up the battery cell module？" AudioPath="tool.wav" />
+    <T1044 PriKey="T1044" Message="Please noted it need 2 technicians at the same time when |using this battery cell module lifting tool." AudioPath="cooperate.wav" />
+    <T1045 PriKey="T1045" Message="Please lift up the battery cell module with the special tool." AudioPath="uplift.wav" />
+    <T1046 PriKey="T1046" Message="Please place the battery cell module onto the worktable,| within the target position." AudioPath="specify.wav" />
+    <T1047 PriKey="T1047" Message="Please use the tool to lift up the battery cell module| and put it back inside the high-voltage battery together with the second technician." AudioPath="put.wav" />
+    <T1048 PriKey="T1048" Message="Please use the tool to place the battery cell| module inside of the battery assembly." AudioPath="warehouse.wav" />
+    <T1049 PriKey="T1049" Message="Please put the battery cell module back to the |highlighted position inside of the battery" AudioPath="highlight.wav" />
+    <T1050 PriKey="T1050" Message="Please tighten the cell module fixing bolts till| standard torque with a torque wrench. " AudioPath="use.wav" />
+    <T1051 PriKey="T1051" Message="Please close the plastic cover of cell module." AudioPath="cover.wav" />
+    <T1052 PriKey="T1052" Message="Please use both hands to reconncet the| low-voltage wiring harness connector." AudioPath="hands.wav" />
+    <T1053 PriKey="T1053" Message="Please remove the marks on the low-voltage wiring harness connctor." AudioPath="clearn.wav" />
+    <T1054 PriKey="T1054" Message="Well, the new No. 1 &amp; 2 cell module has been placed inside of the battery. |Please continue to complete the connection of the high-voltage cables." AudioPath="update.wav" />
+    <T1055 PriKey="T1055" Message="Please connect the &quot;1-&quot;connector." AudioPath="plug.wav" />
+    <T1056 PriKey="T1056" Message="Another technician with battery repair qualification wants to help| you with high-voltage cable connecting . How will you respond?" AudioPath="responsel.wav" />
+    <T1057 PriKey="T1057" Message="Please proceed and complete the connection| of the high-voltage cables." AudioPath="again.wav" />
+    <T1058 PriKey="T1058" Message="Unless sepcial requirement in ISTA for two-person operation work |the work of battery repair should been done only by one authorized technician independently." AudioPath="independent.wav" />
+    <T1059 PriKey="T1059" Message="Please connect the highlighted high-voltage cables." AudioPath="well.wav" />
+    <T1060 PriKey="T1060" Message="Please proceed and  connect other high-voltage cables." AudioPath="againe.wav" />
+    <T1061 PriKey="T1061" Message="Please use cable straps and fasten the high-voltage cables." AudioPath="band.wav" />
+    <T1062 PriKey="T1062" Message="Please set standard torque for high voltage cable by position &quot;4&quot; on the special tool." AudioPath="gear.wav" />
+    <T1063 PriKey="T1063" Message="Please fasten the cable traps with standard| torque using the special tool.  " AudioPath="dedicated.wav" />
+    <T1064 PriKey="T1064" Message="The refrigerant pipes have been installed.| Please install| a new sealing gasket for battery upper cover." AudioPath="pipeline.wav" />
+    <T1065 PriKey="T1065" Message="All of the components, cables and wiring harnesses| inside of the high-voltage battery have been completely installed,| please proceed and start next step." AudioPath="jobs.wav" />
+    <T1066 PriKey="T1066" Message="Before closing the battery with the upper cover, |please confirm what kind of work is needed?" AudioPath="next.wav" />
+    <T1067 PriKey="T1067" Message="After battery repair, and before closing the battery with the upper cover, please check inside of the battery to make sure the integrity of the toolbox and nothing else left in battery. " AudioPath="complete.wav" />
+    <T1068 PriKey="T1068" Message="Please pick up the tool left inside the battery and put it into the tool box." AudioPath="omission.wav" />
+    <T1069 PriKey="T1069" Message="OK, the tool box and battery internal inspection are completed, and the tools are complete without omission. You need to go to the next tool room to get another ratchet wrench for fastening the cover bolts." AudioPath="fasten.wav" />
+    <T1070 PriKey="T1070" Message="During battery repair, before technician leaving the battery repair station, the high-voltage battery must be completely closed with cover and at least severial bolts. Meanwhile, the working area must be seperated by barriers." AudioPath="isolation.wav" />
+    <T1071 PriKey="T1071" Message="Please pull out the belt from the barrior and |separate the working area." AudioPath="squat.wav" />
+    <T1072 PriKey="T1072" Message="Use a torque wrench and tighten the battery cover| bolts with standard torque." AudioPath="obedient.wav" />
+    <T1073 PriKey="T1073" Message="Please put the yellow warning cone on the battery within target position." AudioPath="yellow.wav" />
+    <T1074 PriKey="T1074" Message="Congratulations! You have successfully passed the test. |Please check the feedbacks for your operation just now and perform better next time!" AudioPath="by.wav" />
+    <T1075 PriKey="T1075" Message="Unfortunately, you failed the test. Please check the feedbacks for your operation just now and work harder to achive better performance next time!" AudioPath="not.wav" />
+    <T1076 PriKey="T1076" Message="Congratulations! You have completed the whole high-voltage battery repair practice. Please check the feedbacks for your operation just now and perform better next time!" AudioPath="nice.wav" />
+    <T1077 PriKey="T1077" Message="Yes" AudioPath="" />
+    <T1078 PriKey="T1078" Message="No" AudioPath="" />
+    <T1079 PriKey="T1079" Message="Do you to jump to this step?" AudioPath="" />
+    <T1080 PriKey="T1080" Message="Do you submit test results?" AudioPath="" />
+    <T1081 PriKey="T1081" Message="And, disconnect the high voltage harness connector between battery modules 6 and 7." AudioPath="" />
+    <T1082 PriKey="T1082" Message="Open the door" AudioPath="" />
+    <T2000 PriKey="T2000" Message="Number" AudioPath="" />
+    <T2001 PriKey="T2001" Message="Question" AudioPath="" />
+    <T1090 PriKey="T1090" Message="Slide the “Pad” key on the handle, adjust the cable tie gun to standard torque 4 for high-voltage wire harness ties." AudioPath="滑动pad键调整力矩.wav" />
+    <T1091 PriKey="T1091" Message="Please use the correct torque to tighten the cable tie. Slide the “Pad” key on the handle, adjust the cable tie gun to standard torque 4 for high-voltage wire harness ties" AudioPath="请使用正确的力矩.wav" />
+    <T1092 PriKey="T1092" Message="Summary" AudioPath="" />
+  </LanguageConf>
+</Config>

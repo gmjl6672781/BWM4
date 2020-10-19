@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6803c7bac998d3f4f8559c630b2f00f1, type: 3}
+  m_Name: JingShiZhuiTong
+  m_EditorClassIdentifier: 
+  toolName: JingShiZhuiTong
+  mass: 0.5
+  drag: 0
+  angularDrag: 0.05
+  toolModel: {fileID: 0}
+  isLightFlash: 1
+  isShowBody: 1
+  isLightAll: 1
+  flashFrequency: 0.5
+  lightObjNames: []
+  lightMat: {fileID: 2100000, guid: 7a402a6b78d31bd4bb1e4a13d4973388, type: 2}
+  toolBasic: {fileID: 0}
+  catchFlags: 76
+  handPosition: {x: -0.01, y: -0.021, z: -0.087}
+  handAngle: {x: 73.347, y: -58.904, z: 31.851}
+  isSetCatchHighlight: 1
+  isCatchHighlight: 0
+  isSetTriggerPose: 0
+  triggerPositon: {x: 0, y: 0, z: 0}
+  triggerAngle: {x: 0, y: 0, z: 0}
+  isSetInitCanHover: 0
+  isInitCanHover: 0
+  isSetInitCanCatch: 0
+  isInitCanCatch: 0
+  isSetInitKinematic: 0
+  isInitKinematic: 0
+  isSetInitHide: 0
+  isInitHide: 0
+  isSetInitHighlight: 1
+  isInitHighlight: 0
+  isSetInitScaleSize: 0
+  InitScaleSize: {x: 0, y: 0, z: 0}
+  isSetInitPose: 1
+  InitPosition: {x: 1.138, y: 0.9958774, z: 8.733002}
+  InitAngle: {x: 0, y: 69.72401, z: 0}
+  putList: []
+  indexAoCao: 0
+  canPutAoCao: 1

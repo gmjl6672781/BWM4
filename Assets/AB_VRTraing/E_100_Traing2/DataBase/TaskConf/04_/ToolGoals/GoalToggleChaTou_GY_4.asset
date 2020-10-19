@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7155a823d95c2fb44aff2f43abb5ed6b, type: 3}
+  m_Name: GoalToggleChaTou_GY_4
+  m_EditorClassIdentifier: 
+  goalName: 
+  goalMode: 0
+  priority: 0
+  goalKey: 0
+  dynamicConfs: []
+  goalTrainingStartAudioKeys: []
+  goalTrainingErrorAudioKeys: []
+  goalTrainingSuccessHighlightTools: []
+  goalTrainingErrorHighlightTools: []
+  goalExaminationStartAudioKeys: []
+  goalExaminationErrorAudioKeys: []
+  goalExaminationSuccessHighlightTools: []
+  goalExaminationErrorHighlightTools: []
+  isNecessaryGoal: 1
+  goalTeachingStartAudioKeys: []
+  playDeltTime: 0
+  initPos: {x: 0, y: 0, z: 0}
+  initAngle: {x: 0, y: 0, z: 0}
+  endPos: {x: 0, y: 0, z: 0}
+  endAngle: {x: 0, y: 0, z: -45}
+  targetTool: {fileID: 11400000, guid: 7375ec288f4b8d64bad1952e990c2170, type: 2}
+  triggerTool: {fileID: 11400000, guid: 0b961b8de0129e741b342bc44921c034, type: 2}
+  isExit: 1
+  isUseHand: 0
+  doTime: 0.2

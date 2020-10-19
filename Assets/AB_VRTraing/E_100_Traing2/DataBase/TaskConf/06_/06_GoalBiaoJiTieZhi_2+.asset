@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7921d53672bc3ac4cbba63dad42a0ff9, type: 3}
+  m_Name: 06_GoalBiaoJiTieZhi_2+
+  m_EditorClassIdentifier: 
+  goalName: "\u6807\u8BB0\u8D34\u7EB82+"
+  goalMode: 0
+  priority: 5
+  isAutoPlayStartAudio: 0
+  isAutoHighlightStartTool: 1
+  goalKey: 
+  goalTrainingStartAudioKeys: []
+  goalTrainingErrorAudioKeys: []
+  goalTrainingStartHighlightTools: []
+  goalExaminationStartAudioKeys: []
+  goalExaminationErrorAudioKeys: []
+  goalExaminationStartHighlightTools: []
+  goalTeachingStartAudioKeys: []
+  playDeltTime: 0
+  isFinalGoal: 0
+  tieZhi: {fileID: 11400000, guid: eb32bd817c8563240afe56c9515c3208, type: 2}
+  tieZhiFlag: {fileID: 11400000, guid: 751bb8f412f1c424385393efd8519e98, type: 2}
+  tieZhiFlagRight: {fileID: 11400000, guid: 652d7ed5bab720b4e9764bd42e9df3a8, type: 2}
+  tieZhiFlagError:
+  - {fileID: 11400000, guid: b7fb48194daf5154c9547d7be18161c2, type: 2}
+  - {fileID: 11400000, guid: 568e69a1d5417544d910b4698c993937, type: 2}

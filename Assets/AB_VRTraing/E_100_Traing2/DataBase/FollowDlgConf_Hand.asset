@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc7ec900dc6ae2d48b3495571dfba03a, type: 3}
+  m_Name: FollowDlgConf_Hand
+  m_EditorClassIdentifier: 
+  followType: 2
+  fllowDis: 0.45
+  fllowMinDis: 0.28
+  flowSpeed: 1
+  handType: 1
+  forward: -1

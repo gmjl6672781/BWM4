@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd5e463b6f80cab44ab195855093341a, type: 3}
+  m_Name: 16_ChoiceConf
+  m_EditorClassIdentifier: 
+  keyMessage: T93
+  answers:
+  - keyAnswer: T94
+    keyAudios:
+    - T1058
+    highlightTools: []
+    dynamicConfs:
+    - {fileID: 11400000, guid: 43c0cd055f6f21e46a1be6c17af3c3f5, type: 2}
+    - {fileID: 11400000, guid: c7e21dc77866e294b9f83be8004dfb79, type: 2}
+    - {fileID: 11400000, guid: e7d919bdae6bd7d48aaadc00f8a4ba3c, type: 2}
+    - {fileID: 11400000, guid: 87b4da566d2f5694cbc657ca45a3f918, type: 2}
+    - {fileID: 11400000, guid: 0dea8745cb361ec4789dff77596edada, type: 2}
+  - keyAnswer: T95
+    keyAudios:
+    - T1000
+    highlightTools: []
+    dynamicConfs: []
+  goSlelection: {fileID: 2274715190598458480, guid: 3b27ceef4a9afdd48bdc74362d6ddae8,
+    type: 3}
+  rightAnswer: 1

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6803c7bac998d3f4f8559c630b2f00f1, type: 3}
+  m_Name: BaiBanBi
+  m_EditorClassIdentifier: 
+  toolName: BaiBanBi
+  mass: 0.5
+  drag: 0.609
+  angularDrag: 0.615
+  toolModel: {fileID: 0}
+  isLightFlash: 1
+  isShowBody: 1
+  isLightAll: 1
+  flashFrequency: 0.5
+  lightObjNames: []
+  lightMat: {fileID: 2100000, guid: 7a402a6b78d31bd4bb1e4a13d4973388, type: 2}
+  toolBasic: {fileID: 0}
+  catchFlags: 77
+  handPosition: {x: 0.0003, y: -0.0203, z: -0.0663}
+  handAngle: {x: -12.029, y: 4.394, z: -1.624}
+  isSetCatchHighlight: 1
+  isCatchHighlight: 0
+  isSetTriggerPose: 0
+  triggerPositon: {x: 0, y: 0, z: 0}
+  triggerAngle: {x: 0, y: 0, z: 0}

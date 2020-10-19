@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 306da6ca7ecb03648ad3712bbda6cea6, type: 3}
+  m_Name: DynamicGroupConf_Create
+  m_EditorClassIdentifier: 
+  gameDynamicConf: {fileID: 0}
+  isForeceCreate: 1
+  loop: 0
+  showTime: 0
+  initDynmic: {fileID: 0}
+  dynamicListConf: []
+  completeDynmic: {fileID: 0}
+  isDelOnChangeList: 0

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 266469454c8efac45a8363c107c3125a, type: 3}
+  m_Name: 18_ZhaDaiQiang
+  m_EditorClassIdentifier: 
+  toolConf: {fileID: 11400000, guid: 6959fb79ae0ee084d9a74fea2c49f2bf, type: 2}
+  isSetInitCanHover: 0
+  isInitCanHover: 0
+  isSetInitCanCatch: 0
+  isInitCanCatch: 0
+  isSetInitKinematic: 0
+  isInitKinematic: 0
+  isSetInitHide: 0
+  isInitHide: 0
+  isSetInitHighlight: 0
+  isInitHighlight: 0
+  isSetInitScaleSize: 0
+  initScaleSize: {x: 0, y: 0, z: 0}
+  isSetInitPose: 0
+  InitPosition: {x: 0, y: 0, z: 0}
+  InitAngle: {x: 0, y: 0, z: 0}
+  isSetStartCanHover: 0
+  isStartCanHover: 0
+  isSetStartCanCatch: 0
+  isStartCanCatch: 0
+  isSetStartKinematic: 0
+  isStartKinematic: 0
+  isSetStartHide: 0
+  isStartHide: 0
+  isSetStartHighlight: 1
+  isStartHighlight: 1
+  isSetStartScaleSize: 0
+  startScaleSize: {x: 0, y: 0, z: 0}
+  isSetStartPose: 0
+  StartPosition: {x: 0, y: 0, z: 0}
+  StartAngle: {x: 0, y: 0, z: 0}
+  isSetEndCanHover: 0
+  isEndCanHover: 0
+  isSetEndCanCatch: 0
+  isEndCanCatch: 0
+  isSetEndKinematic: 0
+  isEndKinematic: 0
+  isSetEndHide: 0
+  isEndHide: 0
+  isSetEndHighlight: 1
+  isEndHighlight: 0
+  isSetEndScaleSize: 0
+  endScaleSize: {x: 1, y: 1, z: 1}
+  isSetEndPose: 0
+  EndPosition: {x: 0, y: 0, z: 0}
+  EndAngle: {x: 0, y: 0, z: 0}

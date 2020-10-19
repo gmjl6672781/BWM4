@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 266469454c8efac45a8363c107c3125a, type: 3}
+  m_Name: 19_MiFengQuanFlag
+  m_EditorClassIdentifier: 
+  toolConf: {fileID: 11400000, guid: 9202c61f210514342bdf2d0f67bc3225, type: 2}
+  isSetInitCanHover: 0
+  isInitCanHover: 0
+  isSetInitCanCatch: 0
+  isInitCanCatch: 0
+  isSetInitHide: 1
+  isInitHide: 1
+  isSetInitHighlight: 0
+  isInitHighlight: 0
+  isSetInitPose: 0
+  InitPosition: {x: 0, y: 0, z: 0}
+  InitAngle: {x: 0, y: 0, z: 0}
+  isSetStartCanHover: 0
+  isStartCanHover: 0
+  isSetStartCanCatch: 0
+  isStartCanCatch: 0
+  isSetStartHide: 1
+  isStartHide: 0
+  isSetStartHighlight: 1
+  isStartHighlight: 1
+  isSetStartPose: 0
+  StartPosition: {x: 0, y: 0, z: 0}
+  StartAngle: {x: 0, y: 0, z: 0}
+  isSetEndCanHover: 0
+  isEndCanHover: 0
+  isSetEndCanCatch: 0
+  isEndCanCatch: 0
+  isSetEndHide: 1
+  isEndHide: 1
+  isSetEndHighlight: 1
+  isEndHighlight: 0
+  isSetEndPose: 0
+  EndPosition: {x: 12.888, y: 0.936815, z: -2.625}
+  EndAngle: {x: 0, y: 0, z: 0}

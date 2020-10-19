@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6803c7bac998d3f4f8559c630b2f00f1, type: 3}
+  m_Name: TieZhiYellow
+  m_EditorClassIdentifier: 
+  toolName: TieZhiYellow
+  mass: 0.5
+  drag: 0
+  angularDrag: 0.05
+  toolModel: {fileID: 0}
+  isLightFlash: 1
+  isShowBody: 1
+  isLightAll: 1
+  flashFrequency: 0.5
+  lightObjNames: []
+  lightMat: {fileID: 2100000, guid: 7a402a6b78d31bd4bb1e4a13d4973388, type: 2}
+  toolBasic: {fileID: 0}
+  catchFlags: 77
+  handPosition: {x: -0.0076, y: -0.0148, z: -0.064}
+  handAngle: {x: 0, y: 0, z: 0}
+  isSetCatchHighlight: 1
+  isCatchHighlight: 0
+  isSetTriggerPose: 0
+  triggerPositon: {x: 0, y: 0, z: 0}
+  triggerAngle: {x: 0, y: 0, z: 0}
+  isSetInitCanHover: 0
+  isInitCanHover: 0
+  isSetInitCanCatch: 0
+  isInitCanCatch: 0
+  isSetInitKinematic: 0
+  isInitKinematic: 0
+  isSetInitHide: 0
+  isInitHide: 0
+  isSetInitHighlight: 0
+  isInitHighlight: 0
+  isSetInitScaleSize: 1
+  InitScaleSize: {x: 3.5, y: 3.5, z: 3.5}
+  isSetInitPose: 1
+  InitPosition: {x: -0.00280666, y: 0.000356555, z: -0.03900457}
+  InitAngle: {x: 0, y: -180, z: 0}
+  putList: []
+  indexAoCao: 0

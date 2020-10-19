@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 458a62b3cfef3cb4ca683a84d06c96bc, type: 3}
+  m_Name: GoalToggleLuoSuan_0
+  m_EditorClassIdentifier: 
+  goalName: 
+  goalMode: 0
+  priority: 0
+  goalKey: 
+  dynamicConfs: []
+  goalTrainingStartAudioKeys: []
+  goalTrainingErrorAudioKeys: []
+  goalTrainingSuccessHighlightTools: []
+  goalTrainingErrorHighlightTools: []
+  goalExaminationStartAudioKeys: []
+  goalExaminationErrorAudioKeys: []
+  goalExaminationSuccessHighlightTools: []
+  goalExaminationErrorHighlightTools: []
+  isNecessaryGoal: 1
+  goalTeachingStartAudioKeys: []
+  playDeltTime: 0
+  initState: 0
+  endState: 1
+  luosuanTool: {fileID: 11400000, guid: 37f9ad6255937ef439adba5b14fe6254, type: 2}
+  banshou: {fileID: 11400000, guid: b7e08fce4442c8b44bff8ea31cb432f9, type: 2}
+  targetAngle: 720
+  direct: 1

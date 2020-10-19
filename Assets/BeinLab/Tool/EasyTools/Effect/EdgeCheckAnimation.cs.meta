@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3565ff9da7e3ab6428a230a9ec25117c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - waveTexture: {fileID: 2800000, guid: ba7d6c56eb8d88541ba95b2a88792f93, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

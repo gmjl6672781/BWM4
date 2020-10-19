@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <SystemSettingsConf>
+    <DefaultSetting PriKey="DefaultSetting" ServerURL="https://training1.bmw.com.cn/BMWTAP/emailConfirmation/checkUser" LanguageIndex="0" NormalScore="70" LoginUrl="https://testjoylearning.bmw.com.cn:9500/auth/login" ReqUserUrl="https://testjoylearning.bmw.com.cn:9500/learning/otherinfo/vr/personalDetails" SendResultUrl="https://testjoylearning.bmw.com.cn:9500/learning/otherinfo/vr/examination" ReqHistroyUrl="https://testjoylearning.bmw.com.cn:9500/learning/otherinfo/vr/history" Size="4" IsFoceLogin="False" UserName="ta.ta" Token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI0IiwiaWF0IjoxNTc4NjMzODEzLCJleHAiOjE1NzkyMzg2MTN9.bz5QApLg1VJYmyZh01QNApuvelQbnbNqo5GjCc8KcpCSsZAwS8AgZgCFNlYfYGQLh_WXFuuXj9c9vGIGmXD_jQ" VrName="技术培训_新能源_⾼压安全强化及G38PHEV电池模组拆装" />
+  </SystemSettingsConf>
+</Config>

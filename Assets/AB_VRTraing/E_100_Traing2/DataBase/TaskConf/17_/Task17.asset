@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c45a8f43e4676f4fb6bb535e43d49d0, type: 3}
+  m_Name: Task17
+  m_EditorClassIdentifier: 
+  parent: {fileID: 11400000, guid: e01b7e0c0fdc290469930025e9edb40d, type: 2}
+  child: {fileID: 0}
+  littleBrother: {fileID: 0}
+  oldBrother: {fileID: 0}
+  isRead: 0
+  taskName: "\u7D27\u56FA\u9AD8\u538B\u7EBF\u675F"
+  index: 43
+  keyTitle: 
+  keyTip: 
+  isCanRecord: 0
+  isPass: 0
+  score: 0
+  taskType: 1
+  taskGoals:
+  - {fileID: 11400000, guid: ba81b40948cb75348970da5a908584ff, type: 2}
+  - {fileID: 11400000, guid: e1f71fa5bad15a74c8ebf4ca15a2f280, type: 2}
+  taskTools:
+  - {fileID: 11400000, guid: acf20db8f44b88e4cb2af24c04c0d85c, type: 2}
+  - {fileID: 11400000, guid: 97030603878842f488442c27c19a2531, type: 2}
+  - {fileID: 11400000, guid: 03911f84493417843a3d1003391700dc, type: 2}
+  - {fileID: 11400000, guid: 33df7823c976b744c9466de395322e64, type: 2}
+  - {fileID: 11400000, guid: 5784df55c05f42245b8068cca24dac76, type: 2}
+  dynamicConfs: []
+  delayTimeStartToDoing: 3
+  delayTimeToStart: 1
+  isPlayAudioSuccessTask: 1
+  isPlayAudioOnError: 1
+  audioOnErrorKeys: []
+  sceneAudioKeys: []
+  isJumpBigOnGoalError: 1
+  isRePlayStartAudio: 1
+  isPlayDynOnTaskError: 0
+  errorTaskDynamics: []
+  isAutoPopQuest: 0
+  watieTime: 10
+  isJustPlayAudio: 0
+  isCanPopDlg: 1
+  judgementDlgConf: {fileID: 0}

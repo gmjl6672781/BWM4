@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c45a8f43e4676f4fb6bb535e43d49d0, type: 3}
+  m_Name: Task20
+  m_EditorClassIdentifier: 
+  parent: {fileID: 11400000, guid: d46734c477b8d6c4fbe873a54483b969, type: 2}
+  child: {fileID: 0}
+  littleBrother: {fileID: 0}
+  oldBrother: {fileID: 11400000, guid: d0b2c97f82a27d54295f08f84ef33c60, type: 2}
+  isRead: 0
+  taskName: "\u5B89\u88C5\u76D6\u7F69\u524D\uFF0C\u5E94\u68C0\u67E5\u5DE5\u5177\u662F\u5426\u9057\u6F0F\u5728\u7535\u6C60\u5185"
+  index: 49
+  keyTitle: 
+  keyTip: T067
+  isCanRecord: 0
+  score: 0
+  traingScore: 5
+  examScore: 10
+  taskType: 0
+  taskGoals:
+  - {fileID: 11400000, guid: 53f6333f36a44e742b4fed89c72a46cc, type: 2}
+  taskTools:
+  - {fileID: 11400000, guid: dd23fd198f287bc40bf94be3a647044b, type: 2}
+  - {fileID: 11400000, guid: 7cbd38eb86ce57b41abe7b25c9c6a0d1, type: 2}
+  - {fileID: 11400000, guid: 05b67b8d837930c4c994050a957b906d, type: 2}
+  - {fileID: 11400000, guid: 9343ca21d5096fa459ce430fc8425d89, type: 2}
+  - {fileID: 11400000, guid: 326d747d4950a0d408ba97d82a826ed5, type: 2}
+  - {fileID: 11400000, guid: 54c40c3d98f044e449e17481b1804e80, type: 2}
+  - {fileID: 11400000, guid: 80a914ebd606bf54eabfe9f7dae856b8, type: 2}
+  - {fileID: 11400000, guid: 4f7ff5292893d144a9a274617cf27191, type: 2}
+  - {fileID: 11400000, guid: 3f07c6837b3873442bbc45cfaaf8248e, type: 2}
+  - {fileID: 11400000, guid: 4be7582699b768b4d8782c5e208a4db0, type: 2}
+  - {fileID: 11400000, guid: b74bec6f8268f7b498cd4ca0eb784081, type: 2}
+  - {fileID: 11400000, guid: 408d3e4e2ebd01a4d8ea667b4ac95b25, type: 2}
+  dynamicConfs: []
+  delayTimeStartToDoing: 3
+  delayTimeToStart: 1
+  isPlayAudioSuccessTask: 1
+  isPlayAudioOnError: 1
+  audioOnErrorKeys: []
+  sceneAudioKeys:
+  - T1067
+  isJumpBigOnGoalError: 1
+  isRePlayStartAudio: 1
+  isPlayDynOnTaskError: 0
+  errorTaskDynamics: []
+  isAutoPopQuest: 0
+  watieTime: 10
+  isJustPlayAudio: 0
+  reDoTime: 10
+  errorSound: -1
+  isCanPopDlg: 1
+  judgementDlgConf: {fileID: 0}
+  isForceShow: 0

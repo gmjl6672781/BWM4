@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82a638e04e60e6e439e77013c681aa22, type: 3}
+  m_Name: 06_BaiBanBi
+  m_EditorClassIdentifier: 
+  toolConf: {fileID: 11400000, guid: bd81e73f302883a47b94805a0a5971bf, type: 2}
+  isSetCanHover: 0
+  isCanHover: 0
+  isSetCanCatch: 0
+  isCanCatch: 0
+  isSetKinematic: 0
+  isKinematic: 0
+  isSetHighlight: 0
+  isHighlight: 0
+  isSetHide: 0
+  isHide: 0
+  isSetScaleSize: 0
+  scaleSize: {x: 0, y: 0, z: 0}
+  isSetPose: 0
+  Position: {x: 0, y: 0, z: 0}
+  Angle: {x: 0, y: 0, z: 0}

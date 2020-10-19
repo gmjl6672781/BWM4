@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cb8d8840bd59c3468e97bf8b84a738e, type: 3}
+  m_Name: 17_GoalJinGuXianShu2
+  m_EditorClassIdentifier: 
+  goalName: "\u7D27\u56FA\u9AD8\u538B\u7EBF\u675F1"
+  goalMode: 1
+  priority: 0
+  goalKey: 
+  dynamicConfs: []
+  goalTrainingStartAudioKeys: []
+  goalTrainingErrorAudioKeys: []
+  goalTrainingSuccessHighlightTools: []
+  goalTrainingErrorHighlightTools: []
+  goalExaminationStartAudioKeys: []
+  goalExaminationErrorAudioKeys: []
+  goalExaminationSuccessHighlightTools: []
+  goalExaminationErrorHighlightTools: []
+  isNecessaryGoal: 1
+  goalTeachingStartAudioKeys: []
+  playDeltTime: 0
+  toolZhaDaiLine: {fileID: 11400000, guid: 5055cb2cec88c68438be5921d75b58a1, type: 2}
+  toolZhaDaiCircle: {fileID: 11400000, guid: 09be1ae7a1d3b494bb4f6652e0051850, type: 2}
+  toolZhaDaiCircleFlag: {fileID: 11400000, guid: 303667a151d3f6a4ab0ff137c5d948ee,
+    type: 2}

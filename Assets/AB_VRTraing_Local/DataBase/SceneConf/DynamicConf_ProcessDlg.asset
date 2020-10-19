@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bddf76f44ea254b48ab88e757c6ea3de, type: 3}
+  m_Name: DynamicConf_ProcessDlg
+  m_EditorClassIdentifier: 
+  gameDynamicConf: {fileID: 11400000, guid: 5de6343b8dbf9254ca86172ca06163d7, type: 2}
+  isForeceCreate: 1
+  delayTime: 0
+  isHideOnDelay: 0
+  showTime: 0
+  isAutoDestroy: 0
+  isAutoHide: 0
+  isLoop: 0
+  isResetWorld: 0
+  position: {x: 0, y: 0, z: 0}
+  angle: {x: 0, y: 0, z: 0}
+  scale: {x: 1, y: 1, z: 1}
+  isDelOnChangeList: 1
+  isStopOnChangeList: 1

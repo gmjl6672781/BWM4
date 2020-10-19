@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b563d4f5d9012044b147d7379eec1b9, type: 3}
+  m_Name: DynamicActionListConf_0
+  m_EditorClassIdentifier: 
+  dynamicBaseList:
+  - {fileID: 11400000, guid: c279baef281978243b63d96d69f61d5f, type: 2}
+  loop: 1
+  showTime: 0
+  isMainAction: 0

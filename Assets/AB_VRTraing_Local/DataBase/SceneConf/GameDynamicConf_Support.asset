@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4e7ab9cd1efbcd498c1ffe6a105d3fe, type: 3}
+  m_Name: GameDynamicConf_Support
+  m_EditorClassIdentifier: 
+  nodeConf: {fileID: 11400000, guid: 2e3a4b8c4ba689c40862e6cded90bd42, type: 2}
+  dynamicName: CheckSupport
+  prefabPath: beinlab/fengyunar/codes4.0/ui/checksupportdlg/checksupportdlg.prefab
+  isLoadSyn: 0
+  isDelOnReset: 1
+  localPrefab: {fileID: 1832558938098638, guid: 3dabd383d5c0b0b46af1b6b96294866c,
+    type: 3}
+  prefab: {fileID: 1832558938098638, guid: 3dabd383d5c0b0b46af1b6b96294866c, type: 3}

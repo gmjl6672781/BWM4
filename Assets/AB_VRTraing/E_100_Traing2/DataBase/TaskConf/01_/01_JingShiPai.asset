@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a66fa957752d2bf4f8ccb12176cbc5b8, type: 3}
+  m_Name: 01_JingShiPai
+  m_EditorClassIdentifier: 
+  englishTextureWrite: {fileID: 2800000, guid: ffecec8ad32196e4eb4a26594b05ccd0, type: 3}
+  englishTextureNull: {fileID: 2800000, guid: 342931946c939af4882421b760891599, type: 3}
+  chineseTextureWrite: {fileID: 2800000, guid: de76917900488f84f87681d9dc3bd96b, type: 3}
+  chineseTextureNull: {fileID: 2800000, guid: 899b3b51374160b499b3b9cf345f753a, type: 3}

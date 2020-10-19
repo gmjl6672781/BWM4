@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c45a8f43e4676f4fb6bb535e43d49d0, type: 3}
+  m_Name: Task16_1
+  m_EditorClassIdentifier: 
+  parent: {fileID: 11400000, guid: e885a443e704a0d42b1e5e7322ee7dc7, type: 2}
+  child: {fileID: 0}
+  littleBrother: {fileID: 11400000, guid: 366f346386fb23749b792e840fa157db, type: 2}
+  oldBrother: {fileID: 0}
+  isRead: 0
+  taskName: "\u9009\u62E9\u9898"
+  index: 40
+  keyTitle: 
+  keyTip: 
+  isCanRecord: 0
+  score: 0
+  traingScore: 5
+  examScore: 10
+  taskType: 0
+  taskGoals:
+  - {fileID: 11400000, guid: 23075f71c5819c94ebdfd8d014ff53d8, type: 2}
+  taskTools: []
+  dynamicConfs: []
+  delayTimeStartToDoing: 3
+  delayTimeToStart: 3
+  isPlayAudioSuccessTask: 0
+  isPlayAudioOnError: 1
+  audioOnErrorKeys: []
+  sceneAudioKeys: []
+  isJumpBigOnGoalError: 1
+  isRePlayStartAudio: 1
+  isPlayDynOnTaskError: 0
+  errorTaskDynamics: []
+  isAutoPopQuest: 0
+  watieTime: 10
+  isJustPlayAudio: 0
+  reDoTime: 10
+  errorSound: -1
+  TaskOverDynamicConf: []
+  isCanPopDlg: 0
+  judgementDlgConf: {fileID: 0}
+  isForceShow: 0

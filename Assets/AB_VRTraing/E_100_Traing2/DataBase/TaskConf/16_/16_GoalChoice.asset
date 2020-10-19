@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f81db7881335e44c98ca791007b4173, type: 3}
+  m_Name: 16_GoalChoice
+  m_EditorClassIdentifier: 
+  goalName: 
+  goalMode: 0
+  priority: 0
+  goalKey: 
+  dynamicConfs: []
+  goalTrainingStartAudioKeys:
+  - T1056
+  goalTrainingErrorAudioKeys: []
+  goalTrainingSuccessHighlightTools:
+  - toolConf: {fileID: 11400000, guid: 3b4caf15024ef344880e0531b953528d, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: 5f8cbe4950bf71e499bb9f2d7278073e, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: 7375ec288f4b8d64bad1952e990c2170, type: 2}
+    isHighlight: 1
+  goalTrainingErrorHighlightTools:
+  - toolConf: {fileID: 11400000, guid: 3b4caf15024ef344880e0531b953528d, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: 5f8cbe4950bf71e499bb9f2d7278073e, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: 7375ec288f4b8d64bad1952e990c2170, type: 2}
+    isHighlight: 1
+  goalExaminationStartAudioKeys:
+  - T1056
+  goalExaminationErrorAudioKeys: []
+  goalExaminationSuccessHighlightTools:
+  - toolConf: {fileID: 11400000, guid: 3b4caf15024ef344880e0531b953528d, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: 5f8cbe4950bf71e499bb9f2d7278073e, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: 7375ec288f4b8d64bad1952e990c2170, type: 2}
+    isHighlight: 1
+  goalExaminationErrorHighlightTools:
+  - toolConf: {fileID: 11400000, guid: 3b4caf15024ef344880e0531b953528d, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: 5f8cbe4950bf71e499bb9f2d7278073e, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: 7375ec288f4b8d64bad1952e990c2170, type: 2}
+    isHighlight: 1
+  isNecessaryGoal: 0
+  goalTeachingStartAudioKeys: []
+  playDeltTime: 0
+  choiceQuestionConf: {fileID: 11400000, guid: 331ef1898452bce41a3f9c27d46ac94a, type: 2}

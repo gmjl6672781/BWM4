@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39469f1349f535a4dbf52d94e56e6315, type: 3}
+  m_Name: GoalSelectionModelConf_0
+  m_EditorClassIdentifier: 
+  goalName: Select
+  goalMode: 0
+  priority: 0
+  goalKey: 
+  dynamicConfs:
+  - {fileID: 11400000, guid: 2a29cfe6689b3684aaa47e2f6467b17f, type: 2}
+  goalTrainingStartAudioKeys:
+  - T1008
+  - T1009
+  - T1010
+  goalTrainingErrorAudioKeys: []
+  goalTrainingSuccessHighlightTools: []
+  goalTrainingErrorHighlightTools: []
+  goalExaminationStartAudioKeys:
+  - T1008
+  - T1009
+  - T1010
+  goalExaminationErrorAudioKeys: []
+  goalExaminationSuccessHighlightTools: []
+  goalExaminationErrorHighlightTools: []
+  isNecessaryGoal: 1
+  goalTeachingStartAudioKeys:
+  - T1008
+  playDeltTime: 0

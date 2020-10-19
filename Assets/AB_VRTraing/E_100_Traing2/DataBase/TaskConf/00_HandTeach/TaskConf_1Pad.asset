@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c45a8f43e4676f4fb6bb535e43d49d0, type: 3}
+  m_Name: TaskConf_1Pad
+  m_EditorClassIdentifier: 
+  parent: {fileID: 0}
+  child: {fileID: 0}
+  littleBrother: {fileID: 11400000, guid: 9fa4236feba96fe469b324dfb835a16f, type: 2}
+  oldBrother: {fileID: 0}
+  taskName: Pad
+  index: 0
+  taskGoals:
+  - {fileID: 11400000, guid: d10792f5e3810954d8308d60714d7c69, type: 2}
+  TaskTools: []
+  dynamicConfs: []
+  delayTimeStartToDoing: 1
+  delayTimeCurrentToNext: 4
+  isPlayAudioSuccessTask: 1

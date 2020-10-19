@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d77278b8f80c0a409cd53436db87efa, type: 3}
+  m_Name: GoalAutoPosition_22_JiLunBanShou
+  m_EditorClassIdentifier: 
+  goalName: 
+  goalMode: 0
+  priority: 0
+  isAutoPlayStartAudio: 1
+  isAutoHighlightStartTool: 1
+  goalKey: 
+  goalTrainingStartAudioKeys: []
+  goalTrainingErrorAudioKeys: []
+  goalTrainingStartHighlightTools: []
+  goalExaminationStartAudioKeys: []
+  goalExaminationErrorAudioKeys: []
+  goalExaminationStartHighlightTools: []
+  goalTeachingStartAudioKeys: []
+  playDeltTime: 0
+  isFinalGoal: 1
+  autoPosition_Local: {x: -0.7109013, y: 1.06, z: 8.287702}
+  autoRotation_Local: {x: 0, y: 90, z: -90}
+  GameObjs: {fileID: 11400000, guid: b7e08fce4442c8b44bff8ea31cb432f9, type: 2}
+  fatherName: ToolRoot
+  isKinematic: 1

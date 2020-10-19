@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 266469454c8efac45a8363c107c3125a, type: 3}
+  m_Name: 10_DianChiCube
+  m_EditorClassIdentifier: 
+  toolConf: {fileID: 11400000, guid: 32213215d640bec42b6702775fa5a8cd, type: 2}
+  isSetStartCanHover: 0
+  isStartCanHover: 0
+  isSetStartCanCatch: 0
+  isStartCanCatch: 0
+  isSetStartKinematic: 0
+  isStartKinematic: 0
+  isSetStartHide: 1
+  isStartHide: 0
+  isSetStartHighlight: 1
+  isStartHighlight: 1
+  isSetStartScaleSize: 0
+  startScaleSize: {x: 0, y: 0, z: 0}
+  isSetStartPose: 0
+  StartPosition: {x: 0.1766572, y: 0.8268919, z: 4.729879}
+  StartAngle: {x: 0, y: 0, z: 0}
+  isSetStartCollider: 0
+  isStartCollider: 0
+  isSetEndCanHover: 0
+  isEndCanHover: 0
+  isSetEndCanCatch: 0
+  isEndCanCatch: 0
+  isSetEndKinematic: 0
+  isEndKinematic: 0
+  isSetEndHide: 0
+  isEndHide: 0
+  isSetEndHighlight: 1
+  isEndHighlight: 0
+  isSetEndScaleSize: 0
+  endScaleSize: {x: 0, y: 0, z: 0}
+  isSetEndPose: 0
+  EndPosition: {x: 1.973001, y: 1.091892, z: 8.436004}
+  EndAngle: {x: 0, y: 90, z: 0}
+  isSetEndCollider: 0
+  isEndCollider: 0
+  aocaoStartIndex: 0
+  aocaoEndIndex: 2
+  isSetAoCaoStart: 1
+  isAoCaoStart: 1
+  isSetAoCaoEnd: 1
+  isAoCaoEnd: 1
+  activeMode: -1

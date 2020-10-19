@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5387dfdef998a874fbba80a975f3e21f, type: 3}
+  m_Name: 21_GoalOpenDoor
+  m_EditorClassIdentifier: 
+  goalName: "\u5F00\u95E8"
+  goalMode: 0
+  priority: 5
+  isAutoPlayStartAudio: 1
+  isAutoHighlightStartTool: 1
+  goalKey: 
+  goalTrainingStartAudioKeys: []
+  goalTrainingErrorAudioKeys:
+  - T1070
+  goalTrainingStartHighlightTools: []
+  goalExaminationStartAudioKeys: []
+  goalExaminationErrorAudioKeys:
+  - T1070
+  goalExaminationStartHighlightTools: []
+  goalTeachingStartAudioKeys: []
+  playDeltTime: 0
+  isFinalGoal: 0
+  toolDoor: {fileID: 11400000, guid: b1ebf5897e27f02429f247a8b2d5815d, type: 2}
+  earlyGoals:
+  - {fileID: 11400000, guid: 9f04468237c92a54caad404b8a929ab4, type: 2}
+  - {fileID: 11400000, guid: c4e6ffff2d44f5340b9af4539ffb620e, type: 2}
+  - {fileID: 11400000, guid: cc755346a461abf4f9999f3bb0af1b84, type: 2}
+  errorActionDyn:
+  - {fileID: 11400000, guid: 566b90b94a75ff54fb4670e156735e39, type: 2}
+  - {fileID: 11400000, guid: 27a6085bc13bf0d429afa71a8d064acb, type: 2}

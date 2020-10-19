@@ -1,0 +1,1154 @@
+fileFormatVersion: 2
+guid: dfb22416fddd6224d8917d02fbf03a91
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Customer_Ankle_L
+    100002: Customer_Ankle_R
+    100004: Customer_Buttock_M
+    100006: Customer_Chest_M
+    100008: Customer_Elbow_L
+    100010: Customer_Elbow_R
+    100012: Customer_ElbowPart1_L
+    100014: Customer_ElbowPart1_R
+    100016: Customer_Eye_L
+    100018: Customer_Eye_R
+    100020: Customer_EyeEnd_L
+    100022: Customer_EyeEnd_R
+    100024: Customer_Head_M
+    100026: Customer_HeadEnd_M
+    100028: Customer_Hip_L
+    100030: Customer_Hip_R
+    100032: Customer_IndexFinger1_L
+    100034: Customer_IndexFinger1_R
+    100036: Customer_IndexFinger2_L
+    100038: Customer_IndexFinger2_R
+    100040: Customer_IndexFinger3_L
+    100042: Customer_IndexFinger3_R
+    100044: Customer_IndexFinger4_L
+    100046: Customer_IndexFinger4_R
+    100048: Customer_Jaw_M
+    100050: Customer_JawEnd_M
+    100052: Customer_Knee_L
+    100054: Customer_Knee_R
+    100056: Customer_MiddleFinger1_L
+    100058: Customer_MiddleFinger1_R
+    100060: Customer_MiddleFinger2_L
+    100062: Customer_MiddleFinger2_R
+    100064: Customer_MiddleFinger3_L
+    100066: Customer_MiddleFinger3_R
+    100068: Customer_MiddleFinger4_L
+    100070: Customer_MiddleFinger4_R
+    100072: Customer_Model_arms
+    100074: Customer_Model_belt
+    100076: Customer_Model_eye_l
+    100078: Customer_Model_eye_r
+    100080: Customer_Model_Grp
+    100082: Customer_Model_head
+    100084: Customer_Model_necktie
+    100086: Customer_Model_shirt
+    100088: Customer_Model_shoes
+    100090: Customer_Neck_M
+    100092: Customer_PinkyFinger1_L
+    100094: Customer_PinkyFinger1_R
+    100096: Customer_PinkyFinger2_L
+    100098: Customer_PinkyFinger2_R
+    100100: Customer_PinkyFinger3_L
+    100102: Customer_PinkyFinger3_R
+    100104: Customer_PinkyFinger4_L
+    100106: Customer_PinkyFinger4_R
+    100108: Customer_RingFinger1_L
+    100110: Customer_RingFinger1_R
+    100112: Customer_RingFinger2_L
+    100114: Customer_RingFinger2_R
+    100116: Customer_RingFinger3_L
+    100118: Customer_RingFinger3_R
+    100120: Customer_RingFinger4_L
+    100122: Customer_RingFinger4_R
+    100124: Customer_Root_M
+    100126: Customer_Scapula_L
+    100128: Customer_Scapula_R
+    100130: Customer_Shoulder_L
+    100132: Customer_Shoulder_R
+    100134: Customer_ShoulderPart1_L
+    100136: Customer_ShoulderPart1_R
+    100138: Customer_ShoulderPart2_L
+    100140: Customer_ShoulderPart2_R
+    100142: Customer_Spine1_M
+    100144: Customer_ThumbFinger1_L
+    100146: Customer_ThumbFinger1_R
+    100148: Customer_ThumbFinger2_L
+    100150: Customer_ThumbFinger2_R
+    100152: Customer_ThumbFinger3_L
+    100154: Customer_ThumbFinger3_R
+    100156: Customer_ThumbFinger4_L
+    100158: Customer_ThumbFinger4_R
+    100160: Customer_Toes_L
+    100162: Customer_Toes_R
+    100164: Customer_ToesEnd_L
+    100166: Customer_ToesEnd_R
+    100168: Customer_Wrist_L
+    100170: Customer_Wrist_R
+    100172: //RootNode
+    400000: Customer_Ankle_L
+    400002: Customer_Ankle_R
+    400004: Customer_Buttock_M
+    400006: Customer_Chest_M
+    400008: Customer_Elbow_L
+    400010: Customer_Elbow_R
+    400012: Customer_ElbowPart1_L
+    400014: Customer_ElbowPart1_R
+    400016: Customer_Eye_L
+    400018: Customer_Eye_R
+    400020: Customer_EyeEnd_L
+    400022: Customer_EyeEnd_R
+    400024: Customer_Head_M
+    400026: Customer_HeadEnd_M
+    400028: Customer_Hip_L
+    400030: Customer_Hip_R
+    400032: Customer_IndexFinger1_L
+    400034: Customer_IndexFinger1_R
+    400036: Customer_IndexFinger2_L
+    400038: Customer_IndexFinger2_R
+    400040: Customer_IndexFinger3_L
+    400042: Customer_IndexFinger3_R
+    400044: Customer_IndexFinger4_L
+    400046: Customer_IndexFinger4_R
+    400048: Customer_Jaw_M
+    400050: Customer_JawEnd_M
+    400052: Customer_Knee_L
+    400054: Customer_Knee_R
+    400056: Customer_MiddleFinger1_L
+    400058: Customer_MiddleFinger1_R
+    400060: Customer_MiddleFinger2_L
+    400062: Customer_MiddleFinger2_R
+    400064: Customer_MiddleFinger3_L
+    400066: Customer_MiddleFinger3_R
+    400068: Customer_MiddleFinger4_L
+    400070: Customer_MiddleFinger4_R
+    400072: Customer_Model_arms
+    400074: Customer_Model_belt
+    400076: Customer_Model_eye_l
+    400078: Customer_Model_eye_r
+    400080: Customer_Model_Grp
+    400082: Customer_Model_head
+    400084: Customer_Model_necktie
+    400086: Customer_Model_shirt
+    400088: Customer_Model_shoes
+    400090: Customer_Neck_M
+    400092: Customer_PinkyFinger1_L
+    400094: Customer_PinkyFinger1_R
+    400096: Customer_PinkyFinger2_L
+    400098: Customer_PinkyFinger2_R
+    400100: Customer_PinkyFinger3_L
+    400102: Customer_PinkyFinger3_R
+    400104: Customer_PinkyFinger4_L
+    400106: Customer_PinkyFinger4_R
+    400108: Customer_RingFinger1_L
+    400110: Customer_RingFinger1_R
+    400112: Customer_RingFinger2_L
+    400114: Customer_RingFinger2_R
+    400116: Customer_RingFinger3_L
+    400118: Customer_RingFinger3_R
+    400120: Customer_RingFinger4_L
+    400122: Customer_RingFinger4_R
+    400124: Customer_Root_M
+    400126: Customer_Scapula_L
+    400128: Customer_Scapula_R
+    400130: Customer_Shoulder_L
+    400132: Customer_Shoulder_R
+    400134: Customer_ShoulderPart1_L
+    400136: Customer_ShoulderPart1_R
+    400138: Customer_ShoulderPart2_L
+    400140: Customer_ShoulderPart2_R
+    400142: Customer_Spine1_M
+    400144: Customer_ThumbFinger1_L
+    400146: Customer_ThumbFinger1_R
+    400148: Customer_ThumbFinger2_L
+    400150: Customer_ThumbFinger2_R
+    400152: Customer_ThumbFinger3_L
+    400154: Customer_ThumbFinger3_R
+    400156: Customer_ThumbFinger4_L
+    400158: Customer_ThumbFinger4_R
+    400160: Customer_Toes_L
+    400162: Customer_Toes_R
+    400164: Customer_ToesEnd_L
+    400166: Customer_ToesEnd_R
+    400168: Customer_Wrist_L
+    400170: Customer_Wrist_R
+    400172: //RootNode
+    2100000: Customer_Hand1
+    2100002: Customer_Body1
+    2100004: Customer_Arms1
+    4300000: Customer_Model_eye_l
+    4300002: Customer_Model_eye_r
+    4300004: Customer_Model_head
+    4300006: Customer_Model_shoes
+    4300008: Customer_Model_shirt
+    4300010: Customer_Model_necktie
+    4300012: Customer_Model_arms
+    4300014: Customer_Model_belt
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Customer_Model_arms
+    13700002: Customer_Model_belt
+    13700004: Customer_Model_eye_l
+    13700006: Customer_Model_eye_r
+    13700008: Customer_Model_head
+    13700010: Customer_Model_necktie
+    13700012: Customer_Model_shirt
+    13700014: Customer_Model_shoes
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Customer_Chest_M' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'Customer_Scapula_R' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Customer_ShoulderPart1_R'
+      has translation animation that will be discarded.\n\t'Customer_ShoulderPart2_R'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Customer_ElbowPart1_R'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Customer_Head_M'
+      has translation animation that will be discarded.\n\t'Customer_Scapula_L' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Customer_ShoulderPart2_L'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Customer_ElbowPart1_L'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Customer_Buttock_M
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Hip_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Hip_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Knee_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Knee_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Ankle_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Ankle_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Spine1_M
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Neck_M
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Head_M
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Shoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Shoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_ShoulderPart1_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_ShoulderPart1_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Elbow_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Elbow_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Wrist_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Wrist_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Toes_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Toes_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Eye_L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_Eye_R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_ThumbFinger1_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_ThumbFinger2_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_ThumbFinger3_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_IndexFinger1_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_IndexFinger2_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_IndexFinger3_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_MiddleFinger1_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_MiddleFinger2_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_MiddleFinger3_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_RingFinger1_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_RingFinger2_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_RingFinger3_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_PinkyFinger1_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_PinkyFinger2_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_PinkyFinger3_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_ThumbFinger1_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_ThumbFinger2_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_ThumbFinger3_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_IndexFinger1_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_IndexFinger2_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_IndexFinger3_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_MiddleFinger1_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_MiddleFinger2_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_MiddleFinger3_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_RingFinger1_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_RingFinger2_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_RingFinger3_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_PinkyFinger1_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_PinkyFinger2_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Customer_PinkyFinger3_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: People_new(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_Model_Grp
+      parentName: People_new(Clone)
+      position: {x: 3.5892422, y: -0.012141391, z: -3.7335086}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_Model_eye_l
+      parentName: Customer_Model_Grp
+      position: {x: -3.5892422, y: 0.012141391, z: 3.7335086}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_Model_eye_r
+      parentName: Customer_Model_Grp
+      position: {x: -3.5892422, y: 0.012141391, z: 3.7335086}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_Model_head
+      parentName: Customer_Model_Grp
+      position: {x: -3.5892422, y: 0.012141391, z: 3.7335086}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_Model_shoes
+      parentName: Customer_Model_Grp
+      position: {x: -3.5892422, y: 0.012141391, z: 3.7335086}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_Model_shirt
+      parentName: Customer_Model_Grp
+      position: {x: -3.5892422, y: 0.012141391, z: 3.7335086}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_Model_necktie
+      parentName: Customer_Model_Grp
+      position: {x: -3.5892422, y: 0.012141391, z: 3.7335086}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_Model_arms
+      parentName: Customer_Model_Grp
+      position: {x: -3.5892422, y: 0.012141391, z: 3.7335086}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_Model_belt
+      parentName: Customer_Model_Grp
+      position: {x: -3.5892422, y: 0.012141391, z: 3.7335086}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_Root_M
+      parentName: People_new(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_Buttock_M
+      parentName: Customer_Root_M
+      position: {x: 0, y: 0.934738, z: 0.0060064793}
+      rotation: {x: 0.52159935, y: -0.47742453, z: -0.52159935, w: 0.47742453}
+      scale: {x: 1.0000027, y: 1.0000038, z: 1.0000026}
+    - name: Customer_Spine1_M
+      parentName: Customer_Buttock_M
+      position: {x: -0.17381808, y: 0, z: 0}
+      rotation: {x: 0.000000029802319, y: -0.000000029802319, z: 0.068587326, w: 0.99764514}
+      scale: {x: 1.0000018, y: 1.0000006, z: 1.0000015}
+    - name: Customer_Chest_M
+      parentName: Customer_Spine1_M
+      position: {x: -0.18894584, y: 0, z: 0}
+      rotation: {x: -0.000000024880926, y: 0.000000034019052, z: 0.08517484, w: 0.996366}
+      scale: {x: 1.0000013, y: 1.0000008, z: 1.0000007}
+    - name: Customer_Scapula_L
+      parentName: Customer_Chest_M
+      position: {x: -0.17642343, y: 0.015842712, z: 0.026977489}
+      rotation: {x: -0.7880661, y: 0.19899426, z: -0.5819936, w: 0.025230221}
+      scale: {x: 1.0000008, y: 1.0000001, z: 1}
+    - name: Customer_Shoulder_L
+      parentName: Customer_Scapula_L
+      position: {x: 0.1745564, y: 0, z: 0}
+      rotation: {x: -0.0035819113, y: -0.006124375, z: 0.13075686, w: -0.99138916}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: Customer_ShoulderPart1_L
+      parentName: Customer_Shoulder_L
+      position: {x: 0.08206903, y: 0, z: 0}
+      rotation: {x: 0.00000024074683, y: 0.121115305, z: -0.011225589, w: 0.992575}
+      scale: {x: 1.0000029, y: 1.0000017, z: 1.0000014}
+    - name: Customer_ShoulderPart2_L
+      parentName: Customer_ShoulderPart1_L
+      position: {x: 0.08206903, y: 0, z: 0}
+      rotation: {x: 0.000000029802315, y: -9.02056e-17, z: 6.984924e-10, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.99999994}
+    - name: Customer_Elbow_L
+      parentName: Customer_ShoulderPart2_L
+      position: {x: 0.08206903, y: 0, z: 0}
+      rotation: {x: 0.0002285226, y: 0.0060314876, z: -0.03202082, w: 0.99946904}
+      scale: {x: 1.0000008, y: 0.9999998, z: 1.0000002}
+    - name: Customer_ElbowPart1_L
+      parentName: Customer_Elbow_L
+      position: {x: 0.13803487, y: 0, z: 0}
+      rotation: {x: 0.0000000020293385, y: 0.000000044812523, z: -0.00000002235173,
+        w: 1}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.0000006}
+    - name: Customer_Wrist_L
+      parentName: Customer_ElbowPart1_L
+      position: {x: 0.13803487, y: 0, z: 0}
+      rotation: {x: -0.0014526029, y: 0.00986111, z: -0.075879216, w: 0.9970673}
+      scale: {x: 1.0000032, y: 1.0000031, z: 1.0000024}
+    - name: Customer_MiddleFinger1_L
+      parentName: Customer_Wrist_L
+      position: {x: 0.0798026, y: 0, z: 0}
+      rotation: {x: 0.013355679, y: 0.024913643, z: -0.07812308, w: -0.9965429}
+      scale: {x: 0.9999992, y: 1.0000004, z: 1.000001}
+    - name: Customer_MiddleFinger2_L
+      parentName: Customer_MiddleFinger1_L
+      position: {x: 0.04997011, y: 0, z: 0}
+      rotation: {x: 0.00031971178, y: 0.0062345066, z: 0.000011520487, w: 0.9999805}
+      scale: {x: 0.9999994, y: 1.0000004, z: 1.0000015}
+    - name: Customer_MiddleFinger3_L
+      parentName: Customer_MiddleFinger2_L
+      position: {x: 0.02653279, y: 0, z: 0}
+      rotation: {x: 0.00046576024, y: -0.005293263, z: -0.000013804225, w: 0.99998593}
+      scale: {x: 1.000001, y: 1.0000008, z: 1.0000006}
+    - name: Customer_MiddleFinger4_L
+      parentName: Customer_MiddleFinger3_L
+      position: {x: 0.027771298, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_ThumbFinger1_L
+      parentName: Customer_Wrist_L
+      position: {x: 0.015279456, y: -0.024960656, z: 0.011093046}
+      rotation: {x: 0.40440267, y: -0.07748154, z: 0.33070478, w: -0.8491699}
+      scale: {x: 1.0000002, y: 0.9999989, z: 1.0000007}
+    - name: Customer_ThumbFinger2_L
+      parentName: Customer_ThumbFinger1_L
+      position: {x: 0.037610937, y: -1.5419062e-10, z: 0}
+      rotation: {x: 0.00000047683693, y: -0.039378352, z: -0.00000077672263, w: 0.99922436}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000015}
+    - name: Customer_ThumbFinger3_L
+      parentName: Customer_ThumbFinger2_L
+      position: {x: 0.02576342, y: 0, z: 0}
+      rotation: {x: -0.000000067439466, y: 0.000000052154046, z: -0.0000000896028,
+        w: 1}
+      scale: {x: 1.0000012, y: 1.0000004, z: 1.0000014}
+    - name: Customer_ThumbFinger4_L
+      parentName: Customer_ThumbFinger3_L
+      position: {x: 0.036934946, y: 0.000000036920994, z: 0.00000002359403}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_IndexFinger1_L
+      parentName: Customer_Wrist_L
+      position: {x: 0.084197074, y: -0.02092794, z: 0.0008742301}
+      rotation: {x: 0.048130807, y: 0.017633306, z: -0.08044165, w: -0.9954404}
+      scale: {x: 0.9999992, y: 1.0000005, z: 1.0000011}
+    - name: Customer_IndexFinger2_L
+      parentName: Customer_IndexFinger1_L
+      position: {x: 0.04112084, y: 0, z: 0}
+      rotation: {x: -0.00000011920925, y: -0.015268337, z: -0.00008913883, w: 0.9998834}
+      scale: {x: 0.99999946, y: 1.0000002, z: 1.0000005}
+    - name: Customer_IndexFinger3_L
+      parentName: Customer_IndexFinger2_L
+      position: {x: 0.020758623, y: 0, z: 0}
+      rotation: {x: -0.01427869, y: 0.01513959, z: 0.00051108917, w: 0.99978334}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000005}
+    - name: Customer_IndexFinger4_L
+      parentName: Customer_IndexFinger3_L
+      position: {x: 0.024973119, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_RingFinger1_L
+      parentName: Customer_Wrist_L
+      position: {x: 0.07607518, y: 0.021680908, z: -0.00061996083}
+      rotation: {x: 0.026571175, y: -0.027599929, z: 0.07745766, w: 0.99625933}
+      scale: {x: 0.999999, y: 1.0000006, z: 1.0000014}
+    - name: Customer_RingFinger2_L
+      parentName: Customer_RingFinger1_L
+      position: {x: 0.046245568, y: 0, z: 0}
+      rotation: {x: -0.0024716833, y: -0.004969738, z: -0.00002237677, w: 0.9999847}
+      scale: {x: 0.9999995, y: 1.0000005, z: 1.0000005}
+    - name: Customer_RingFinger3_L
+      parentName: Customer_RingFinger2_L
+      position: {x: 0.021372203, y: 0, z: 0}
+      rotation: {x: 0.0049426304, y: 0.030864991, z: 0.00006268195, w: 0.9995114}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000006}
+    - name: Customer_RingFinger4_L
+      parentName: Customer_RingFinger3_L
+      position: {x: 0.024977311, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_PinkyFinger1_L
+      parentName: Customer_Wrist_L
+      position: {x: 0.06537518, y: 0.042180914, z: -0.00033429838}
+      rotation: {x: 0.03529941, y: -0.017028773, z: 0.08043566, w: 0.99598897}
+      scale: {x: 0.99999905, y: 1.0000002, z: 1.0000015}
+    - name: Customer_PinkyFinger2_L
+      parentName: Customer_PinkyFinger1_L
+      position: {x: 0.036465548, y: 0, z: 0}
+      rotation: {x: 0.002332143, y: 0.019694796, z: 0.00086407526, w: 0.999803}
+      scale: {x: 0.9999996, y: 1.0000001, z: 1.0000002}
+    - name: Customer_PinkyFinger3_L
+      parentName: Customer_PinkyFinger2_L
+      position: {x: 0.017332189, y: 0, z: 0}
+      rotation: {x: 0.018728979, y: -0.02705226, z: -0.00027050896, w: 0.99945855}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000005}
+    - name: Customer_PinkyFinger4_L
+      parentName: Customer_PinkyFinger3_L
+      position: {x: 0.020169063, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_Scapula_R
+      parentName: Customer_Chest_M
+      position: {x: -0.17642343, y: 0.015842712, z: -0.026977489}
+      rotation: {x: 0.1989943, y: 0.7880661, z: -0.02523025, w: -0.5819936}
+      scale: {x: 1.0000015, y: 1.0000006, z: 1.0000008}
+    - name: Customer_Shoulder_R
+      parentName: Customer_Scapula_R
+      position: {x: -0.1745564, y: 0, z: 0}
+      rotation: {x: 0.00358226, y: 0.0061242855, z: -0.13075607, w: 0.99138916}
+      scale: {x: 1.000001, y: 1.0000014, z: 1.0000011}
+    - name: Customer_ShoulderPart1_R
+      parentName: Customer_Shoulder_R
+      position: {x: -0.08206903, y: 0, z: 0}
+      rotation: {x: -0.000000013504177, y: 0.12111551, z: -0.011226723, w: 0.992575}
+      scale: {x: 1.0000018, y: 1.0000013, z: 1.0000019}
+    - name: Customer_ShoulderPart2_R
+      parentName: Customer_ShoulderPart1_R
+      position: {x: -0.08206903, y: 0, z: 0}
+      rotation: {x: 0.00000009126961, y: -0.00000020861623, z: -0.000000041443858,
+        w: 1}
+      scale: {x: 1.0000013, y: 1.0000013, z: 1.0000011}
+    - name: Customer_Elbow_R
+      parentName: Customer_ShoulderPart2_R
+      position: {x: -0.08206903, y: 0, z: 0}
+      rotation: {x: 0.00022845682, y: 0.006031322, z: -0.03202109, w: 0.999469}
+      scale: {x: 1.0000011, y: 0.9999999, z: 0.9999999}
+    - name: Customer_ElbowPart1_R
+      parentName: Customer_Elbow_R
+      position: {x: -0.13803487, y: 0, z: 0}
+      rotation: {x: 0.00000015837924, y: 0.000000050738976, z: -0.000000059604616,
+        w: 1}
+      scale: {x: 1.000001, y: 1.0000008, z: 1.0000005}
+    - name: Customer_Wrist_R
+      parentName: Customer_ElbowPart1_R
+      position: {x: -0.13803487, y: 0, z: 0}
+      rotation: {x: -0.0014527539, y: 0.009861151, z: -0.07587911, w: 0.9970672}
+      scale: {x: 1.0000015, y: 1.000001, z: 1.0000012}
+    - name: Customer_MiddleFinger1_R
+      parentName: Customer_Wrist_R
+      position: {x: -0.0798026, y: 0, z: 0}
+      rotation: {x: -0.013355777, y: -0.024913605, z: 0.07812159, w: 0.996543}
+      scale: {x: 0.9999988, y: 1.0000005, z: 1.000002}
+    - name: Customer_MiddleFinger2_R
+      parentName: Customer_MiddleFinger1_R
+      position: {x: -0.04997011, y: 0, z: 0}
+      rotation: {x: 0.00031973227, y: 0.0062344843, z: 0.0000115050325, w: 0.99998057}
+      scale: {x: 1.0000014, y: 1.0000005, z: 1.0000002}
+    - name: Customer_MiddleFinger3_R
+      parentName: Customer_MiddleFinger2_R
+      position: {x: -0.02653279, y: 0, z: 0}
+      rotation: {x: 0.00046571967, y: -0.005293391, z: -0.000013828469, w: 0.99998593}
+      scale: {x: 0.99999934, y: 1, z: 0.9999995}
+    - name: Customer_MiddleFinger4_R
+      parentName: Customer_MiddleFinger3_R
+      position: {x: -0.027771298, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_ThumbFinger1_R
+      parentName: Customer_Wrist_R
+      position: {x: -0.015279456, y: 0.024960656, z: -0.011093046}
+      rotation: {x: -0.40440318, y: 0.07747926, z: -0.33070233, w: 0.84917086}
+      scale: {x: 1.0000012, y: 0.9999999, z: 0.99999976}
+    - name: Customer_ThumbFinger2_R
+      parentName: Customer_ThumbFinger1_R
+      position: {x: -0.037610937, y: 1.5418777e-10, z: 0}
+      rotation: {x: 0.00000050663937, y: -0.039371878, z: -0.000001357868, w: 0.99922466}
+      scale: {x: 0.9999997, y: 1.0000001, z: 1.0000004}
+    - name: Customer_ThumbFinger3_R
+      parentName: Customer_ThumbFinger2_R
+      position: {x: -0.02576342, y: 0, z: 0}
+      rotation: {x: -0.000000017700298, y: 0.000000014901158, z: 0.00000014357714,
+        w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1}
+    - name: Customer_ThumbFinger4_R
+      parentName: Customer_ThumbFinger3_R
+      position: {x: -0.036934946, y: -0.000000036920998, z: -0.000000023594026}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_IndexFinger1_R
+      parentName: Customer_Wrist_R
+      position: {x: -0.084197074, y: 0.02092794, z: -0.0008742301}
+      rotation: {x: -0.048130956, y: -0.0176338, z: 0.080443114, w: 0.99544036}
+      scale: {x: 0.99999964, y: 1.0000013, z: 1.0000021}
+    - name: Customer_IndexFinger2_R
+      parentName: Customer_IndexFinger1_R
+      position: {x: -0.04112084, y: 0, z: 0}
+      rotation: {x: 0.000000007450579, y: -0.015268486, z: -0.0000891272, w: 0.9998834}
+      scale: {x: 0.9999996, y: 0.9999995, z: 0.9999997}
+    - name: Customer_IndexFinger3_R
+      parentName: Customer_IndexFinger2_R
+      position: {x: -0.020758623, y: 0, z: 0}
+      rotation: {x: -0.014278585, y: 0.015139549, z: 0.0005110061, w: 0.99978334}
+      scale: {x: 1.000001, y: 1.0000004, z: 1.0000001}
+    - name: Customer_IndexFinger4_R
+      parentName: Customer_IndexFinger3_R
+      position: {x: -0.024973119, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_RingFinger1_R
+      parentName: Customer_Wrist_R
+      position: {x: -0.07607518, y: -0.021680908, z: 0.00061996083}
+      rotation: {x: 0.026571251, y: -0.027599318, z: 0.07745577, w: 0.99625945}
+      scale: {x: 0.9999988, y: 1.0000007, z: 1.000002}
+    - name: Customer_RingFinger2_R
+      parentName: Customer_RingFinger1_R
+      position: {x: -0.046245568, y: 0, z: 0}
+      rotation: {x: -0.002471728, y: -0.0049697342, z: -0.000022347665, w: 0.9999847}
+      scale: {x: 1.0000006, y: 1.0000006, z: 0.99999946}
+    - name: Customer_RingFinger3_R
+      parentName: Customer_RingFinger2_R
+      position: {x: -0.021372203, y: 0, z: 0}
+      rotation: {x: 0.0049426756, y: 0.030864913, z: 0.00006270037, w: 0.99951136}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.000001}
+    - name: Customer_RingFinger4_R
+      parentName: Customer_RingFinger3_R
+      position: {x: -0.024977311, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_PinkyFinger1_R
+      parentName: Customer_Wrist_R
+      position: {x: -0.06537518, y: -0.042180914, z: 0.00033429838}
+      rotation: {x: 0.03529941, y: -0.017027976, z: 0.080430545, w: 0.9959895}
+      scale: {x: 0.9999985, y: 1.0000007, z: 1.0000021}
+    - name: Customer_PinkyFinger2_R
+      parentName: Customer_PinkyFinger1_R
+      position: {x: -0.036465548, y: 0, z: 0}
+      rotation: {x: 0.0023321544, y: 0.019694837, z: 0.00086400856, w: 0.999803}
+      scale: {x: 1.0000008, y: 0.9999998, z: 0.9999994}
+    - name: Customer_PinkyFinger3_R
+      parentName: Customer_PinkyFinger2_R
+      position: {x: -0.017332189, y: 0, z: 0}
+      rotation: {x: 0.018729005, y: -0.027052244, z: -0.00027049505, w: 0.99945855}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.000001}
+    - name: Customer_PinkyFinger4_R
+      parentName: Customer_PinkyFinger3_R
+      position: {x: -0.020169063, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_Neck_M
+      parentName: Customer_Chest_M
+      position: {x: -0.23556471, y: 0, z: 0}
+      rotation: {x: 0.000000034019052, y: 0.00000002488093, z: 0.24550521, w: -0.96939534}
+      scale: {x: 0.99999976, y: 1.0000008, z: 1.0000002}
+    - name: Customer_Head_M
+      parentName: Customer_Neck_M
+      position: {x: -0.08550356, y: 0, z: 0}
+      rotation: {x: -0.000000026359427, y: -0.000000032886735, z: -0.13787012, w: -0.9904503}
+      scale: {x: 1.000001, y: 1.0000011, z: 1.0000008}
+    - name: Customer_Jaw_M
+      parentName: Customer_Head_M
+      position: {x: -0.00975314, y: 0.015053146, z: 0}
+      rotation: {x: 0, y: 0, z: 0.909453, w: -0.41580683}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_JawEnd_M
+      parentName: Customer_Jaw_M
+      position: {x: -0.1025556, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_HeadEnd_M
+      parentName: Customer_Head_M
+      position: {x: -0.1740417, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_Eye_L
+      parentName: Customer_Head_M
+      position: {x: -0.046453178, y: 0.0781337, z: 0.030091766}
+      rotation: {x: 0.0027838163, y: 0.002814734, z: 0.7071124, w: -0.7070902}
+      scale: {x: 1.0000013, y: 1.0000023, z: 1.0000012}
+    - name: Customer_EyeEnd_L
+      parentName: Customer_Eye_L
+      position: {x: -0.01043004, y: 0, z: 0}
+      rotation: {x: -0.13868621, y: -0.0022722934, z: -0.00015833313, w: 0.99033374}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_Eye_R
+      parentName: Customer_Head_M
+      position: {x: -0.046453178, y: 0.0781337, z: -0.030091766}
+      rotation: {x: 0.0027838163, y: 0.002814734, z: 0.7071124, w: -0.7070902}
+      scale: {x: 1.0000013, y: 1.0000023, z: 1.0000012}
+    - name: Customer_EyeEnd_R
+      parentName: Customer_Eye_R
+      position: {x: -0.01043004, y: 0, z: 0}
+      rotation: {x: 0.13868621, y: 0.0022722934, z: -0.00015833313, w: 0.99033374}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_Hip_L
+      parentName: Customer_Buttock_M
+      position: {x: 0.021058474, y: -0.0041640652, z: 0.09100047}
+      rotation: {x: 0.9961258, y: 0.07829301, z: 0.016955165, w: -0.036276966}
+      scale: {x: 1.0000007, y: 1.0000001, z: 1.0000005}
+    - name: Customer_Knee_L
+      parentName: Customer_Hip_L
+      position: {x: 0.39358214, y: 0, z: 0}
+      rotation: {x: -0.000000067055225, y: -0.000000031664968, z: -0.09715049, w: -0.9952698}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000001}
+    - name: Customer_Ankle_L
+      parentName: Customer_Knee_L
+      position: {x: 0.40453073, y: 0, z: 0}
+      rotation: {x: 0.07378521, y: -0.021901185, z: -0.060910117, w: 0.9951714}
+      scale: {x: 1.0000014, y: 1.0000007, z: 1.0000008}
+    - name: Customer_Toes_L
+      parentName: Customer_Ankle_L
+      position: {x: 0.093969524, y: -0.10615015, z: 0}
+      rotation: {x: -0.0026310047, y: -0.0034031412, z: 0.74185866, w: -0.67054254}
+      scale: {x: 1.0000014, y: 1.0000019, z: 1.0000006}
+    - name: Customer_ToesEnd_L
+      parentName: Customer_Toes_L
+      position: {x: 0.0704992, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Customer_Hip_R
+      parentName: Customer_Buttock_M
+      position: {x: 0.021058474, y: -0.0041640652, z: -0.09100047}
+      rotation: {x: -0.078293, y: 0.9961258, z: -0.036276948, w: -0.01695521}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000006}
+    - name: Customer_Knee_R
+      parentName: Customer_Hip_R
+      position: {x: -0.39358214, y: 0, z: 0}
+      rotation: {x: 0.00000007147901, y: -0.000000026077032, z: 0.09715052, w: 0.9952697}
+      scale: {x: 1.0000002, y: 1, z: 0.99999994}
+    - name: Customer_Ankle_R
+      parentName: Customer_Knee_R
+      position: {x: -0.40453073, y: 0, z: 0}
+      rotation: {x: 0.07378526, y: -0.021901177, z: -0.060910184, w: 0.99517137}
+      scale: {x: 1.0000017, y: 1.0000013, z: 1.000002}
+    - name: Customer_Toes_R
+      parentName: Customer_Ankle_R
+      position: {x: -0.093969524, y: 0.10615015, z: 0}
+      rotation: {x: 0.0026309192, y: 0.0034030164, z: -0.7418588, w: 0.6705425}
+      scale: {x: 1.0000011, y: 1.0000005, z: 1.000001}
+    - name: Customer_ToesEnd_R
+      parentName: Customer_Toes_R
+      position: {x: -0.0704992, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

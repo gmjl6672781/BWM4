@@ -1,0 +1,1207 @@
+fileFormatVersion: 2
+guid: d4772cead86f7bd41a0c818737ced66f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Othe1:Pro_Wrench_Rig
+    100004: Othe1:Pro_Wrench_Rig_Root
+    100006: Othe1:Prop_Wrench_Model
+    100008: Othe1:Prop_Wrench_Model_Grp
+    100010: Othe:Engineer_Ankle_L
+    100012: Othe:Engineer_Ankle_R
+    100014: Othe:Engineer_Buttock_M
+    100016: Othe:Engineer_Chest_M
+    100018: Othe:Engineer_Elbow_L
+    100020: Othe:Engineer_Elbow_R
+    100022: Othe:Engineer_ElbowPart1_L
+    100024: Othe:Engineer_ElbowPart1_R
+    100026: Othe:Engineer_Eye_L
+    100028: Othe:Engineer_Eye_R
+    100030: Othe:Engineer_EyeEnd_L
+    100032: Othe:Engineer_EyeEnd_R
+    100034: Othe:Engineer_Head_M
+    100036: Othe:Engineer_HeadEnd_M
+    100038: Othe:Engineer_Hip_L
+    100040: Othe:Engineer_Hip_R
+    100042: Othe:Engineer_IndexFinger1_L
+    100044: Othe:Engineer_IndexFinger1_R
+    100046: Othe:Engineer_IndexFinger2_L
+    100048: Othe:Engineer_IndexFinger2_R
+    100050: Othe:Engineer_IndexFinger3_L
+    100052: Othe:Engineer_IndexFinger3_R
+    100054: Othe:Engineer_IndexFinger4_L
+    100056: Othe:Engineer_IndexFinger4_R
+    100058: Othe:Engineer_Jaw_M
+    100060: Othe:Engineer_JawEnd_M
+    100062: Othe:Engineer_Knee_L
+    100064: Othe:Engineer_Knee_R
+    100066: Othe:Engineer_MiddleFinger1_L
+    100068: Othe:Engineer_MiddleFinger1_R
+    100070: Othe:Engineer_MiddleFinger2_L
+    100072: Othe:Engineer_MiddleFinger2_R
+    100074: Othe:Engineer_MiddleFinger3_L
+    100076: Othe:Engineer_MiddleFinger3_R
+    100078: Othe:Engineer_MiddleFinger4_L
+    100080: Othe:Engineer_MiddleFinger4_R
+    100082: Othe:Engineer_Model_arm_l
+    100084: Othe:Engineer_Model_arm_r
+    100086: Othe:Engineer_Model_eye_l
+    100088: Othe:Engineer_Model_eye_r
+    100090: Othe:Engineer_Model_Grp
+    100092: Othe:Engineer_Model_head
+    100094: Othe:Engineer_Model_shirt
+    100096: Othe:Engineer_Model_shoes
+    100098: Othe:Engineer_Model_trousers
+    100100: Othe:Engineer_Neck_M
+    100102: Othe:Engineer_PinkyFinger1_L
+    100104: Othe:Engineer_PinkyFinger1_R
+    100106: Othe:Engineer_PinkyFinger2_L
+    100108: Othe:Engineer_PinkyFinger2_R
+    100110: Othe:Engineer_PinkyFinger3_L
+    100112: Othe:Engineer_PinkyFinger3_R
+    100114: Othe:Engineer_PinkyFinger4_L
+    100116: Othe:Engineer_PinkyFinger4_R
+    100118: Othe:Engineer_RingFinger1_L
+    100120: Othe:Engineer_RingFinger1_R
+    100122: Othe:Engineer_RingFinger2_L
+    100124: Othe:Engineer_RingFinger2_R
+    100126: Othe:Engineer_RingFinger3_L
+    100128: Othe:Engineer_RingFinger3_R
+    100130: Othe:Engineer_RingFinger4_L
+    100132: Othe:Engineer_RingFinger4_R
+    100134: Othe:Engineer_Root_M
+    100136: Othe:Engineer_Scapula_L
+    100138: Othe:Engineer_Scapula_R
+    100140: Othe:Engineer_Shoulder_L
+    100142: Othe:Engineer_Shoulder_R
+    100144: Othe:Engineer_ShoulderPart1_L
+    100146: Othe:Engineer_ShoulderPart1_R
+    100148: Othe:Engineer_ShoulderPart2_L
+    100150: Othe:Engineer_ShoulderPart2_R
+    100152: Othe:Engineer_Spine1_M
+    100154: Othe:Engineer_ThumbFinger1_L
+    100156: Othe:Engineer_ThumbFinger1_R
+    100158: Othe:Engineer_ThumbFinger2_L
+    100160: Othe:Engineer_ThumbFinger2_R
+    100162: Othe:Engineer_ThumbFinger3_L
+    100164: Othe:Engineer_ThumbFinger3_R
+    100166: Othe:Engineer_ThumbFinger4_L
+    100168: Othe:Engineer_ThumbFinger4_R
+    100170: Othe:Engineer_Toes_L
+    100172: Othe:Engineer_Toes_R
+    100174: Othe:Engineer_ToesEnd_L
+    100176: Othe:Engineer_ToesEnd_R
+    100178: Othe:Engineer_Wrist_L
+    100180: Othe:Engineer_Wrist_R
+    400000: //RootNode
+    400002: Othe1:Pro_Wrench_Rig
+    400004: Othe1:Pro_Wrench_Rig_Root
+    400006: Othe1:Prop_Wrench_Model
+    400008: Othe1:Prop_Wrench_Model_Grp
+    400010: Othe:Engineer_Ankle_L
+    400012: Othe:Engineer_Ankle_R
+    400014: Othe:Engineer_Buttock_M
+    400016: Othe:Engineer_Chest_M
+    400018: Othe:Engineer_Elbow_L
+    400020: Othe:Engineer_Elbow_R
+    400022: Othe:Engineer_ElbowPart1_L
+    400024: Othe:Engineer_ElbowPart1_R
+    400026: Othe:Engineer_Eye_L
+    400028: Othe:Engineer_Eye_R
+    400030: Othe:Engineer_EyeEnd_L
+    400032: Othe:Engineer_EyeEnd_R
+    400034: Othe:Engineer_Head_M
+    400036: Othe:Engineer_HeadEnd_M
+    400038: Othe:Engineer_Hip_L
+    400040: Othe:Engineer_Hip_R
+    400042: Othe:Engineer_IndexFinger1_L
+    400044: Othe:Engineer_IndexFinger1_R
+    400046: Othe:Engineer_IndexFinger2_L
+    400048: Othe:Engineer_IndexFinger2_R
+    400050: Othe:Engineer_IndexFinger3_L
+    400052: Othe:Engineer_IndexFinger3_R
+    400054: Othe:Engineer_IndexFinger4_L
+    400056: Othe:Engineer_IndexFinger4_R
+    400058: Othe:Engineer_Jaw_M
+    400060: Othe:Engineer_JawEnd_M
+    400062: Othe:Engineer_Knee_L
+    400064: Othe:Engineer_Knee_R
+    400066: Othe:Engineer_MiddleFinger1_L
+    400068: Othe:Engineer_MiddleFinger1_R
+    400070: Othe:Engineer_MiddleFinger2_L
+    400072: Othe:Engineer_MiddleFinger2_R
+    400074: Othe:Engineer_MiddleFinger3_L
+    400076: Othe:Engineer_MiddleFinger3_R
+    400078: Othe:Engineer_MiddleFinger4_L
+    400080: Othe:Engineer_MiddleFinger4_R
+    400082: Othe:Engineer_Model_arm_l
+    400084: Othe:Engineer_Model_arm_r
+    400086: Othe:Engineer_Model_eye_l
+    400088: Othe:Engineer_Model_eye_r
+    400090: Othe:Engineer_Model_Grp
+    400092: Othe:Engineer_Model_head
+    400094: Othe:Engineer_Model_shirt
+    400096: Othe:Engineer_Model_shoes
+    400098: Othe:Engineer_Model_trousers
+    400100: Othe:Engineer_Neck_M
+    400102: Othe:Engineer_PinkyFinger1_L
+    400104: Othe:Engineer_PinkyFinger1_R
+    400106: Othe:Engineer_PinkyFinger2_L
+    400108: Othe:Engineer_PinkyFinger2_R
+    400110: Othe:Engineer_PinkyFinger3_L
+    400112: Othe:Engineer_PinkyFinger3_R
+    400114: Othe:Engineer_PinkyFinger4_L
+    400116: Othe:Engineer_PinkyFinger4_R
+    400118: Othe:Engineer_RingFinger1_L
+    400120: Othe:Engineer_RingFinger1_R
+    400122: Othe:Engineer_RingFinger2_L
+    400124: Othe:Engineer_RingFinger2_R
+    400126: Othe:Engineer_RingFinger3_L
+    400128: Othe:Engineer_RingFinger3_R
+    400130: Othe:Engineer_RingFinger4_L
+    400132: Othe:Engineer_RingFinger4_R
+    400134: Othe:Engineer_Root_M
+    400136: Othe:Engineer_Scapula_L
+    400138: Othe:Engineer_Scapula_R
+    400140: Othe:Engineer_Shoulder_L
+    400142: Othe:Engineer_Shoulder_R
+    400144: Othe:Engineer_ShoulderPart1_L
+    400146: Othe:Engineer_ShoulderPart1_R
+    400148: Othe:Engineer_ShoulderPart2_L
+    400150: Othe:Engineer_ShoulderPart2_R
+    400152: Othe:Engineer_Spine1_M
+    400154: Othe:Engineer_ThumbFinger1_L
+    400156: Othe:Engineer_ThumbFinger1_R
+    400158: Othe:Engineer_ThumbFinger2_L
+    400160: Othe:Engineer_ThumbFinger2_R
+    400162: Othe:Engineer_ThumbFinger3_L
+    400164: Othe:Engineer_ThumbFinger3_R
+    400166: Othe:Engineer_ThumbFinger4_L
+    400168: Othe:Engineer_ThumbFinger4_R
+    400170: Othe:Engineer_Toes_L
+    400172: Othe:Engineer_Toes_R
+    400174: Othe:Engineer_ToesEnd_L
+    400176: Othe:Engineer_ToesEnd_R
+    400178: Othe:Engineer_Wrist_L
+    400180: Othe:Engineer_Wrist_R
+    2100000: Othe_Arms
+    2100002: Othe_Hand
+    2100004: Othe_Body
+    2100006: Othe1_lambert17
+    4300000: Othe:Engineer_Model_arm_r
+    4300002: Othe:Engineer_Model_arm_l
+    4300004: Othe:Engineer_Model_head
+    4300006: Othe:Engineer_Model_eye_r
+    4300008: Othe:Engineer_Model_eye_l
+    4300010: Othe:Engineer_Model_shirt
+    4300012: Othe:Engineer_Model_trousers
+    4300014: Othe:Engineer_Model_shoes
+    4300016: Othe1:Prop_Wrench_Model
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Othe1:Prop_Wrench_Model
+    13700002: Othe:Engineer_Model_arm_l
+    13700004: Othe:Engineer_Model_arm_r
+    13700006: Othe:Engineer_Model_eye_l
+    13700008: Othe:Engineer_Model_eye_r
+    13700010: Othe:Engineer_Model_head
+    13700012: Othe:Engineer_Model_shirt
+    13700014: Othe:Engineer_Model_shoes
+    13700016: Othe:Engineer_Model_trousers
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Othe1_lambert17
+    second: {fileID: 2100000, guid: 8ef30259607f3604b823ffd130809f84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Othe_Arms
+    second: {fileID: 2100000, guid: eaaa761b8cdfd5e4aa369b983e579265, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Othe_Body
+    second: {fileID: 2100000, guid: b71f2ce36e003c84eb39daf4f2b139f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Othe_Hand
+    second: {fileID: 2100000, guid: 07378c7c008167d49a8189c6becd8c85, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Othe:Engineer_Chest_M' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'Othe:Engineer_Scapula_R'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Othe:Engineer_ShoulderPart1_R'
+      has translation animation that will be discarded.\n\t'Othe:Engineer_ShoulderPart2_R'
+      has translation animation that will be discarded.\n\t'Othe:Engineer_ShoulderPart2_R'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Othe:Engineer_Elbow_R'
+      has translation animation that will be discarded.\n\t'Othe:Engineer_ElbowPart1_R'
+      has translation animation that will be discarded.\n\t'Othe:Engineer_ElbowPart1_R'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Othe:Engineer_Wrist_R'
+      has translation animation that will be discarded.\n\t'Othe:Engineer_Scapula_L'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Othe:Engineer_ShoulderPart1_L'
+      has translation animation that will be discarded.\n\t'Othe:Engineer_ShoulderPart2_L'
+      has translation animation that will be discarded.\n\t'Othe:Engineer_ShoulderPart2_L'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Othe:Engineer_Elbow_L'
+      has translation animation that will be discarded.\n\t'Othe:Engineer_ElbowPart1_L'
+      has translation animation that will be discarded.\n\t'Othe:Engineer_ElbowPart1_L'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Othe:Engineer_Wrist_L'
+      has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Othe:Engineer_Buttock_M
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Hip_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Hip_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Knee_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Knee_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Ankle_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Ankle_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Spine1_M
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Neck_M
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Head_M
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Shoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Shoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_ShoulderPart1_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_ShoulderPart1_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Elbow_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Elbow_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Wrist_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Wrist_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Toes_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Toes_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Eye_L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_Eye_R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_ThumbFinger1_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_ThumbFinger2_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_ThumbFinger3_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_IndexFinger1_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_IndexFinger2_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_IndexFinger3_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_MiddleFinger1_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_MiddleFinger2_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_MiddleFinger3_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_RingFinger1_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_RingFinger2_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_RingFinger3_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_PinkyFinger1_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_PinkyFinger2_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_PinkyFinger3_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_ThumbFinger1_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_ThumbFinger2_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_ThumbFinger3_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_IndexFinger1_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_IndexFinger2_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_IndexFinger3_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_MiddleFinger1_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_MiddleFinger2_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_MiddleFinger3_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_RingFinger1_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_RingFinger2_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_RingFinger3_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_PinkyFinger1_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_PinkyFinger2_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Othe:Engineer_PinkyFinger3_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: NPC(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe1:Pro_Wrench_Rig_Root
+      parentName: NPC(Clone)
+      position: {x: 3.5577338, y: 0.756855, z: -4.2416143}
+      rotation: {x: 0.59219027, y: 0.031774774, z: 0.30280122, w: 0.74606466}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe1:Pro_Wrench_Rig
+      parentName: Othe1:Pro_Wrench_Rig_Root
+      position: {x: -8.5265126e-16, y: 0.16470122, z: -2.1316282e-16}
+      rotation: {x: -0.59219027, y: -0.031774778, z: -0.30280122, w: 0.74606466}
+      scale: {x: 1.0000007, y: 1, z: 1.0000006}
+    - name: Othe:Engineer_Root_M
+      parentName: NPC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_Buttock_M
+      parentName: Othe:Engineer_Root_M
+      position: {x: 0, y: 0.93134284, z: 0.0060067177}
+      rotation: {x: 0.52159935, y: -0.47742453, z: -0.52159935, w: 0.47742453}
+      scale: {x: 1.0000018, y: 1.0000021, z: 1.0000014}
+    - name: Othe:Engineer_Spine1_M
+      parentName: Othe:Engineer_Buttock_M
+      position: {x: -0.17381808, y: -5.684342e-16, z: 1.7053025e-15}
+      rotation: {x: 0.000000029802319, y: -0.000000029802319, z: 0.068587326, w: 0.99764514}
+      scale: {x: 1.000001, y: 1.0000002, z: 1.0000006}
+    - name: Othe:Engineer_Chest_M
+      parentName: Othe:Engineer_Spine1_M
+      position: {x: -0.18894584, y: 5.684342e-16, z: -1.1368684e-15}
+      rotation: {x: -0.000000025663207, y: 0.000000033432862, z: 0.06204409, w: 0.9980734}
+      scale: {x: 1.0000007, y: 1.0000011, z: 1.0000007}
+    - name: Othe:Engineer_Scapula_R
+      parentName: Othe:Engineer_Chest_M
+      position: {x: -0.17642343, y: 0.015842712, z: -0.026977489}
+      rotation: {x: 0.18066384, y: 0.79246926, z: -0.038721096, w: -0.58125186}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+    - name: Othe:Engineer_Shoulder_R
+      parentName: Othe:Engineer_Scapula_R
+      position: {x: -0.1745564, y: -2.842171e-16, z: 5.684342e-16}
+      rotation: {x: 0.0035826336, y: 0.0061236313, z: -0.1307555, w: 0.99138933}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Othe:Engineer_ShoulderPart1_R
+      parentName: Othe:Engineer_Shoulder_R
+      position: {x: -0.08206903, y: -5.684342e-16, z: -5.684342e-16}
+      rotation: {x: -0.00000012759115, y: 0.121115856, z: -0.011227585, w: 0.9925749}
+      scale: {x: 1.0000011, y: 1.0000004, z: 1.000001}
+    - name: Othe:Engineer_ShoulderPart2_R
+      parentName: Othe:Engineer_ShoulderPart1_R
+      position: {x: -0.08206903, y: -1.1368684e-15, z: -1.7053025e-15}
+      rotation: {x: 0.000000108033404, y: 0.000000014901159, z: -0.00000006705522,
+        w: 1}
+      scale: {x: 1.0000018, y: 1.0000014, z: 1.0000004}
+    - name: Othe:Engineer_Elbow_R
+      parentName: Othe:Engineer_ShoulderPart2_R
+      position: {x: -0.08206903, y: -1.1368684e-15, z: 1.1368684e-15}
+      rotation: {x: 0.00022863396, y: 0.006031635, z: -0.032020558, w: 0.99946904}
+      scale: {x: 1.0000018, y: 1.0000005, z: 1.000001}
+    - name: Othe:Engineer_ElbowPart1_R
+      parentName: Othe:Engineer_Elbow_R
+      position: {x: -0.13803487, y: 0, z: 3.1832315e-14}
+      rotation: {x: 0.000000011167848, y: 4.2332e-10, z: 2.3091814e-15, w: 1}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000005}
+    - name: Othe:Engineer_Wrist_R
+      parentName: Othe:Engineer_ElbowPart1_R
+      position: {x: -0.13803487, y: 0, z: 2.728484e-14}
+      rotation: {x: -0.0014525412, y: 0.009861123, z: -0.075879216, w: 0.9970673}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000006}
+    - name: Othe:Engineer_MiddleFinger1_R
+      parentName: Othe:Engineer_Wrist_R
+      position: {x: -0.0798026, y: 0, z: 1.7053025e-15}
+      rotation: {x: -0.013355769, y: -0.024914946, z: 0.078126475, w: 0.99654263}
+      scale: {x: 0.99999976, y: 1.0000004, z: 1.0000005}
+    - name: Othe:Engineer_MiddleFinger2_R
+      parentName: Othe:Engineer_MiddleFinger1_R
+      position: {x: -0.04997011, y: -2.2737367e-15, z: -2.2737367e-15}
+      rotation: {x: 0.0003196606, y: 0.006234451, z: 0.00001146097, w: 0.9999805}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000005}
+    - name: Othe:Engineer_MiddleFinger3_R
+      parentName: Othe:Engineer_MiddleFinger2_R
+      position: {x: -0.02653279, y: 5.684342e-16, z: -1.4210854e-16}
+      rotation: {x: 0.0004657489, y: -0.005293314, z: -0.000013842474, w: 0.9999859}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Othe:Engineer_MiddleFinger4_R
+      parentName: Othe:Engineer_MiddleFinger3_R
+      position: {x: -0.027771298, y: 5.684342e-16, z: 1.1368684e-15}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_ThumbFinger1_R
+      parentName: Othe:Engineer_Wrist_R
+      position: {x: -0.015279456, y: 0.024960656, z: -0.011093046}
+      rotation: {x: -0.4044034, y: 0.07747935, z: -0.33070332, w: 0.84917027}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.0000001}
+    - name: Othe:Engineer_ThumbFinger2_R
+      parentName: Othe:Engineer_ThumbFinger1_R
+      position: {x: -0.037610937, y: 1.5418493e-10, z: 1.7053025e-15}
+      rotation: {x: 0.0000003874301, y: -0.039373398, z: -0.0000021327282, w: 0.9992246}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000001}
+    - name: Othe:Engineer_ThumbFinger3_R
+      parentName: Othe:Engineer_ThumbFinger2_R
+      position: {x: -0.02576342, y: 1.7053025e-15, z: 1.4210854e-15}
+      rotation: {x: -0.000000049289316, y: -0.000000052154054, z: 0.00000012383103,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000004}
+    - name: Othe:Engineer_ThumbFinger4_R
+      parentName: Othe:Engineer_ThumbFinger3_R
+      position: {x: -0.036934946, y: -0.000000036920998, z: -0.00000002359403}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_IndexFinger1_R
+      parentName: Othe:Engineer_Wrist_R
+      position: {x: -0.084197074, y: 0.02092794, z: -0.0008742301}
+      rotation: {x: -0.048130807, y: -0.01763468, z: 0.08044843, w: 0.9954398}
+      scale: {x: 0.99999946, y: 1.0000002, z: 1.0000005}
+    - name: Othe:Engineer_IndexFinger2_R
+      parentName: Othe:Engineer_IndexFinger1_R
+      position: {x: -0.04112084, y: -1.1368684e-15, z: -5.684342e-16}
+      rotation: {x: -0.00000007450579, y: -0.015268326, z: -0.00008905246, w: 0.9998835}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000006}
+    - name: Othe:Engineer_IndexFinger3_R
+      parentName: Othe:Engineer_IndexFinger2_R
+      position: {x: -0.020758623, y: 1.7053025e-15, z: -1.1368684e-15}
+      rotation: {x: -0.014278679, y: 0.015139543, z: 0.0005110874, w: 0.99978334}
+      scale: {x: 0.9999994, y: 1.0000002, z: 1}
+    - name: Othe:Engineer_IndexFinger4_R
+      parentName: Othe:Engineer_IndexFinger3_R
+      position: {x: -0.024973119, y: -2.8421708e-15, z: 2.2737367e-15}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_RingFinger1_R
+      parentName: Othe:Engineer_Wrist_R
+      position: {x: -0.07607518, y: -0.021680908, z: 0.00061996083}
+      rotation: {x: 0.02657115, y: -0.027599705, z: 0.07745608, w: 0.99625945}
+      scale: {x: 0.9999996, y: 1.0000006, z: 1.0000007}
+    - name: Othe:Engineer_RingFinger2_R
+      parentName: Othe:Engineer_RingFinger1_R
+      position: {x: -0.046245568, y: -1.1368684e-15, z: -2.2737367e-15}
+      rotation: {x: -0.0024716815, y: -0.004969537, z: -0.000022356397, w: 0.9999846}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999998}
+    - name: Othe:Engineer_RingFinger3_R
+      parentName: Othe:Engineer_RingFinger2_R
+      position: {x: -0.021372203, y: 1.1368684e-15, z: 7.105427e-17}
+      rotation: {x: 0.004942575, y: 0.030865029, z: 0.000062689796, w: 0.9995114}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000007}
+    - name: Othe:Engineer_RingFinger4_R
+      parentName: Othe:Engineer_RingFinger3_R
+      position: {x: -0.024977311, y: -1.1368684e-15, z: -6.536993e-15}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_PinkyFinger1_R
+      parentName: Othe:Engineer_Wrist_R
+      position: {x: -0.06537518, y: -0.042180914, z: 0.00033429838}
+      rotation: {x: 0.035299562, y: -0.017028904, z: 0.080436066, w: 0.995989}
+      scale: {x: 0.99999964, y: 1.0000007, z: 1.0000006}
+    - name: Othe:Engineer_PinkyFinger2_R
+      parentName: Othe:Engineer_PinkyFinger1_R
+      position: {x: -0.036465548, y: -4.2632563e-16, z: 1.7053025e-15}
+      rotation: {x: 0.002332035, y: 0.019694747, z: 0.0008641348, w: 0.999803}
+      scale: {x: 0.9999994, y: 0.99999976, z: 0.9999995}
+    - name: Othe:Engineer_PinkyFinger3_R
+      parentName: Othe:Engineer_PinkyFinger2_R
+      position: {x: -0.017332189, y: 3.0198067e-16, z: -2.2737367e-15}
+      rotation: {x: 0.018729024, y: -0.027052198, z: -0.00027051358, w: 0.99945855}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000004}
+    - name: Othe:Engineer_PinkyFinger4_R
+      parentName: Othe:Engineer_PinkyFinger3_R
+      position: {x: -0.020169063, y: -1.0658141e-16, z: -2.2737367e-15}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_Scapula_L
+      parentName: Othe:Engineer_Chest_M
+      position: {x: -0.17642343, y: 0.015842712, z: 0.026977489}
+      rotation: {x: -0.7924693, y: 0.18066385, z: -0.58125186, w: 0.03872114}
+      scale: {x: 1.0000011, y: 1.0000004, z: 1.0000005}
+    - name: Othe:Engineer_Shoulder_L
+      parentName: Othe:Engineer_Scapula_L
+      position: {x: 0.1745564, y: -5.684342e-16, z: 3.1974422e-16}
+      rotation: {x: -0.003581875, y: -0.006124429, z: 0.13075677, w: -0.99138916}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000007}
+    - name: Othe:Engineer_ShoulderPart1_L
+      parentName: Othe:Engineer_Shoulder_L
+      position: {x: 0.08206903, y: 5.684342e-16, z: -5.684342e-16}
+      rotation: {x: 0.000000037252885, y: 0.12111534, z: -0.0112259835, w: 0.992575}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000006}
+    - name: Othe:Engineer_ShoulderPart2_L
+      parentName: Othe:Engineer_ShoulderPart1_L
+      position: {x: 0.08206903, y: 1.1368684e-15, z: -1.7053025e-15}
+      rotation: {x: -0.000000014901159, y: 0.000000059604638, z: 0.000000023515891,
+        w: 1}
+      scale: {x: 1.000001, y: 1.0000004, z: 1.0000007}
+    - name: Othe:Engineer_Elbow_L
+      parentName: Othe:Engineer_ShoulderPart2_L
+      position: {x: 0.08206903, y: -1.1368684e-15, z: -5.684342e-16}
+      rotation: {x: 0.00022853068, y: 0.0060315784, z: -0.032020666, w: 0.999469}
+      scale: {x: 1.0000014, y: 1.0000007, z: 1.0000002}
+    - name: Othe:Engineer_ElbowPart1_L
+      parentName: Othe:Engineer_Elbow_L
+      position: {x: 0.13803487, y: -2.2737367e-15, z: -2.6147971e-14}
+      rotation: {x: 1.6804336e-10, y: 0.000000044741952, z: 0.000000011175883, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: Othe:Engineer_Wrist_L
+      parentName: Othe:Engineer_ElbowPart1_L
+      position: {x: 0.13803487, y: 0, z: -2.728484e-14}
+      rotation: {x: -0.0014525403, y: 0.009860918, z: -0.07587931, w: 0.9970673}
+      scale: {x: 0.9999997, y: 1.0000002, z: 0.99999976}
+    - name: Othe:Engineer_MiddleFinger1_L
+      parentName: Othe:Engineer_Wrist_L
+      position: {x: 0.0798026, y: 2.2737367e-15, z: -3.9790393e-15}
+      rotation: {x: 0.013355875, y: 0.024913121, z: -0.078118965, w: -0.9965433}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000005}
+    - name: Othe:Engineer_MiddleFinger2_L
+      parentName: Othe:Engineer_MiddleFinger1_L
+      position: {x: 0.04997011, y: -1.1368684e-15, z: 3.9790393e-15}
+      rotation: {x: 0.00031973326, y: 0.006234479, z: 0.000011580703, w: 0.9999805}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000007}
+    - name: Othe:Engineer_MiddleFinger3_L
+      parentName: Othe:Engineer_MiddleFinger2_L
+      position: {x: 0.02653279, y: 5.684342e-16, z: -2.2737367e-15}
+      rotation: {x: 0.0004657418, y: -0.0052932207, z: -0.000013841102, w: 0.99998593}
+      scale: {x: 0.9999992, y: 1, z: 0.99999934}
+    - name: Othe:Engineer_MiddleFinger4_L
+      parentName: Othe:Engineer_MiddleFinger3_L
+      position: {x: 0.027771298, y: 0, z: -3.090861e-15}
+      rotation: {x: -0, y: -0, z: 4.547473e-13, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: Othe:Engineer_ThumbFinger1_L
+      parentName: Othe:Engineer_Wrist_L
+      position: {x: 0.015279456, y: -0.024960656, z: 0.011093046}
+      rotation: {x: 0.40440178, y: -0.07748276, z: 0.33070466, w: -0.8491702}
+      scale: {x: 1, y: 0.99999964, z: 1.0000001}
+    - name: Othe:Engineer_ThumbFinger2_L
+      parentName: Othe:Engineer_ThumbFinger1_L
+      position: {x: 0.037610937, y: -1.5418948e-10, z: -1.1368684e-15}
+      rotation: {x: 0.00000047683687, y: -0.039387237, z: 0.0000016540279, w: 0.999224}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Othe:Engineer_ThumbFinger3_L
+      parentName: Othe:Engineer_ThumbFinger2_L
+      position: {x: 0.02576342, y: 2.8421708e-15, z: 1.1368684e-15}
+      rotation: {x: -0.00000009413587, y: 0.0000000074505797, z: -0.000000051814574,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000007}
+    - name: Othe:Engineer_ThumbFinger4_L
+      parentName: Othe:Engineer_ThumbFinger3_L
+      position: {x: 0.036934946, y: 0.000000036920994, z: 0.00000002359403}
+      rotation: {x: -0, y: -0, z: 7.013668e-16, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000006}
+    - name: Othe:Engineer_IndexFinger1_L
+      parentName: Othe:Engineer_Wrist_L
+      position: {x: 0.084197074, y: -0.02092794, z: 0.0008742301}
+      rotation: {x: 0.04813096, y: 0.01763372, z: -0.08044527, w: -0.9954401}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000002}
+    - name: Othe:Engineer_IndexFinger2_L
+      parentName: Othe:Engineer_IndexFinger1_L
+      position: {x: 0.04112084, y: -5.684342e-16, z: 1.7053025e-15}
+      rotation: {x: -0.000000022351736, y: -0.015268428, z: -0.00008912848, w: 0.9998834}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000004}
+    - name: Othe:Engineer_IndexFinger3_L
+      parentName: Othe:Engineer_IndexFinger2_L
+      position: {x: 0.020758623, y: -5.684342e-16, z: -2.2737367e-15}
+      rotation: {x: -0.014278621, y: 0.015139546, z: 0.0005110734, w: 0.9997833}
+      scale: {x: 0.99999976, y: 1.0000004, z: 1.0000004}
+    - name: Othe:Engineer_IndexFinger4_L
+      parentName: Othe:Engineer_IndexFinger3_L
+      position: {x: 0.024973119, y: 0, z: 5.684342e-16}
+      rotation: {x: 0.0000000018626449, y: -0, z: -2.9103827e-11, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: Othe:Engineer_RingFinger1_L
+      parentName: Othe:Engineer_Wrist_L
+      position: {x: 0.07607518, y: 0.021680908, z: -0.00061996083}
+      rotation: {x: 0.026571117, y: -0.02759868, z: 0.077453546, w: 0.9962596}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000001}
+    - name: Othe:Engineer_RingFinger2_L
+      parentName: Othe:Engineer_RingFinger1_L
+      position: {x: 0.046245568, y: 0, z: 4.5474734e-15}
+      rotation: {x: -0.0024716498, y: -0.0049697007, z: -0.000022404127, w: 0.9999846}
+      scale: {x: 1, y: 1.0000004, z: 1.0000001}
+    - name: Othe:Engineer_RingFinger3_L
+      parentName: Othe:Engineer_RingFinger2_L
+      position: {x: 0.021372203, y: 5.684342e-16, z: -2.4158453e-15}
+      rotation: {x: 0.0049426276, y: 0.030865042, z: 0.00006267396, w: 0.9995114}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000007}
+    - name: Othe:Engineer_RingFinger4_L
+      parentName: Othe:Engineer_RingFinger3_L
+      position: {x: 0.024977311, y: 1.1368684e-15, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000002}
+    - name: Othe:Engineer_PinkyFinger1_L
+      parentName: Othe:Engineer_Wrist_L
+      position: {x: 0.06537518, y: 0.042180914, z: -0.00033429838}
+      rotation: {x: 0.035299446, y: -0.01702807, z: 0.08043335, w: 0.9959892}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: Othe:Engineer_PinkyFinger2_L
+      parentName: Othe:Engineer_PinkyFinger1_L
+      position: {x: 0.036465548, y: -5.684342e-16, z: -1.1368684e-15}
+      rotation: {x: 0.0023321765, y: 0.019694628, z: 0.0008640715, w: 0.999803}
+      scale: {x: 1.0000011, y: 1.000001, z: 1.0000002}
+    - name: Othe:Engineer_PinkyFinger3_L
+      parentName: Othe:Engineer_PinkyFinger2_L
+      position: {x: 0.017332189, y: -1.7053025e-15, z: -1.563194e-15}
+      rotation: {x: 0.018728951, y: -0.027052244, z: -0.00027049184, w: 0.99945855}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1.0000005}
+    - name: Othe:Engineer_PinkyFinger4_L
+      parentName: Othe:Engineer_PinkyFinger3_L
+      position: {x: 0.020169063, y: 1.7053025e-15, z: 1.9984014e-15}
+      rotation: {x: 0.0000000018626445, y: -0, z: -5.820764e-11, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000011}
+    - name: Othe:Engineer_Neck_M
+      parentName: Othe:Engineer_Chest_M
+      position: {x: -0.23556471, y: -1.1368684e-15, z: -5.684342e-16}
+      rotation: {x: 0.000000033432865, y: 0.00000002566321, z: 0.22295693, w: -0.9748283}
+      scale: {x: 1.0000012, y: 1.0000014, z: 1.0000006}
+    - name: Othe:Engineer_Head_M
+      parentName: Othe:Engineer_Neck_M
+      position: {x: -0.08550356, y: -5.684342e-16, z: 5.684342e-16}
+      rotation: {x: -0.00000002711505, y: -0.00000003226656, z: -0.13787015, w: -0.9904503}
+      scale: {x: 0.99999946, y: 0.9999994, z: 0.9999996}
+    - name: Othe:Engineer_HeadEnd_M
+      parentName: Othe:Engineer_Head_M
+      position: {x: -0.1740417, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_Jaw_M
+      parentName: Othe:Engineer_Head_M
+      position: {x: -0.00975314, y: 0.015053146, z: 5.684342e-16}
+      rotation: {x: -0.000000042660414, y: -0.000000003934607, z: 0.9280062, w: -0.37256482}
+      scale: {x: 1.0000008, y: 1.0000005, z: 1.0000008}
+    - name: Othe:Engineer_JawEnd_M
+      parentName: Othe:Engineer_Jaw_M
+      position: {x: -0.1025556, y: 1.4210854e-16, z: -5.1796075e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_Eye_L
+      parentName: Othe:Engineer_Head_M
+      position: {x: -0.046453178, y: 0.0781337, z: 0.030091766}
+      rotation: {x: -0.000000019884874, y: 0.000000013699468, z: 0.7071069, w: -0.7071067}
+      scale: {x: 1.0000017, y: 1.0000031, z: 1.0000018}
+    - name: Othe:Engineer_EyeEnd_L
+      parentName: Othe:Engineer_Eye_L
+      position: {x: -0.01043004, y: 2.2737367e-15, z: -5.684342e-16}
+      rotation: {x: -0.13868621, y: -0.0022722934, z: -0.00015833313, w: 0.99033374}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_Eye_R
+      parentName: Othe:Engineer_Head_M
+      position: {x: -0.046453178, y: 0.0781337, z: -0.030091766}
+      rotation: {x: -0.000000019884874, y: 0.000000013699468, z: 0.7071069, w: -0.7071067}
+      scale: {x: 1.0000017, y: 1.0000031, z: 1.0000018}
+    - name: Othe:Engineer_EyeEnd_R
+      parentName: Othe:Engineer_Eye_R
+      position: {x: -0.01043004, y: 2.8421708e-15, z: -5.684342e-16}
+      rotation: {x: 0.13868621, y: 0.0022722934, z: -0.00015833313, w: 0.99033374}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_Hip_R
+      parentName: Othe:Engineer_Buttock_M
+      position: {x: 0.021058474, y: -0.0041640652, z: -0.09100047}
+      rotation: {x: -0.078064464, y: 0.99651533, z: -0.023234634, w: -0.017978577}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: Othe:Engineer_Knee_R
+      parentName: Othe:Engineer_Hip_R
+      position: {x: -0.39358214, y: 2.842171e-16, z: 1.1368684e-15}
+      rotation: {x: -0.000000027241185, y: 0.000000028871, z: 0.123296514, w: 0.99236995}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Othe:Engineer_Ankle_R
+      parentName: Othe:Engineer_Knee_R
+      position: {x: -0.40453073, y: 2.2737367e-15, z: 1.0231815e-14}
+      rotation: {x: -0.012962118, y: -0.017122049, z: -0.089270085, w: 0.99577594}
+      scale: {x: 1.000002, y: 1.0000023, z: 1.0000014}
+    - name: Othe:Engineer_Toes_R
+      parentName: Othe:Engineer_Ankle_R
+      position: {x: -0.093969524, y: 0.10615015, z: 2.2737367e-15}
+      rotation: {x: -0.0132340975, y: -0.004499311, z: -0.78432107, w: 0.6201976}
+      scale: {x: 1.0000005, y: 0.99999994, z: 1.0000008}
+    - name: Othe:Engineer_ToesEnd_R
+      parentName: Othe:Engineer_Toes_R
+      position: {x: -0.0704992, y: 5.684342e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_Hip_L
+      parentName: Othe:Engineer_Buttock_M
+      position: {x: 0.021058474, y: -0.0041640652, z: 0.09100047}
+      rotation: {x: 0.99651533, y: 0.07806451, z: 0.017978637, w: -0.023234649}
+      scale: {x: 1.0000001, y: 0.9999995, z: 0.9999996}
+    - name: Othe:Engineer_Knee_L
+      parentName: Othe:Engineer_Hip_L
+      position: {x: 0.39358214, y: -5.684342e-16, z: 1.7053025e-15}
+      rotation: {x: -0, y: 0.000000026077032, z: -0.123296514, w: -0.9923699}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000005}
+    - name: Othe:Engineer_Ankle_L
+      parentName: Othe:Engineer_Knee_L
+      position: {x: 0.40453073, y: 1.1368684e-15, z: -1.1368683e-14}
+      rotation: {x: -0.012962142, y: -0.017121965, z: -0.08927016, w: 0.995776}
+      scale: {x: 1.0000019, y: 1.0000025, z: 1.000002}
+    - name: Othe:Engineer_Toes_L
+      parentName: Othe:Engineer_Ankle_L
+      position: {x: 0.093969524, y: -0.10615015, z: -1.7053025e-15}
+      rotation: {x: 0.013234057, y: 0.0044993777, z: 0.7843211, w: -0.6201976}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1.0000001}
+    - name: Othe:Engineer_ToesEnd_L
+      parentName: Othe:Engineer_Toes_L
+      position: {x: 0.0704992, y: 0, z: 5.684342e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_Model_Grp
+      parentName: NPC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_Model_arm_r
+      parentName: Othe:Engineer_Model_Grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_Model_arm_l
+      parentName: Othe:Engineer_Model_Grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_Model_head
+      parentName: Othe:Engineer_Model_Grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_Model_eye_r
+      parentName: Othe:Engineer_Model_Grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_Model_eye_l
+      parentName: Othe:Engineer_Model_Grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_Model_shirt
+      parentName: Othe:Engineer_Model_Grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_Model_trousers
+      parentName: Othe:Engineer_Model_Grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe:Engineer_Model_shoes
+      parentName: Othe:Engineer_Model_Grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Othe1:Prop_Wrench_Model
+      parentName: NPC(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a303c3f01cb1de4ca226885954d02bd, type: 3}
+  m_Name: 01_GoalPlaceJingShiPai
+  m_EditorClassIdentifier: 
+  goalName: "\u653E\u7F6E\u8B66\u793A\u724C"
+  goalMode: 0
+  priority: 3
+  isAutoPlayStartAudio: 0
+  isAutoHighlightStartTool: 0
+  goalKey: T1014
+  goalTrainingStartAudioKeys:
+  - T1017
+  goalTrainingErrorAudioKeys: []
+  goalTrainingStartHighlightTools:
+  - toolConf: {fileID: 11400000, guid: ade9c29fc4cf4e846893ed531e40b3bb, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: 65af65e518da9fc409499e8857c2698c, type: 2}
+    isHighlight: 1
+  goalExaminationStartAudioKeys: []
+  goalExaminationErrorAudioKeys: []
+  goalExaminationStartHighlightTools: []
+  isNecessaryGoal: 1
+  goalTeachingStartAudioKeys: []
+  playDeltTime: 0
+  toolToPlace: {fileID: 11400000, guid: eaba218d5e4c70e4db8f160a9de13d6b, type: 2}
+  toolToPlaceFlag: {fileID: 11400000, guid: ddfbd184de8c273498ea5f47dc7baecc, type: 2}

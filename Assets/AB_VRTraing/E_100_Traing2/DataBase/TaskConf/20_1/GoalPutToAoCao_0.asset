@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60f271185c1f8540ae78832847b9464, type: 3}
+  m_Name: GoalPutToAoCao_0
+  m_EditorClassIdentifier: 
+  goalName: 
+  goalMode: 0
+  priority: 0
+  isAutoPlayStartAudio: 0
+  isAutoHighlightStartTool: 0
+  goalKey: T1067
+  goalTrainingStartAudioKeys:
+  - T1068
+  goalTrainingErrorAudioKeys: []
+  goalTrainingStartHighlightTools:
+  - toolConf: {fileID: 11400000, guid: b7e08fce4442c8b44bff8ea31cb432f9, type: 2}
+    isHighlight: 1
+  goalExaminationStartAudioKeys:
+  - T1067
+  goalExaminationErrorAudioKeys: []
+  goalExaminationStartHighlightTools: []
+  goalTeachingStartAudioKeys: []
+  playDeltTime: 0
+  targetTool: {fileID: 11400000, guid: b7e08fce4442c8b44bff8ea31cb432f9, type: 2}
+  aocao: {fileID: 11400000, guid: 1a446755cd3e34e4e82444951c6d14ab, type: 2}
+  tipWatieTime: 15

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <LanguagePackConf>
+    <Chinese PriKey="Chinese" Language="简体中文" PackagePath="Chinese" />
+  </LanguagePackConf>
+</Config>

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a303c3f01cb1de4ca226885954d02bd, type: 3}
+  m_Name: 21_GoalPlaceZhuiTong
+  m_EditorClassIdentifier: 
+  goalName: "\u653E\u7F6E\u9525\u6876"
+  goalMode: 0
+  priority: 6
+  isAutoPlayStartAudio: 0
+  isAutoHighlightStartTool: 0
+  goalKey: T1073
+  goalTrainingStartAudioKeys:
+  - T1073
+  goalTrainingErrorAudioKeys: []
+  goalTrainingStartHighlightTools: []
+  goalExaminationStartAudioKeys:
+  - T1073
+  goalExaminationErrorAudioKeys: []
+  goalExaminationStartHighlightTools: []
+  goalTeachingStartAudioKeys: []
+  playDeltTime: 0
+  isFinalGoal: 0
+  toolToPlace: {fileID: 11400000, guid: 3fadf440860eed54e9c97f78a56ffc0c, type: 2}
+  toolToPlaceFlag: {fileID: 11400000, guid: fec3801f6165f384e8994f5249ecadac, type: 2}

@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: 335f04121742d184fad4acb7e1d51805
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: dianchi_01
+    100004: dianchi_02
+    100006: dianchi_02_MeshPart0
+    100008: dianchi_02_MeshPart1
+    100010: dianchi_02_MeshPart2
+    100012: dianchi_02_MeshPart3
+    100014: dianchi_02_MeshPart4
+    100016: dianchi_02_MeshPart5
+    100018: dianchi_02_MeshPart6
+    100020: biaoqian
+    100022: biaoqian_01
+    100024: biaoqian_02
+    100026: biaoqian_03
+    100028: dianchi
+    100030: dianchimokuai
+    100032: dianchimokuai_MeshPart0
+    100034: dianchimokuai_MeshPart1
+    100036: dianchimokuai_MeshPart2
+    100038: dianchimokuai_MeshPart3
+    100040: dianchimokuai_MeshPart4
+    100042: dianchimokuai_MeshPart5
+    100044: dianchimokuai_MeshPart6
+    100046: dianchizhaogai
+    100048: diyaxianshu
+    100050: gaoyachatou
+    100052: gaoyachatou_01
+    100054: gaoyachatou_02
+    100056: gaoyachatou_03
+    100058: gaoyachatou_04
+    100060: gaoyaxianshu
+    100062: gaoyaxianshu_01
+    100064: gaoyaxianshu_02
+    100066: gaoyaxianshu_03
+    100068: gaoyaxianshu_04
+    100070: luomu
+    100072: luomu_01
+    100074: luomu_02
+    100076: luomu_03
+    100078: luomu_04
+    100080: mifengjian
+    100082: qiazi
+    100084: qiazi_01
+    100086: qiazi_02
+    100088: qiazi_03
+    100090: qiazi_04
+    100092: anquanhe
+    100094: huichen
+    100096: polySurface1518
+    100098: polySurface1518_MeshPart0
+    100100: polySurface1518_MeshPart1
+    100102: polySurface1518_MeshPart2
+    100104: polySurface1518_MeshPart3
+    100106: polySurface1518_MeshPart4
+    100108: polySurface1518_MeshPart5
+    100110: polySurface1518_MeshPart6
+    100112: wuzi
+    100114: zhadai_01
+    100116: zhadai_02
+    100118: zhijia01
+    100120: zhijia_01
+    100122: zhijia_02
+    100124: gaoyachatou_01 1
+    100126: gaoyachatou_02 1
+    100128: gaoyachatou_02 2
+    100130: gaoyachatou_03 1
+    100132: gaoyachatou_04 1
+    100134: gaoyaxianshu_01 1
+    100136: gaoyaxianshu_02 1
+    100138: gaoyaxianshu_02 2
+    100140: gaoyaxianshu_03 1
+    100142: gaoyaxianshu_04 1
+    100144: polySurface1520
+    100146: polySurface1520_MeshPart0
+    100148: polySurface1520_MeshPart1
+    100150: polySurface1520_MeshPart2
+    100152: polySurface1520_MeshPart3
+    100154: polySurface1520_MeshPart4
+    100156: polySurface1520_MeshPart5
+    100158: polySurface1520_MeshPart6
+    400000: //RootNode
+    400002: dianchi_01
+    400004: dianchi_02
+    400006: dianchi_02_MeshPart0
+    400008: dianchi_02_MeshPart1
+    400010: dianchi_02_MeshPart2
+    400012: dianchi_02_MeshPart3
+    400014: dianchi_02_MeshPart4
+    400016: dianchi_02_MeshPart5
+    400018: dianchi_02_MeshPart6
+    400020: biaoqian
+    400022: biaoqian_01
+    400024: biaoqian_02
+    400026: biaoqian_03
+    400028: dianchi
+    400030: dianchimokuai
+    400032: dianchimokuai_MeshPart0
+    400034: dianchimokuai_MeshPart1
+    400036: dianchimokuai_MeshPart2
+    400038: dianchimokuai_MeshPart3
+    400040: dianchimokuai_MeshPart4
+    400042: dianchimokuai_MeshPart5
+    400044: dianchimokuai_MeshPart6
+    400046: dianchizhaogai
+    400048: diyaxianshu
+    400050: gaoyachatou
+    400052: gaoyachatou_01
+    400054: gaoyachatou_02
+    400056: gaoyachatou_03
+    400058: gaoyachatou_04
+    400060: gaoyaxianshu
+    400062: gaoyaxianshu_01
+    400064: gaoyaxianshu_02
+    400066: gaoyaxianshu_03
+    400068: gaoyaxianshu_04
+    400070: luomu
+    400072: luomu_01
+    400074: luomu_02
+    400076: luomu_03
+    400078: luomu_04
+    400080: mifengjian
+    400082: qiazi
+    400084: qiazi_01
+    400086: qiazi_02
+    400088: qiazi_03
+    400090: qiazi_04
+    400092: anquanhe
+    400094: huichen
+    400096: polySurface1518
+    400098: polySurface1518_MeshPart0
+    400100: polySurface1518_MeshPart1
+    400102: polySurface1518_MeshPart2
+    400104: polySurface1518_MeshPart3
+    400106: polySurface1518_MeshPart4
+    400108: polySurface1518_MeshPart5
+    400110: polySurface1518_MeshPart6
+    400112: wuzi
+    400114: zhadai_01
+    400116: zhadai_02
+    400118: zhijia01
+    400120: zhijia_01
+    400122: zhijia_02
+    400124: gaoyachatou_01 1
+    400126: gaoyachatou_02 1
+    400128: gaoyachatou_02 2
+    400130: gaoyachatou_03 1
+    400132: gaoyachatou_04 1
+    400134: gaoyaxianshu_01 1
+    400136: gaoyaxianshu_02 1
+    400138: gaoyaxianshu_02 2
+    400140: gaoyaxianshu_03 1
+    400142: gaoyaxianshu_04 1
+    400144: polySurface1520
+    400146: polySurface1520_MeshPart0
+    400148: polySurface1520_MeshPart1
+    400150: polySurface1520_MeshPart2
+    400152: polySurface1520_MeshPart3
+    400154: polySurface1520_MeshPart4
+    400156: polySurface1520_MeshPart5
+    400158: polySurface1520_MeshPart6
+    2300000: dianchi_01
+    2300002: dianchi_02_MeshPart0
+    2300004: dianchi_02_MeshPart1
+    2300006: dianchi_02_MeshPart2
+    2300008: dianchi_02_MeshPart3
+    2300010: dianchi_02_MeshPart4
+    2300012: dianchi_02_MeshPart5
+    2300014: dianchi_02_MeshPart6
+    2300016: biaoqian_01
+    2300018: biaoqian_02
+    2300020: biaoqian_03
+    2300022: dianchimokuai_MeshPart0
+    2300024: dianchimokuai_MeshPart1
+    2300026: dianchimokuai_MeshPart2
+    2300028: dianchimokuai_MeshPart3
+    2300030: dianchimokuai_MeshPart4
+    2300032: dianchimokuai_MeshPart5
+    2300034: dianchimokuai_MeshPart6
+    2300036: dianchizhaogai
+    2300038: diyaxianshu
+    2300040: gaoyachatou_01
+    2300042: gaoyachatou_02
+    2300044: gaoyachatou_03
+    2300046: gaoyachatou_04
+    2300048: gaoyaxianshu_01
+    2300050: gaoyaxianshu_02
+    2300052: gaoyaxianshu_03
+    2300054: gaoyaxianshu_04
+    2300056: luomu_01
+    2300058: luomu_02
+    2300060: luomu_03
+    2300062: luomu_04
+    2300064: mifengjian
+    2300066: qiazi_01
+    2300068: qiazi_02
+    2300070: qiazi_03
+    2300072: qiazi_04
+    2300074: anquanhe
+    2300076: huichen
+    2300078: polySurface1518_MeshPart0
+    2300080: polySurface1518_MeshPart1
+    2300082: polySurface1518_MeshPart2
+    2300084: polySurface1518_MeshPart3
+    2300086: polySurface1518_MeshPart4
+    2300088: polySurface1518_MeshPart5
+    2300090: polySurface1518_MeshPart6
+    2300092: wuzi
+    2300094: zhadai_01
+    2300096: zhadai_02
+    2300098: zhijia_01
+    2300100: zhijia_02
+    2300102: gaoyachatou_01 1
+    2300104: gaoyachatou_02 1
+    2300106: gaoyachatou_02 2
+    2300108: gaoyachatou_03 1
+    2300110: gaoyachatou_04 1
+    2300112: gaoyaxianshu_01 1
+    2300114: gaoyaxianshu_02 1
+    2300116: gaoyaxianshu_02 2
+    2300118: gaoyaxianshu_03 1
+    2300120: gaoyaxianshu_04 1
+    2300122: polySurface1520_MeshPart0
+    2300124: polySurface1520_MeshPart1
+    2300126: polySurface1520_MeshPart2
+    2300128: polySurface1520_MeshPart3
+    2300130: polySurface1520_MeshPart4
+    2300132: polySurface1520_MeshPart5
+    2300134: polySurface1520_MeshPart6
+    3300000: dianchi_01
+    3300002: dianchi_02_MeshPart0
+    3300004: dianchi_02_MeshPart1
+    3300006: dianchi_02_MeshPart2
+    3300008: dianchi_02_MeshPart3
+    3300010: dianchi_02_MeshPart4
+    3300012: dianchi_02_MeshPart5
+    3300014: dianchi_02_MeshPart6
+    3300016: biaoqian_01
+    3300018: biaoqian_02
+    3300020: biaoqian_03
+    3300022: dianchimokuai_MeshPart0
+    3300024: dianchimokuai_MeshPart1
+    3300026: dianchimokuai_MeshPart2
+    3300028: dianchimokuai_MeshPart3
+    3300030: dianchimokuai_MeshPart4
+    3300032: dianchimokuai_MeshPart5
+    3300034: dianchimokuai_MeshPart6
+    3300036: dianchizhaogai
+    3300038: diyaxianshu
+    3300040: gaoyachatou_01
+    3300042: gaoyachatou_02
+    3300044: gaoyachatou_03
+    3300046: gaoyachatou_04
+    3300048: gaoyaxianshu_01
+    3300050: gaoyaxianshu_02
+    3300052: gaoyaxianshu_03
+    3300054: gaoyaxianshu_04
+    3300056: luomu_01
+    3300058: luomu_02
+    3300060: luomu_03
+    3300062: luomu_04
+    3300064: mifengjian
+    3300066: qiazi_01
+    3300068: qiazi_02
+    3300070: qiazi_03
+    3300072: qiazi_04
+    3300074: anquanhe
+    3300076: huichen
+    3300078: polySurface1518_MeshPart0
+    3300080: polySurface1518_MeshPart1
+    3300082: polySurface1518_MeshPart2
+    3300084: polySurface1518_MeshPart3
+    3300086: polySurface1518_MeshPart4
+    3300088: polySurface1518_MeshPart5
+    3300090: polySurface1518_MeshPart6
+    3300092: wuzi
+    3300094: zhadai_01
+    3300096: zhadai_02
+    3300098: zhijia_01
+    3300100: zhijia_02
+    3300102: gaoyachatou_01 1
+    3300104: gaoyachatou_02 1
+    3300106: gaoyachatou_02 2
+    3300108: gaoyachatou_03 1
+    3300110: gaoyachatou_04 1
+    3300112: gaoyaxianshu_01 1
+    3300114: gaoyaxianshu_02 1
+    3300116: gaoyaxianshu_02 2
+    3300118: gaoyaxianshu_03 1
+    3300120: gaoyaxianshu_04 1
+    3300122: polySurface1520_MeshPart0
+    3300124: polySurface1520_MeshPart1
+    3300126: polySurface1520_MeshPart2
+    3300128: polySurface1520_MeshPart3
+    3300130: polySurface1520_MeshPart4
+    3300132: polySurface1520_MeshPart5
+    3300134: polySurface1520_MeshPart6
+    4300000: dianchi_01
+    4300002: dianchi_02_MeshPart0
+    4300004: dianchi_02_MeshPart1
+    4300006: dianchi_02_MeshPart2
+    4300008: dianchi_02_MeshPart3
+    4300010: dianchi_02_MeshPart4
+    4300012: dianchi_02_MeshPart5
+    4300014: dianchi_02_MeshPart6
+    4300016: dianchizhaogai
+    4300018: biaoqian_01
+    4300020: biaoqian_02
+    4300022: biaoqian_03
+    4300024: luomu_01
+    4300026: luomu_02
+    4300028: luomu_03
+    4300030: luomu_04
+    4300032: qiazi_01
+    4300034: qiazi_02
+    4300036: qiazi_03
+    4300038: qiazi_04
+    4300040: gaoyachatou_01
+    4300042: gaoyachatou_02
+    4300044: gaoyachatou_03
+    4300046: gaoyachatou_04
+    4300048: gaoyaxianshu_01
+    4300050: gaoyaxianshu_02
+    4300052: gaoyaxianshu_03
+    4300054: gaoyaxianshu_04
+    4300056: diyaxianshu
+    4300058: mifengjian
+    4300060: dianchimokuai_MeshPart0
+    4300062: dianchimokuai_MeshPart1
+    4300064: dianchimokuai_MeshPart2
+    4300066: dianchimokuai_MeshPart3
+    4300068: dianchimokuai_MeshPart4
+    4300070: dianchimokuai_MeshPart5
+    4300072: dianchimokuai_MeshPart6
+    4300074: anquanhe
+    4300076: zhijia_01
+    4300078: zhijia_02
+    4300080: polySurface1518_MeshPart0
+    4300082: polySurface1518_MeshPart1
+    4300084: polySurface1518_MeshPart2
+    4300086: polySurface1518_MeshPart3
+    4300088: polySurface1518_MeshPart4
+    4300090: polySurface1518_MeshPart5
+    4300092: polySurface1518_MeshPart6
+    4300094: zhadai_01
+    4300096: zhadai_02
+    4300098: huichen
+    4300100: wuzi
+    4300102: gaoyachatou_01
+    4300104: gaoyachatou_02
+    4300106: gaoyachatou_03
+    4300108: gaoyachatou_04
+    4300110: gaoyaxianshu_01
+    4300112: gaoyaxianshu_02
+    4300114: gaoyaxianshu_03
+    4300116: gaoyaxianshu_04
+    4300118: polySurface1520_MeshPart0
+    4300120: polySurface1520_MeshPart1
+    4300122: polySurface1520_MeshPart2
+    4300124: polySurface1520_MeshPart3
+    4300126: polySurface1520_MeshPart4
+    4300128: polySurface1520_MeshPart5
+    4300130: polySurface1520_MeshPart6
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 89217d34b01cd674c81fb7f7b24fa127, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

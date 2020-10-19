@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfb3b67af63177a42a70fa3b50ce04de, type: 3}
+  m_Name: 02_GoalCheckOut
+  m_EditorClassIdentifier: 
+  goalName: "\u7167\u660E\u706F\u76EE\u89C6\u5916\u90E8\u68C0\u67E5"
+  goalMode: 0
+  priority: 1
+  goalKey: T1021
+  dynamicConfs: []
+  goalTrainingStartAudioKeys:
+  - T1021
+  goalTrainingErrorAudioKeys:
+  - T1020
+  - T1021
+  goalTrainingSuccessHighlightTools:
+  - toolConf: {fileID: 11400000, guid: 2135207098929c043b8eff8bff5033fb, type: 2}
+    isHighlight: 0
+  - toolConf: {fileID: 11400000, guid: b41044ef2d215fa4d88638c16d98dfae, type: 2}
+    isHighlight: 0
+  - toolConf: {fileID: 11400000, guid: d3c3d6112ce46214eb1d69e3cd6b840d, type: 2}
+    isHighlight: 0
+  - toolConf: {fileID: 11400000, guid: e005bbfe60a7ec344ad6f3cb8651c5a6, type: 2}
+    isHighlight: 0
+  - toolConf: {fileID: 11400000, guid: 143cd13e3f5bb1349b5a62c35d82d42e, type: 2}
+    isHighlight: 0
+  - toolConf: {fileID: 11400000, guid: badd2e12ee9e9594fa08b0c953c13a3a, type: 2}
+    isHighlight: 0
+  - toolConf: {fileID: 11400000, guid: 01e640a0654bd964faa54749e199a302, type: 2}
+    isHighlight: 0
+  - toolConf: {fileID: 11400000, guid: bfac9404aaaae0a48a4f130bb0249d4c, type: 2}
+    isHighlight: 0
+  - toolConf: {fileID: 11400000, guid: 9d39f7797601a6845be398a95e8de67b, type: 2}
+    isHighlight: 0
+  goalTrainingErrorHighlightTools:
+  - toolConf: {fileID: 11400000, guid: 2135207098929c043b8eff8bff5033fb, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: b41044ef2d215fa4d88638c16d98dfae, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: d3c3d6112ce46214eb1d69e3cd6b840d, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: e005bbfe60a7ec344ad6f3cb8651c5a6, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: 143cd13e3f5bb1349b5a62c35d82d42e, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: badd2e12ee9e9594fa08b0c953c13a3a, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: 01e640a0654bd964faa54749e199a302, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: bfac9404aaaae0a48a4f130bb0249d4c, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: 9d39f7797601a6845be398a95e8de67b, type: 2}
+    isHighlight: 1
+  goalExaminationStartAudioKeys: []
+  goalExaminationErrorAudioKeys:
+  - T1020
+  goalExaminationSuccessHighlightTools: []
+  goalExaminationErrorHighlightTools: []
+  isNecessaryGoal: 1
+  goalTeachingStartAudioKeys: []
+  playDeltTime: 0
+  toolZhaoMingDeng: {fileID: 11400000, guid: 718187b0f506f054eb7e347fd15b33c7, type: 2}
+  checkTools:
+  - {fileID: 11400000, guid: 71437c3a20680854db4255fab204bc1b, type: 2}
+  - {fileID: 11400000, guid: f38166ed033ddda4183d12fcae3ea9aa, type: 2}
+  - {fileID: 11400000, guid: b1852cfc0f630c049b2268d79ba66b66, type: 2}
+  - {fileID: 11400000, guid: bfec88e85eb309b44b5d06f63fb77d09, type: 2}
+  - {fileID: 11400000, guid: d732ba682d166204e829c8b24866e4b4, type: 2}
+  - {fileID: 11400000, guid: 890e43c580c2b4742b8c3c2aff82c89b, type: 2}
+  - {fileID: 11400000, guid: a1ab8c9efee1ad84bb65e5972d98671f, type: 2}
+  - {fileID: 11400000, guid: d4731a23d4dc34b44be17ee5ba7896d9, type: 2}

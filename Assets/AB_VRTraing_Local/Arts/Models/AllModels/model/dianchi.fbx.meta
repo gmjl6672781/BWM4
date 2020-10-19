@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: f8939d79908dc4c49ab272247243b785
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: anquanhe
+    100002: biaoqian
+    100004: biaoqian_01
+    100006: biaoqian_02
+    100008: biaoqian_03
+    100010: biaoqian_04
+    100012: biaoqian_05
+    100014: buchong
+    100016: buchong11_29
+    100018: //RootNode
+    100020: dianchi
+    100022: dianchi_gengxin
+    100024: dianchimokuai
+    100026: diyaxianshu
+    100028: gaoyachatou
+    100030: gaoyachatou_01
+    100032: gaoyachatou_01 1
+    100034: gaoyachatou_02
+    100036: gaoyachatou_02 1
+    100038: gaoyachatou_03
+    100040: gaoyachatou_04
+    100042: gaoyaxianshu
+    100044: gaoyaxianshu_01
+    100046: gaoyaxianshu_011
+    100048: gaoyaxianshu_011 1
+    100050: gaoyaxianshu_02
+    100052: gaoyaxianshu_02 1
+    100054: gaoyaxianshu_03
+    100056: gaoyaxianshu_04
+    100058: gaoyaxianshu_08
+    100060: gaoyaxianshu_09
+    100062: gaoyaxiansuchatou__bai
+    100064: gaoyaxiansuchatou_hei
+    100066: group2
+    100068: luomu
+    100070: luomu_01
+    100072: luomu_02
+    100074: luomu_03
+    100076: luomu_04
+    100078: mifengjian
+    100080: pasted__dianchimokuai
+    100082: pasted__gaoyachatou_02
+    100084: pasted__gaoyachatou_03
+    100086: pasted__gaoyachatou_04
+    100088: pasted__gaoyaxianshu_02
+    100090: pasted__gaoyaxianshu_03
+    100092: pCube14
+    100094: pCube15
+    100096: pCylinder1
+    100098: polySurface1546
+    100100: polySurface1546 1
+    100102: polySurface1557
+    100104: polySurface1557 1
+    100106: polySurface1840
+    100108: polySurface1846
+    100110: polySurface1847
+    100112: polySurface1848
+    100114: polySurface1849
+    100116: polySurface1850
+    100118: polySurface1861
+    100120: qiazi
+    100122: qiazi_01
+    100124: qiazi_02
+    100126: qiazi_03
+    100128: qiazi_04
+    100130: t
+    100132: zhadai_01
+    100134: zhadai_02
+    100136: zhijia01
+    400000: anquanhe
+    400002: biaoqian
+    400004: biaoqian_01
+    400006: biaoqian_02
+    400008: biaoqian_03
+    400010: biaoqian_04
+    400012: biaoqian_05
+    400014: buchong
+    400016: buchong11_29
+    400018: dianchi
+    400020: //RootNode
+    400022: dianchi_gengxin
+    400024: dianchimokuai
+    400026: diyaxianshu
+    400028: gaoyachatou
+    400030: gaoyachatou_01
+    400032: gaoyachatou_01 1
+    400034: gaoyachatou_02
+    400036: gaoyachatou_02 1
+    400038: gaoyachatou_03
+    400040: gaoyachatou_04
+    400042: gaoyaxianshu
+    400044: gaoyaxianshu_01
+    400046: gaoyaxianshu_011
+    400048: gaoyaxianshu_011 1
+    400050: gaoyaxianshu_02
+    400052: gaoyaxianshu_02 1
+    400054: gaoyaxianshu_03
+    400056: gaoyaxianshu_04
+    400058: gaoyaxianshu_08
+    400060: gaoyaxianshu_09
+    400062: gaoyaxiansuchatou__bai
+    400064: gaoyaxiansuchatou_hei
+    400066: group2
+    400068: luomu
+    400070: luomu_01
+    400072: luomu_02
+    400074: luomu_03
+    400076: luomu_04
+    400078: mifengjian
+    400080: pasted__dianchimokuai
+    400082: pasted__gaoyachatou_02
+    400084: pasted__gaoyachatou_03
+    400086: pasted__gaoyachatou_04
+    400088: pasted__gaoyaxianshu_02
+    400090: pasted__gaoyaxianshu_03
+    400092: pCube14
+    400094: pCube15
+    400096: pCylinder1
+    400098: polySurface1546
+    400100: polySurface1546 1
+    400102: polySurface1557
+    400104: polySurface1557 1
+    400106: polySurface1840
+    400108: polySurface1846
+    400110: polySurface1847
+    400112: polySurface1848
+    400114: polySurface1849
+    400116: polySurface1850
+    400118: polySurface1861
+    400120: qiazi
+    400122: qiazi_01
+    400124: qiazi_02
+    400126: qiazi_03
+    400128: qiazi_04
+    400130: t
+    400132: zhadai_01
+    400134: zhadai_02
+    400136: zhijia01
+    2100000: blinn8
+    2300000: anquanhe
+    2300002: biaoqian_01
+    2300004: biaoqian_02
+    2300006: biaoqian_03
+    2300008: biaoqian_04
+    2300010: biaoqian_05
+    2300012: diyaxianshu
+    2300014: gaoyachatou_01
+    2300016: gaoyachatou_01 1
+    2300018: gaoyachatou_02 1
+    2300020: gaoyachatou_03
+    2300022: gaoyachatou_04
+    2300024: gaoyaxianshu_01
+    2300026: gaoyaxianshu_011
+    2300028: gaoyaxianshu_011 1
+    2300030: gaoyaxianshu_02 1
+    2300032: gaoyaxianshu_03
+    2300034: gaoyaxianshu_04
+    2300036: gaoyaxianshu_08
+    2300038: gaoyaxianshu_09
+    2300040: luomu_01
+    2300042: luomu_02
+    2300044: luomu_03
+    2300046: luomu_04
+    2300048: mifengjian
+    2300050: pasted__dianchimokuai
+    2300052: pasted__gaoyachatou_02
+    2300054: pasted__gaoyachatou_03
+    2300056: pasted__gaoyachatou_04
+    2300058: pasted__gaoyaxianshu_02
+    2300060: pasted__gaoyaxianshu_03
+    2300062: pCylinder1
+    2300064: polySurface1546
+    2300066: polySurface1546 1
+    2300068: polySurface1557
+    2300070: polySurface1557 1
+    2300072: polySurface1840
+    2300074: polySurface1846
+    2300076: polySurface1847
+    2300078: polySurface1848
+    2300080: polySurface1849
+    2300082: polySurface1850
+    2300084: polySurface1861
+    2300086: qiazi_01
+    2300088: qiazi_02
+    2300090: qiazi_03
+    2300092: qiazi_04
+    2300094: zhadai_01
+    2300096: zhadai_02
+    3300000: anquanhe
+    3300002: biaoqian_01
+    3300004: biaoqian_02
+    3300006: biaoqian_03
+    3300008: biaoqian_04
+    3300010: biaoqian_05
+    3300012: diyaxianshu
+    3300014: gaoyachatou_01
+    3300016: gaoyachatou_01 1
+    3300018: gaoyachatou_02 1
+    3300020: gaoyachatou_03
+    3300022: gaoyachatou_04
+    3300024: gaoyaxianshu_01
+    3300026: gaoyaxianshu_011
+    3300028: gaoyaxianshu_011 1
+    3300030: gaoyaxianshu_02 1
+    3300032: gaoyaxianshu_03
+    3300034: gaoyaxianshu_04
+    3300036: gaoyaxianshu_08
+    3300038: gaoyaxianshu_09
+    3300040: luomu_01
+    3300042: luomu_02
+    3300044: luomu_03
+    3300046: luomu_04
+    3300048: mifengjian
+    3300050: pasted__dianchimokuai
+    3300052: pasted__gaoyachatou_02
+    3300054: pasted__gaoyachatou_03
+    3300056: pasted__gaoyachatou_04
+    3300058: pasted__gaoyaxianshu_02
+    3300060: pasted__gaoyaxianshu_03
+    3300062: pCylinder1
+    3300064: polySurface1546
+    3300066: polySurface1546 1
+    3300068: polySurface1557
+    3300070: polySurface1557 1
+    3300072: polySurface1840
+    3300074: polySurface1846
+    3300076: polySurface1847
+    3300078: polySurface1848
+    3300080: polySurface1849
+    3300082: polySurface1850
+    3300084: polySurface1861
+    3300086: qiazi_01
+    3300088: qiazi_02
+    3300090: qiazi_03
+    3300092: qiazi_04
+    3300094: zhadai_01
+    3300096: zhadai_02
+    4300000: biaoqian_01
+    4300002: biaoqian_02
+    4300004: biaoqian_03
+    4300006: luomu_01
+    4300008: luomu_02
+    4300010: luomu_03
+    4300012: luomu_04
+    4300014: qiazi_01
+    4300016: qiazi_02
+    4300018: qiazi_03
+    4300020: qiazi_04
+    4300022: gaoyachatou_01
+    4300024: gaoyachatou_02
+    4300026: gaoyachatou_03
+    4300028: gaoyachatou_04
+    4300030: gaoyaxianshu_02
+    4300032: gaoyaxianshu_03
+    4300034: gaoyachatou_01
+    4300036: pasted__gaoyachatou_02
+    4300038: pasted__gaoyachatou_03
+    4300040: pasted__gaoyachatou_04
+    4300042: pasted__gaoyaxianshu_02
+    4300044: pasted__gaoyaxianshu_03
+    4300046: pasted__dianchimokuai
+    4300048: diyaxianshu
+    4300050: zhadai_01
+    4300052: zhadai_02
+    4300054: mifengjian
+    4300056: anquanhe
+    4300058: pCylinder1
+    4300060: gaoyaxianshu_04
+    4300062: gaoyaxianshu_08
+    4300064: gaoyaxianshu_01
+    4300066: gaoyaxianshu_09
+    4300068: polySurface1861
+    4300070: biaoqian_04
+    4300072: gaoyaxianshu_011
+    4300074: polySurface1840
+    4300076: polySurface1846
+    4300078: polySurface1847
+    4300080: polySurface1848
+    4300082: polySurface1849
+    4300084: polySurface1850
+    4300086: gaoyaxianshu_011
+    4300088: polySurface1557
+    4300090: polySurface1546
+    4300092: polySurface1557
+    4300094: polySurface1546
+    4300096: biaoqian_05
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

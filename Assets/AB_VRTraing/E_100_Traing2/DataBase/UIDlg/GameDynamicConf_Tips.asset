@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4e7ab9cd1efbcd498c1ffe6a105d3fe, type: 3}
+  m_Name: GameDynamicConf_Tips
+  m_EditorClassIdentifier: 
+  nodeConf: {fileID: 11400000, guid: 08ccd095d28bde5488030d9c45e6c9c4, type: 2}
+  dynamicName: TipsDlg
+  prefabPath: ab_vrtraing/e_100_traing2/arts/prefabs/ui/tipsdlg.prefab
+  isLoadSyn: 0
+  isDelOnReset: 1
+  localPrefab: {fileID: 2410538275368417265, guid: 60725a0eb6bf9b14896d4e7a51ef933a,
+    type: 3}
+  isRoot: 0
+  isLookCamera: 1
+  isUpdate: 1
+  forward: 1
+  isListen: 1
+  parentDynamicer: {fileID: 0}
+  isAllFllow: 0

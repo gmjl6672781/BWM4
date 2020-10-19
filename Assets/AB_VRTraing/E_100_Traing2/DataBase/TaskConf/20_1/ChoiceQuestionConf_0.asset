@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd5e463b6f80cab44ab195855093341a, type: 3}
+  m_Name: ChoiceQuestionConf_0
+  m_EditorClassIdentifier: 
+  keyMessage: T96
+  answers:
+  - keyAnswer: T97
+    keyAudios:
+    - T1067
+    highlightTools: []
+    dynamicConfs:
+    - {fileID: 11400000, guid: 73a7456ac97b9bf479a336e20f1e2e68, type: 2}
+  - keyAnswer: T98
+    keyAudios:
+    - T1000
+    highlightTools: []
+    dynamicConfs: []
+  goSlelection: {fileID: 2274715190598458480, guid: 3b27ceef4a9afdd48bdc74362d6ddae8,
+    type: 3}
+  rightAnswer: 1

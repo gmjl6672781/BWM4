@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <TaskScoreConf>
+    <T39 PriKey="T39" TraingScore="5" ExamScore="15" />
+    <T40 PriKey="T40" TraingScore="5" ExamScore="10" />
+    <T41 PriKey="T41" TraingScore="5" ExamScore="10" />
+    <T42 PriKey="T42" TraingScore="5" ExamScore="10" />
+    <T43 PriKey="T43" TraingScore="5" ExamScore="10" />
+    <T44 PriKey="T44" TraingScore="5" ExamScore="10" />
+    <T45 PriKey="T45" TraingScore="5" ExamScore="10" />
+    <T46 PriKey="T46" TraingScore="5" ExamScore="10" />
+    <T47 PriKey="T47" TraingScore="5" ExamScore="10" />
+    <T48 PriKey="T48" TraingScore="5" ExamScore="10" />
+    <T49 PriKey="T49" TraingScore="5" ExamScore="10" />
+    <T50 PriKey="T50" TraingScore="5" ExamScore="10" />
+    <T51 PriKey="T51" TraingScore="5" ExamScore="10" />
+    <T52 PriKey="T52" TraingScore="5" ExamScore="10" />
+    <T53 PriKey="T53" TraingScore="5" ExamScore="10" />
+    <T54 PriKey="T54" TraingScore="5" ExamScore="10" />
+    <T55 PriKey="T55" TraingScore="5" ExamScore="10" />
+    <T56 PriKey="T56" TraingScore="5" ExamScore="10" />
+    <T57 PriKey="T57" TraingScore="5" ExamScore="10" />
+    <T58 PriKey="T58" TraingScore="5" ExamScore="10" />
+    <T59 PriKey="T59" TraingScore="5" ExamScore="15" />
+  </TaskScoreConf>
+</Config>

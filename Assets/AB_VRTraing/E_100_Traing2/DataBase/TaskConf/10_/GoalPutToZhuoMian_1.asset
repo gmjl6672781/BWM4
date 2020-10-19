@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e60f271185c1f8540ae78832847b9464, type: 3}
+  m_Name: GoalPutToZhuoMian_1
+  m_EditorClassIdentifier: 
+  goalName: 
+  goalMode: 0
+  priority: 0
+  isAutoPlayStartAudio: 1
+  isAutoHighlightStartTool: 1
+  goalKey: T1045
+  goalTrainingStartAudioKeys:
+  - T1045
+  - T1046
+  goalTrainingErrorAudioKeys: []
+  goalTrainingStartHighlightTools: []
+  goalExaminationStartAudioKeys:
+  - T1045
+  - T1046
+  goalExaminationErrorAudioKeys: []
+  goalExaminationStartHighlightTools: []
+  goalTeachingStartAudioKeys: []
+  playDeltTime: 0
+  isFinalGoal: 0
+  targetTool: {fileID: 11400000, guid: 32213215d640bec42b6702775fa5a8cd, type: 2}
+  aocao: {fileID: 11400000, guid: a70dacb842d61b14784bc19f9699e700, type: 2}
+  tipWatieTime: 0
+  isHighLightBox: 0

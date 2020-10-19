@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e574433f72ab1574f855d9eb546db53d, type: 3}
+  m_Name: UIDynamicConf_TaskOverTip
+  m_EditorClassIdentifier: 
+  gameDynamicConf: {fileID: 11400000, guid: 2ed311a0806a0a94ba4472e21e5d957d, type: 2}
+  isForeceCreate: 1
+  isListenAction: 0
+  listenAction: []
+  unListenAction: []
+  delayTime: 0
+  isHideOnDelay: 0
+  showTime: 3
+  isAutoDestroy: 1
+  isAutoHide: 0
+  isLoop: 0
+  isResetWorld: 0
+  position: {x: 0, y: 0, z: 0}
+  angle: {x: 0, y: 0, z: 0}
+  scale: {x: 1, y: 1, z: 1}
+  isDelOnChangeList: 1
+  isStopOnChangeList: 1
+  isShowOnStop: 0
+  isLockChild: 0
+  isRandHideTime: 0
+  randHideTime: {x: 0, y: 0}
+  isForceInstance: 0
+  pos: {x: -0, y: -100}
+  pivot: {x: 0.5, y: 0.5}
+  maintargetName: Text
+  mainRect: {fileID: 0}

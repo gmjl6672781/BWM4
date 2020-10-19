@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bddf76f44ea254b48ab88e757c6ea3de, type: 3}
+  m_Name: DynamicConf_C04_1_dianji
+  m_EditorClassIdentifier: 
+  gameDynamicConf: {fileID: 11400000, guid: 0e9bf68ba4217974d94579fc7529e76c, type: 2}
+  isForeceCreate: 1
+  isListenAction: 0
+  listenAction: []
+  unListenAction: []
+  delayTime: 5
+  isHideOnDelay: 1
+  showTime: 2
+  isAutoDestroy: 1
+  isAutoHide: 0
+  isLoop: 0
+  isResetWorld: 1
+  position: {x: 3.656, y: 0.985, z: -0.418}
+  angle: {x: 0, y: 0, z: 0}
+  scale: {x: 0.2, y: 0.2, z: 0.2}
+  isDelOnChangeList: 1
+  isStopOnChangeList: 1
+  isShowOnStop: 0
+  isLockChild: 0
+  isRandHideTime: 0
+  randHideTime: {x: 0, y: 0}
+  isForceInstance: 0

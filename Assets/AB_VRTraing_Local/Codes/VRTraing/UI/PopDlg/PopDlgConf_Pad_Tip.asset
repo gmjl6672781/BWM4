@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7148cef73cab7624aabc445a08b2dc4b, type: 3}
+  m_Name: PopDlgConf_Pad_Tip
+  m_EditorClassIdentifier: 
+  gameDynamicConf: {fileID: 11400000, guid: 72854284c330d7e4b91599d4ebc8ca2b, type: 2}
+  isForeceCreate: 1
+  isListenAction: 0
+  listenAction: []
+  unListenAction: []
+  delayTime: 1
+  isHideOnDelay: 1
+  showTime: 3000
+  isAutoDestroy: 0
+  isAutoHide: 0
+  isLoop: 0
+  isResetWorld: 0
+  position: {x: 0, y: 0, z: 0}
+  angle: {x: 0, y: 0, z: 0}
+  scale: {x: 1, y: 1, z: 1}
+  isDelOnChangeList: 1
+  isStopOnChangeList: 1
+  isShowOnStop: 0
+  isLockChild: 0
+  isRandHideTime: 0
+  randHideTime: {x: 0, y: 0}
+  isForceInstance: 1
+  handType: 1
+  linePath:
+  - {x: 0, y: -0.04, z: 0}
+  - {x: 0.1, y: 0.15, z: 0.2}
+  - {x: 0.35, y: 0.15, z: 0.2}
+  titleKey: T60
+  msgKey: T63
+  skipKey: 
+  isCompleteTaskOnClick: 1
+  isHideOnClick: 1
+  isDesOnClick: 1
+  alignment: {x: 0, y: 0}
+  jumpToTask: {fileID: 11400000, guid: 5d7837ed74c094548b11d15dd49a7b3a, type: 2}

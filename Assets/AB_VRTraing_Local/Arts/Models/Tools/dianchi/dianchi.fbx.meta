@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 8e85e0b70e45a104eb9b34c9f64b452d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: anquanhe
+    100002: biaoqian
+    100004: biaoqian_01
+    100006: biaoqian_02
+    100008: biaoqian_03
+    100010: dianchi
+    100012: //RootNode
+    100014: dianchimokuai
+    100016: dianchizhaogai
+    100018: diyaxianshu
+    100020: gaoyachatou
+    100022: gaoyachatou_01
+    100024: gaoyachatou_01 1
+    100026: gaoyachatou_02
+    100028: gaoyachatou_02 1
+    100030: gaoyachatou_02 2
+    100032: gaoyachatou_03
+    100034: gaoyachatou_03 1
+    100036: gaoyachatou_04
+    100038: gaoyachatou_04 1
+    100040: gaoyaxianshu
+    100042: gaoyaxianshu_01
+    100044: gaoyaxianshu_01 1
+    100046: gaoyaxianshu_02
+    100048: gaoyaxianshu_02 1
+    100050: gaoyaxianshu_02 2
+    100052: gaoyaxianshu_03
+    100054: gaoyaxianshu_03 1
+    100056: gaoyaxianshu_04
+    100058: gaoyaxianshu_04 1
+    100060: luomu
+    100062: luomu_01
+    100064: luomu_02
+    100066: luomu_03
+    100068: luomu_04
+    100070: mifengjian
+    100072: polySurface1520
+    100074: qiazi
+    100076: qiazi_01
+    100078: qiazi_02
+    100080: qiazi_03
+    100082: qiazi_04
+    100084: zhadai_01
+    100086: zhadai_02
+    100088: zhijia01
+    100090: zhijia_01
+    100092: zhijia_02
+    400000: anquanhe
+    400002: biaoqian
+    400004: biaoqian_01
+    400006: biaoqian_02
+    400008: biaoqian_03
+    400010: dianchi
+    400012: //RootNode
+    400014: dianchimokuai
+    400016: dianchizhaogai
+    400018: diyaxianshu
+    400020: gaoyachatou
+    400022: gaoyachatou_01
+    400024: gaoyachatou_01 1
+    400026: gaoyachatou_02
+    400028: gaoyachatou_02 1
+    400030: gaoyachatou_02 2
+    400032: gaoyachatou_03
+    400034: gaoyachatou_03 1
+    400036: gaoyachatou_04
+    400038: gaoyachatou_04 1
+    400040: gaoyaxianshu
+    400042: gaoyaxianshu_01
+    400044: gaoyaxianshu_01 1
+    400046: gaoyaxianshu_02
+    400048: gaoyaxianshu_02 1
+    400050: gaoyaxianshu_02 2
+    400052: gaoyaxianshu_03
+    400054: gaoyaxianshu_03 1
+    400056: gaoyaxianshu_04
+    400058: gaoyaxianshu_04 1
+    400060: luomu
+    400062: luomu_01
+    400064: luomu_02
+    400066: luomu_03
+    400068: luomu_04
+    400070: mifengjian
+    400072: polySurface1520
+    400074: qiazi
+    400076: qiazi_01
+    400078: qiazi_02
+    400080: qiazi_03
+    400082: qiazi_04
+    400084: zhadai_01
+    400086: zhadai_02
+    400088: zhijia01
+    400090: zhijia_01
+    400092: zhijia_02
+    2100000: blinn1
+    2300000: anquanhe
+    2300002: biaoqian_01
+    2300004: biaoqian_02
+    2300006: biaoqian_03
+    2300008: dianchizhaogai
+    2300010: diyaxianshu
+    2300012: gaoyachatou_01
+    2300014: gaoyachatou_01 1
+    2300016: gaoyachatou_02 1
+    2300018: gaoyachatou_02 2
+    2300020: gaoyachatou_03
+    2300022: gaoyachatou_03 1
+    2300024: gaoyachatou_04
+    2300026: gaoyachatou_04 1
+    2300028: gaoyaxianshu_01
+    2300030: gaoyaxianshu_01 1
+    2300032: gaoyaxianshu_02 1
+    2300034: gaoyaxianshu_02 2
+    2300036: gaoyaxianshu_03
+    2300038: gaoyaxianshu_03 1
+    2300040: gaoyaxianshu_04
+    2300042: gaoyaxianshu_04 1
+    2300044: luomu_01
+    2300046: luomu_02
+    2300048: luomu_03
+    2300050: luomu_04
+    2300052: mifengjian
+    2300054: polySurface1520
+    2300056: qiazi_01
+    2300058: qiazi_02
+    2300060: qiazi_03
+    2300062: qiazi_04
+    2300064: zhadai_01
+    2300066: zhadai_02
+    2300068: zhijia_01
+    2300070: zhijia_02
+    3300000: anquanhe
+    3300002: biaoqian_01
+    3300004: biaoqian_02
+    3300006: biaoqian_03
+    3300008: dianchizhaogai
+    3300010: diyaxianshu
+    3300012: gaoyachatou_01
+    3300014: gaoyachatou_01 1
+    3300016: gaoyachatou_02 1
+    3300018: gaoyachatou_02 2
+    3300020: gaoyachatou_03
+    3300022: gaoyachatou_03 1
+    3300024: gaoyachatou_04
+    3300026: gaoyachatou_04 1
+    3300028: gaoyaxianshu_01
+    3300030: gaoyaxianshu_01 1
+    3300032: gaoyaxianshu_02 1
+    3300034: gaoyaxianshu_02 2
+    3300036: gaoyaxianshu_03
+    3300038: gaoyaxianshu_03 1
+    3300040: gaoyaxianshu_04
+    3300042: gaoyaxianshu_04 1
+    3300044: luomu_01
+    3300046: luomu_02
+    3300048: luomu_03
+    3300050: luomu_04
+    3300052: mifengjian
+    3300054: polySurface1520
+    3300056: qiazi_01
+    3300058: qiazi_02
+    3300060: qiazi_03
+    3300062: qiazi_04
+    3300064: zhadai_01
+    3300066: zhadai_02
+    3300068: zhijia_01
+    3300070: zhijia_02
+    4300000: biaoqian_01
+    4300002: biaoqian_02
+    4300004: biaoqian_03
+    4300006: luomu_01
+    4300008: luomu_02
+    4300010: luomu_03
+    4300012: luomu_04
+    4300014: qiazi_01
+    4300016: qiazi_02
+    4300018: qiazi_03
+    4300020: qiazi_04
+    4300022: gaoyachatou_01
+    4300024: gaoyachatou_02
+    4300026: gaoyachatou_03
+    4300028: gaoyachatou_04
+    4300030: gaoyaxianshu_01
+    4300032: gaoyaxianshu_02
+    4300034: gaoyaxianshu_03
+    4300036: gaoyaxianshu_04
+    4300038: gaoyachatou_01
+    4300040: gaoyachatou_02
+    4300042: gaoyachatou_03
+    4300044: gaoyachatou_04
+    4300046: gaoyaxianshu_01
+    4300048: gaoyaxianshu_02
+    4300050: gaoyaxianshu_03
+    4300052: gaoyaxianshu_04
+    4300054: zhijia_01
+    4300056: zhijia_02
+    4300058: polySurface1520
+    4300060: diyaxianshu
+    4300062: zhadai_01
+    4300064: zhadai_02
+    4300066: mifengjian
+    4300068: anquanhe
+    4300070: dianchizhaogai
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
