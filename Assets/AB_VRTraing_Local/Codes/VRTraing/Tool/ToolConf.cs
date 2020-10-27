@@ -42,6 +42,7 @@ namespace BeinLab.VRTraing.Conf
 
         //高亮信息设置        
         public bool isLightFlash;
+        public bool isFlashStart;//是否在开始闪烁，闪烁3次后就恢复默认状态
         public bool isShowBody;
         public bool isLightAll;
         public float flashFrequency;

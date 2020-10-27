@@ -18,6 +18,7 @@ MonoBehaviour:
   angularDrag: 0.05
   toolModel: {fileID: 0}
   isLightFlash: 1
+  isFlashStart: 0
   isShowBody: 1
   isLightAll: 1
   flashFrequency: 0.5
