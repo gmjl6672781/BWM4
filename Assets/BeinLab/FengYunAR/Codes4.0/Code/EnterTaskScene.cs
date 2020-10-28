@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using BeinLab.VRTraing.Mgr;
+using System;
 
 public class EnterTaskScene : MonoBehaviour
 {
@@ -11,8 +13,18 @@ public class EnterTaskScene : MonoBehaviour
     public Slider slider;
     public GameObject LogoDlg;
     public GameObject OpenDlg;
+    public static Action ChangScene;
+
     // Start is called before the first frame update
     void Start()
+    {
+        LogoDlg.SetActive(false);
+        OpenDlg.SetActive(false);
+        ChooseLanguage.action += Dlg;
+        //Dlg();
+    }
+
+    public void Dlg()
     {
         LogoDlg.SetActive(true);
         OpenDlg.SetActive(false);
@@ -34,11 +46,23 @@ public class EnterTaskScene : MonoBehaviour
         }
         LogoDlg.SetActive(false);
         OpenDlg.SetActive(true);
-        while (!SelectLanguage.isOver)
-        {
-            yield return new WaitForFixedUpdate();
-        }
+
+        //while (!SelectLanguage.isOver)
+        //{
+        //    yield return new WaitForFixedUpdate();
+        //}
+        //if (ChangScene != null)
+        //    ChangScene();
+        //while(!PlayrController.canShow)
+        //{
+        //    yield return new WaitForFixedUpdate();
+        //}
         ao.allowSceneActivation = true;
     }
-    
+
+    private void OnDestroy()
+    {
+        ChooseLanguage.action -= Dlg;
+    }
+
 }

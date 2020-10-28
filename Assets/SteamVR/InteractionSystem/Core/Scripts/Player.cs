@@ -256,7 +256,8 @@ namespace Valve.VR.InteractionSystem
 			{
 				trackingOriginTransform = this.transform;
 			}
-		}
+
+        }
 
 
 		//-------------------------------------------------

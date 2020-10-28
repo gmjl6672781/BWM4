@@ -21,6 +21,9 @@ namespace BeinLab.UI
     /// </summary>
     public class ResultDlg : Singleton<ResultDlg>
     {
+        private GameObject player;
+        private GameObject gameController;
+
         public string examPassKey = "T1074";
         public string examNoPassKey = "T1075";
         public string traingKey = "T1076";
@@ -58,6 +61,8 @@ namespace BeinLab.UI
         public Text examSocreText;
         private void Start()
         {
+            player = GameObject.Find("Player");
+            gameController = GameObject.Find("GameController");
             baseDlg = GetComponent<BaseDlg>();
             returnButton.onClick.AddListener(ClickReturnButton);
             reStartButton.onClick.AddListener(ClickReStartButton);
@@ -104,6 +109,8 @@ namespace BeinLab.UI
         {
             ClearComponent();
             SceneManager.LoadScene(0);
+            Destroy(player);
+            Destroy(gameController);
             gameObject.SetActive(false);
             //Destroy(gameObject);
         }
@@ -215,10 +222,14 @@ namespace BeinLab.UI
                 }
                 //reslutMsg += ": " + notPass;
                 resultLabel.SetMessage(reslutMsg);
-                TestSendResult(infoList, (int)score);
+                //tdwc.TransformData((int)score);
+                //TestSendResult(infoList, (int)score);
             }
             return isSuccess;
         }
+
+        public TransferDataWhenComplete tdwc;
+
         /// <summary>
         /// 初始化组件
         /// 点击了历史记录
@@ -338,11 +349,11 @@ namespace BeinLab.UI
         /// <param name="resultConf"></param>
         public void TestSendResult(List<ResultInfo> infoList, int examScores)
         {
-            if (string.IsNullOrEmpty(LoginDlg.userName) || UserDlg.user == null)
-            {
-                Debug.LogErrorFormat("Error Send Msg {0},{1}", LoginDlg.userName, UserDlg.user);
-                return;
-            }
+            //if (string.IsNullOrEmpty(LoginDlg.userName) || UserDlg.user == null)
+            //{
+            //    Debug.LogErrorFormat("Error Send Msg {0},{1}", LoginDlg.userName, UserDlg.user);
+            //    return;
+            //}
             SendResult sr = new SendResult();
             sr.userCode = LoginDlg.userName;
             sr.userId = UserDlg.user.IdNum;

@@ -109,8 +109,18 @@ namespace BeinLab.VRTraing.Mgr
         }
         private void Update()
         {
+            if(Target==null)
+            {
+                GameObject obj = GameObject.Find("Target");
+                if (obj)
+                    Target = obj.transform;
+                else
+                    Target = new GameObject("Target").transform;
+            }
             if (Player.instance)
             {
+                //Debug.Log("Target----------------" + Target);
+                //Debug.Log("Player.instance.hmdTransform----------------" + Player.instance.hmdTransform);
                 Target.position = Player.instance.hmdTransform.position;
                 Vector3 forward = Player.instance.hmdTransform.transform.forward;
                 forward.y = 0;
@@ -286,6 +296,7 @@ namespace BeinLab.VRTraing.Mgr
         protected override void OnDestroy()
         {
             base.OnDestroy();
+            //Debug.Log("------------------------OnDestroy");
             OnHandActive -= OnHandActiveEvent;
         }
         /// <summary>

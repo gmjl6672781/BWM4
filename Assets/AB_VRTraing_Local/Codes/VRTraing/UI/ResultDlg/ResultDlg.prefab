@@ -2387,6 +2387,7 @@ MonoBehaviour:
   histroyRoot: {fileID: 7729212725502296464}
   personBtn: {fileID: 4015482681412557665}
   examSocreText: {fileID: 8906153408416869517}
+  tdwc: {fileID: 0}
 --- !u!114 &5652072919609984535
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2403,4 +2404,3 @@ MonoBehaviour:
   handType: 2
   isShock: 1
   taskConf: {fileID: 11400000, guid: d04a70e895c7a1045b358d42008870dc, type: 2}
-  jilunbanshou: {fileID: 11400000, guid: b7e08fce4442c8b44bff8ea31cb432f9, type: 2}

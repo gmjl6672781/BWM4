@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/CheckScene.unity
+    guid: eea73455ad9e499429f23dacd496c61c
+  - enabled: 0
+    path: Assets/Scenes/Loading.unity
+    guid: 0fa8d36c8f8d3e740891bc0b72063b0b
+  - enabled: 0
+    path: Assets/Scenes/BMWScene.unity
+    guid: db04f7e57a50d9e47ab198e7e8a136c7
+  - enabled: 1
+    path: Assets/LoadingHub.unity
+    guid: 582495da45d682f41846d5916665667a
+  - enabled: 1
+    path: Assets/BMWSceneHub.unity
+    guid: 81f226b14bf01934b95f9b8c487d0fe6
   m_configObjects: {}

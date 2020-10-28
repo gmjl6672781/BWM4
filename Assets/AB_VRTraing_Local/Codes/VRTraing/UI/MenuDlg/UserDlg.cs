@@ -105,7 +105,7 @@ namespace BeinLab.UI
         void Start()
         {
             ///获取用户信息
-            TestGetUserInfon();
+            //TestGetUserInfon();
             //ShowUser(user);
             TestGetHistroy();
             //resultList = UnityUtil.ReadXMLData<ResultConf>(GameDataMgr.Instance.AssetPath);
@@ -117,7 +117,7 @@ namespace BeinLab.UI
         private void OnEnable()
         {
             ///获取用户信息
-            TestGetUserInfon();
+            //TestGetUserInfon();
             //ShowUser(user);
             TestGetHistroy();
         }

@@ -81,6 +81,9 @@ namespace BeinLab.VRTraing.UI
                 SetTaskMode(TaskMode.Training);
                 HideDlg();
                 OnSelectModel?.Invoke();
+                //与Hub交换数据
+                //LoadingHubMgr.mode = "training";
+                //LoadingHubMgr.inst.SelectMode();
             });
 
             btnExamination.onClick.AddListener(() =>
@@ -88,6 +91,9 @@ namespace BeinLab.VRTraing.UI
                 SetTaskMode(TaskMode.Examination);
                 HideDlg();
                 OnSelectModel?.Invoke();
+                //与Hub交换数据
+                //LoadingHubMgr.mode = "examing";
+                //LoadingHubMgr.inst.SelectMode();
             });
         }
 

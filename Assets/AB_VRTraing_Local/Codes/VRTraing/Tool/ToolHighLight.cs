@@ -199,20 +199,16 @@ namespace BeinLab.VRTraing
             else
             {
                 bool isHighlight = false;
-                int flashCount = toolConf.isFlashStart ? 3 : -1;
                 flashTimer = TimerMgr.Instance.CreateTimer(
-                    () =>
-                    {
+                    () => {
                         isHighlight = !isHighlight;
                         if (isHighlight)
                             ShowHighLight();
                         else
                             HideHighLight();
-                    }, toolConf.flashFrequency, flashCount);
+                    }, toolConf.flashFrequency, -1);
             }
         }
-
-
     }
 }
 
