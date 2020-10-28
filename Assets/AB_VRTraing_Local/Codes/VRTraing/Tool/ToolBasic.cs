@@ -64,12 +64,6 @@ namespace BeinLab.VRTraing
 
         }
 
-        //private void Update()
-        //{
-        //    if (gameObject.name == "GaoYaXianShu1")
-        //        Debug.Log("ToolBasic");
-        //}
-
         public void ToolAwake()
         {
             Awake();
@@ -115,8 +109,6 @@ namespace BeinLab.VRTraing
                 }
             }
         }
-
-        
         /// <summary>
         /// 放到凹槽中去
         /// </summary>
@@ -142,38 +134,31 @@ namespace BeinLab.VRTraing
                 {
                     catchHand.DetachObject(gameObject);
                 }
-                try
+                transform.DOKill();
+                Transform oldParent = transform.parent;
+                transform.SetParent(putTooConf.triggerTool.toolBasic.transform);
+
+                Tweener tweener = transform.DOLocalMove(putTooConf.putPos, isMoveNow ? 0 : putTooConf.doTime);
+                //Debug.Log("----------------------------------------PutToAoCao--"+ putTooConf);
+                //transform.position = putTooConf.triggerTool.toolBasic.transform.TransformPoint(putTooConf.putPos);
+
+                putTooConf.triggerTool.toolBasic.SetHoverTool(toolConf);
+                transform.localEulerAngles = putTooConf.putAngle;
+                //transform.DOLocalRotate(putTooConf.putAngle, putTooConf.doTime, RotateMode.FastBeyond360);
+                tweener.onComplete += () =>
                 {
-                    transform.DOKill();
-                    Transform oldParent = transform.parent;
-                    transform.SetParent(putTooConf.triggerTool.toolBasic.transform);
-                    Tweener tweener = transform.DOLocalMove(putTooConf.putPos, isMoveNow ? 0 : putTooConf.doTime);
-                    //Debug.Log("----------------------------------------PutToAoCao--"+ putTooConf);
-                    //transform.position = putTooConf.triggerTool.toolBasic.transform.TransformPoint(putTooConf.putPos);
-
-                    putTooConf.triggerTool.toolBasic.SetHoverTool(toolConf);
-                    transform.localEulerAngles = putTooConf.putAngle;
-                    //transform.DOLocalRotate(putTooConf.putAngle, putTooConf.doTime, RotateMode.FastBeyond360);
-                    tweener.onComplete += () =>
+                    OnPutAoCao?.Invoke(putTooConf);
+                    if (putTooConf.isReSetParent)
                     {
-                        OnPutAoCao?.Invoke(putTooConf);
-                        if (putTooConf.isReSetParent)
-                        {
-                            transform.SetParent(oldParent);
-                        }
-                        if (putTooConf.isCanCatchOnPut)
-                        {
-                            SetToolCatch(true);
-                        };
-
-                        //OnPutAoCao?.Invoke(putTooConf);
+                        transform.SetParent(oldParent);
+                    }
+                    if (putTooConf.isCanCatchOnPut)
+                    {
+                        SetToolCatch(true);
                     };
-                }
-                catch (Exception x)
-                { }
-                
 
-                
+                    //OnPutAoCao?.Invoke(putTooConf);
+                };
             }
         }
 
@@ -514,17 +499,15 @@ namespace BeinLab.VRTraing
 
         public void SetToolTaskInit(ToolTaskConf toolTaskConf)
         {
-            //Debug.Log("-----------toolTaskConf：" + toolTaskConf.name);
             SetToolHighlight(false);
             ToolTaskInfo toolTaskInfo = TaskManager.Instance.GetToolInitInfo(toolConf);
-           
-            if(toolTaskInfo.isSetPose && catchHand == null)
+
+            if (toolTaskInfo.isSetPose && catchHand == null)
             {
                 transform.localPosition = toolTaskInfo.position;
                 transform.localEulerAngles = toolTaskInfo.angle;
                 //Debug.Log("______物品："+transform.name+"重置位置："+ toolTaskInfo.position+" _________________________ "+ transform.localPosition);
             }
-            
             //print(name);
             if (toolTaskInfo.isSetCanCatch)
                 SetToolCatch(toolTaskInfo.isCanCatch);
@@ -534,10 +517,7 @@ namespace BeinLab.VRTraing
                 SetToolHighlight(toolTaskInfo.isHighlight);
             if (toolTaskInfo.isSetHide)
             {
-                try {
-                    gameObject.SetActive(!toolTaskInfo.isHide);
-                }
-                catch (Exception x) { }
+                gameObject.SetActive(!toolTaskInfo.isHide);
             }
             if (toolTaskInfo.isSetScaleSize)
                 transform.localScale = toolTaskInfo.scaleSize;

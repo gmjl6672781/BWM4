@@ -3,19 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - GaiZhao06
-  - GaiZhao01
-  - GaiZhao03
-  - GaiZhao07
-  - GaiZhao05
-  - GaiZhao09
-  - GaiZhao08
-  - GaiZhao04
-  - GaiZhao10
-  - GaiZhao02
-  - GaiZhaoRight
-  - GaiZhaoLeft
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -25,10 +13,10 @@ TagManager:
   - UI
   - 
   - 
-  - Father
-  - Son
-  - bianjie
-  - AoCao
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 

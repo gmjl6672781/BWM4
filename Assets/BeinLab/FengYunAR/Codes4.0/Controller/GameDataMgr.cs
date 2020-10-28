@@ -172,7 +172,6 @@ namespace BeinLab.Util
         {
             if (transform.parent == null)
                 DontDestroyOnLoad(gameObject);
-            Debug.Log(buildConf);
             if (buildConf.buildType == BulidType.LocalPhone || buildConf.buildType == BulidType.App)
             {
                 LocalRootPath = Application.dataPath;

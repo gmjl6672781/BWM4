@@ -222,7 +222,7 @@ namespace BeinLab.FengYun.Gamer
         }
         private void Update()
         {
-            if (gameDynamic && gameDynamic.isUpdate && Camera.main)
+            if (gameDynamic && gameDynamic.isUpdate)
             {
                 LookCamera();
             }

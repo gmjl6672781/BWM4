@@ -83,8 +83,6 @@ namespace BeinLab.VRTraing.Conf
                 {
                     if (isExit)
                     {
-                        Debug.Log(triggerTool);
-                        Debug.Log(triggerTool.toolBasic);
                         triggerTool.toolBasic.OnExitTool += OnExitTool;
                     }
                     else

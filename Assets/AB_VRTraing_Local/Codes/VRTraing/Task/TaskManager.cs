@@ -7,7 +7,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Networking;
-using UnityEngine.SceneManagement;
 
 namespace BeinLab.VRTraing.Mgr
 {
@@ -77,13 +76,7 @@ namespace BeinLab.VRTraing.Mgr
                 mCurrentTask = value;
             }
         }
-
-        private void OnEnable()
-        {
-            if (SceneManager.GetActiveScene().name == "BMWScene")
-                StartTask();
-        }
-
+        
         private void InitTasks()
         {
             //Debug.Log("——————————————————————————AllTaskInit--Start——————————————————————————");
@@ -107,8 +100,7 @@ namespace BeinLab.VRTraing.Mgr
         protected override void Awake()
         {
             base.Awake();
-            //DebugText.debugText.text = "TaskManager——————————Awake";
-            //Debug.Log("—————————————————————————— TaskManager Awake—————————————————————————");
+
             if (allTasks == null)
                 allTasks = new List<TaskConf>();
             if (dicRecordTasks == null)

@@ -1,78 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &3132672788745252573
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 8782735224170798703}
-  - component: {fileID: 3022285985787352434}
-  m_Layer: 0
-  m_Name: Camera
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!4 &8782735224170798703
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3132672788745252573}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 7857492191951747447}
-  m_RootOrder: 7
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!20 &3022285985787352434
-Camera:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3132672788745252573}
-  m_Enabled: 0
-  serializedVersion: 2
-  m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
-  m_projectionMatrixMode: 1
-  m_SensorSize: {x: 36, y: 24}
-  m_LensShift: {x: 0, y: 0}
-  m_GateFitMode: 2
-  m_FocalLength: 50
-  m_NormalizedViewPortRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
-  near clip plane: 0.01
-  far clip plane: 1000
-  field of view: 60
-  orthographic: 0
-  orthographic size: 5
-  m_Depth: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingPath: -1
-  m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 1
-  m_TargetEye: 0
-  m_HDR: 0
-  m_AllowMSAA: 0
-  m_AllowDynamicResolution: 0
-  m_ForceIntoRT: 0
-  m_OcclusionCulling: 1
-  m_StereoConvergence: 10
-  m_StereoSeparation: 0.022
 --- !u!1 &7856782456709672019
 GameObject:
   m_ObjectHideFlags: 0
@@ -1749,8 +1676,7 @@ MonoBehaviour:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
   mainCam: {fileID: 0}
-  dragDelt: 10
-  clickTime: 0.2
+  watieTime: 1
 --- !u!1 &7857492191952020941
 GameObject:
   m_ObjectHideFlags: 0
@@ -2095,8 +2021,7 @@ MonoBehaviour:
     actionPath: /actions/default/in/InteractUI
     needsReinit: 0
   mainCam: {fileID: 0}
-  dragDelt: 10
-  clickTime: 0.2
+  watieTime: 1
 --- !u!1 &7857492191952176839
 GameObject:
   m_ObjectHideFlags: 0
@@ -2210,7 +2135,6 @@ Transform:
   - {fileID: 7857492191951753595}
   - {fileID: 7855789002313523117}
   - {fileID: 7855789002550635045}
-  - {fileID: 8782735224170798703}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2254,14 +2178,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d27f4bb0bca91e459cd7f1f666021e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  VRInput_GrabGrip: {fileID: 11400000, guid: 89cdfcd520323bb468bedd477067ad40, type: 2}
-  VRInput_GrabPinch: {fileID: 11400000, guid: d319b29cd86a849478989794a8208b0d, type: 2}
-  VRInput_InteractUI: {fileID: 11400000, guid: 115ea0a493fd6424ea6cdb71e15d5b16, type: 2}
-  VRInput_Menu: {fileID: 11400000, guid: 6e93550b05ec5084b85db665f39bbfaf, type: 2}
-  VRInput_Teleport: {fileID: 11400000, guid: 29eca9cec6b83d2488449d3c59692176, type: 2}
-  VRInputAxes: {fileID: 11400000, guid: 1d7ff7dec69e352498181f1e234e5895, type: 2}
-  CenterCamera: {fileID: 3022285985787352434}
-  isActiveHandController: 0
 --- !u!1 &7857492191952179041
 GameObject:
   m_ObjectHideFlags: 0
@@ -2970,15 +2886,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c4e75efffe64dd04ba98979943b85ad5, type: 3}
---- !u!4 &835270228201169265 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 6738789306653613538, guid: c4e75efffe64dd04ba98979943b85ad5,
-    type: 3}
-  m_PrefabInstance: {fileID: 6202447292845915283}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &6205185105013736743 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4145204232354228, guid: c4e75efffe64dd04ba98979943b85ad5,
+    type: 3}
+  m_PrefabInstance: {fileID: 6202447292845915283}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &835270228201169265 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6738789306653613538, guid: c4e75efffe64dd04ba98979943b85ad5,
     type: 3}
   m_PrefabInstance: {fileID: 6202447292845915283}
   m_PrefabAsset: {fileID: 0}

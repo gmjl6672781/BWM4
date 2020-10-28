@@ -117,7 +117,7 @@ namespace BeinLab.VRTraing.Conf
         private bool isHasPlayEffect = false;
         public void AchieveGoal(bool success, bool isForceJump = false)
         {
-            //Debug.Log(TaskManager.Instance.CurrentTask + "-----" + "AchieveGoal");
+            Debug.Log(TaskManager.Instance.CurrentTask + "-----" + "AchieveGoal");
             dynTimer = TimerMgr.Instance.DestroyTimer(dynTimer);
             //bool isAllComplete = true;
 
@@ -242,8 +242,8 @@ namespace BeinLab.VRTraing.Conf
                 }, wtime);
                 return;
             }
-            //Debug.Log("CurrentTask-------------" + TaskManager.Instance.CurrentTask);
-            //Debug.Log("dynShowTime-------------"+dynShowTime);
+            Debug.Log("CurrentTask-------------" + TaskManager.Instance.CurrentTask);
+            Debug.Log("dynShowTime-------------"+dynShowTime);
             //dynTimer = TimerMgr.Instance.DestroyTimer(dynTimer);
             dynTimer = TimerMgr.Instance.CreateTimer(() =>
             {
@@ -538,7 +538,7 @@ namespace BeinLab.VRTraing.Conf
 
         private void OnPlayComplete()
         {
-            //Debug.Log(TaskManager.Instance.CurrentTask + "-----" + "OnPlayComplete");
+            Debug.Log(TaskManager.Instance.CurrentTask + "-----" + "OnPlayComplete");
             LanguageMgr.Instance.OnPlayComplete -= OnPlayComplete;
             if (isJustPlayAudio&&TaskManager.Instance.CurrentTask==this)
             {
@@ -635,7 +635,6 @@ namespace BeinLab.VRTraing.Conf
                     case TaskState.Init:
                         if (oldState != TaskState.Init)
                         {
-                            //Debug.Log("this------------" + this);
                             _OnTaskInit(this);
                             //Debug.Log("_OnTaskInit------------------------------"+this);
                         }
