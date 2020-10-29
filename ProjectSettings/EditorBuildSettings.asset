@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Loading.unity
     guid: 9e827d84c16e5bd46bea69c4c58c24d1
   - enabled: 1
-    path: Assets/Scenes/BMW4.unity
+    path: Assets/Scenes/BMWNew.unity
     guid: cfd7eacbb8b114c46a21e2ceb292227a
   m_configObjects: {}
