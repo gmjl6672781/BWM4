@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.bmw4training.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "D:\\BMW_4\\BMW4Training\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "D:\\BMW\\BMW4\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "BMW4Training [Testing]"
