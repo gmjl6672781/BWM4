@@ -36,8 +36,10 @@ namespace BeinLab.VRTraing.UI
             base.Awake();
             InitComponent();
             //fs = GameObject.Find("Scene").transform.Find("ToolRoot/zhadaiqiang/zhadaiqiang/gearscrollCanvas/GameObject/gearscroll").GetComponent<FScrollPage.FScrollPage>();
-            arcSroll = GameObject.Find("Scene").transform.Find("ToolRoot/zhadaiqiang/zhadaiqiang/gearscrollCanvas/GameObject/arcScroll").GetComponent<ArcUIScroll>();
-            arcSroll?.setTargetObj(3);
+           
+            //arcSroll = GameObject.Find("Scene").transform.Find("ToolRoot/zhadaiqiang/zhadaiqiang/gearscrollCanvas/GameObject/arcScroll").GetComponent<ArcUIScroll>();
+            //arcSroll?.setTargetObj(3);
+
             //AddListener();
         }
 

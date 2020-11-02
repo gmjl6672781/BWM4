@@ -44,6 +44,7 @@ namespace BeinLab.VRTraing.Conf
                 ToolBasic tool = toolToPlace.toolConf.toolBasic;
                 if (tool.catchHand)
                 {
+                    Debug.Log(toolConf.name+"  放置成功");
                     tool.catchHand.DetachObject(tool.gameObject);
                     tool.SetToolCatch(false);
                     tool.transform.position = toolConf.toolBasic.transform.position;

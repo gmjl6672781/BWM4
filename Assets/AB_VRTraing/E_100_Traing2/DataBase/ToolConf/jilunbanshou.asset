@@ -51,4 +51,4 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 1a446755cd3e34e4e82444951c6d14ab, type: 2}
   - {fileID: 11400000, guid: e0ff873a7e4370d4583d9a847b17f47a, type: 2}
   indexAoCao: 0
-  canPutAoCao: 1
+  canPutAoCao: 0

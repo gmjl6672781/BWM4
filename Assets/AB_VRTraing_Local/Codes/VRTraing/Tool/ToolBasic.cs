@@ -125,7 +125,7 @@ namespace BeinLab.VRTraing
             //Debug.Log("isCanPutToAoCao==" + isCanPutToAoCao);
             //Debug.Log("putTooConf.triggerTool.toolBasic.IsAoCaoActive==" + putTooConf.triggerTool.toolBasic.IsAoCaoActive);
             ///当凹槽开启同时本身可以去凹槽的时候
-            if (putTooConf.triggerTool && isCanPutToAoCao && putTooConf.triggerTool.toolBasic.IsAoCaoActive)
+            if (putTooConf.triggerTool && isCanPutToAoCao && putTooConf.triggerTool && putTooConf.triggerTool.toolBasic &&  putTooConf.triggerTool.toolBasic.IsAoCaoActive)
             {
                 inAoCaoTime = Time.time;
                 SetToolCatch(false);

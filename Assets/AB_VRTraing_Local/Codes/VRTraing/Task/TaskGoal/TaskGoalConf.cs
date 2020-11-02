@@ -182,7 +182,7 @@ namespace BeinLab.VRTraing.Conf
         {
             if (!targetTask)
                 return;
-            //Debug.LogFormat("{0}完成任务目标:{1}", success ? "成功" : "失败", goalName);
+            Debug.LogFormat("{0}完成任务目标:{1}", success ? "成功" : "失败", goalName);
             HasDone = true;
             isAchieveGoal = success;
             OnAchieveGoal_(success);

@@ -49,3 +49,4 @@ MonoBehaviour:
   InitAngle: {x: 0, y: -180, z: 0}
   putList: []
   indexAoCao: 0
+  canPutAoCao: 1

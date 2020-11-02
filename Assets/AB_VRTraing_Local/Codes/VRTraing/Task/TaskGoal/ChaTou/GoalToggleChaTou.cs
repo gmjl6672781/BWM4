@@ -79,7 +79,7 @@ namespace BeinLab.VRTraing.Conf
             }
             else
             {
-                if (triggerTool != null)
+                if (triggerTool != null && triggerTool.toolBasic!=null)
                 {
                     if (isExit)
                     {

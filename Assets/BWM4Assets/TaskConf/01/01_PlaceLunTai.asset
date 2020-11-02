@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a303c3f01cb1de4ca226885954d02bd, type: 3}
+  m_Name: 01_PlaceLunTai
+  m_EditorClassIdentifier: 
+  goalName: "\u653E\u7F6E\u8F6E\u80CE"
+  goalMode: 0
+  priority: 3
+  isAutoPlayStartAudio: 0
+  isAutoHighlightStartTool: 0
+  goalKey: 
+  goalTrainingStartAudioKeys:
+  - 
+  goalTrainingErrorAudioKeys: []
+  goalTrainingStartHighlightTools:
+  - toolConf: {fileID: 11400000, guid: 8bbbbe29ab9e6de4298decade75b9d76, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: 9b33d8c078464c044a3578e81fc41201, type: 2}
+    isHighlight: 1
+  goalExaminationStartAudioKeys: []
+  goalExaminationErrorAudioKeys: []
+  goalExaminationStartHighlightTools: []
+  goalTeachingStartAudioKeys: []
+  playDeltTime: 0
+  isFinalGoal: 0
+  toolToPlace: {fileID: 11400000, guid: 415d4db14fe72d141bf17cccf3017a4a, type: 2}
+  toolToPlaceFlag: {fileID: 11400000, guid: 82c704e36cb422646bf23f25cb4066c4, type: 2}

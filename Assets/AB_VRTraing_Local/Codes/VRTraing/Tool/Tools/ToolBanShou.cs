@@ -47,9 +47,15 @@ namespace BeinLab.VRTraing
         {
             base.Awake();
             transform.GetComponent<Rigidbody>().isKinematic = true;
-            transform.SetParent(GameObject.Find(AotuBack.fatherName).transform);
-            transform.localPosition = AotuBack.autoPosition_Local;
-            transform.localRotation = Quaternion.Euler(AotuBack.autoRotation_Local);
+            if (AotuBack!=null)
+            {
+                transform.SetParent(GameObject.Find(AotuBack.fatherName).transform);
+                transform.localPosition = AotuBack.autoPosition_Local;
+                transform.localRotation = Quaternion.Euler(AotuBack.autoRotation_Local);
+            }
+            
+            
+            
             //print(transform.localPosition);
             //print(transform.localRotation.x+","+ transform.localRotation.y + "," + transform.localRotation.z);
             transform.GetComponent<Rigidbody>().isKinematic = false;

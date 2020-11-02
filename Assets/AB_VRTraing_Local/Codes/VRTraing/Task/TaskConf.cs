@@ -443,7 +443,7 @@ namespace BeinLab.VRTraing.Conf
         //事件源，供内部调用
         private void _OnTaskInit(TaskConf taskConf)
         {
-            //Debug.LogFormat("任务:{0} TaskInit Index:{1} 时间：{2}", this.taskName, this.index, Time.time);
+            Debug.LogFormat("任务:{0} TaskInit Index:{1} 时间：{2}", this.taskName, this.index, Time.time);
 
             //初始化
             IsPass = false;
@@ -464,7 +464,7 @@ namespace BeinLab.VRTraing.Conf
             isHasPlayEffect = false;
             isFirstReDo = true;
 
-            //Debug.LogFormat("任务:{0} OnTaskStart Index:{1} 时间：{2}", this.taskName, this.index, Time.time);
+            Debug.LogFormat("任务:{0} OnTaskStart Index:{1} 时间：{2}", this.taskName, this.index, Time.time);
             LanguageMgr.Instance.OnPlayComplete -= OnPlayComplete;
 
             JudgementQuestionDlg.Instance.SendAnswer += SendAnswer;

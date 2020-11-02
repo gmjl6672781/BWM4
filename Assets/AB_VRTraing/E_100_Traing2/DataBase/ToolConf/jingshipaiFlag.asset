@@ -24,7 +24,7 @@ MonoBehaviour:
   lightObjNames: []
   lightMat: {fileID: 2100000, guid: 7a402a6b78d31bd4bb1e4a13d4973388, type: 2}
   toolBasic: {fileID: 0}
-  catchFlags: 77
+  catchFlags: 76
   handPosition: {x: 0, y: -0.026, z: -0.095}
   handAngle: {x: 65.361, y: 0, z: 0}
   isSetCatchHighlight: 1
@@ -49,3 +49,4 @@ MonoBehaviour:
   InitAngle: {x: 0, y: 0, z: 0}
   putList: []
   indexAoCao: 0
+  canPutAoCao: 1

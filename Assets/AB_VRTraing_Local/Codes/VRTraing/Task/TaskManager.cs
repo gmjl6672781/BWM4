@@ -79,6 +79,7 @@ namespace BeinLab.VRTraing.Mgr
         
         private void InitTasks()
         {
+
             //Debug.Log("——————————————————————————AllTaskInit--Start——————————————————————————");
             TaskConf nextTask = firstTask;
             while (nextTask != null)
@@ -137,7 +138,7 @@ namespace BeinLab.VRTraing.Mgr
 
             TaskConf tempTask = CurrentTask;
             CurrentTask = taskConf;
-            if (CurrentTask.index == 35 || CurrentTask.index == 39 || CurrentTask.index == 41 || CurrentTask.index == 42)
+            //if (CurrentTask.index == 35 || CurrentTask.index == 39 || CurrentTask.index == 41 || CurrentTask.index == 42)
             {
                 CurrentTask.taskState = TaskState.Init;
             }
