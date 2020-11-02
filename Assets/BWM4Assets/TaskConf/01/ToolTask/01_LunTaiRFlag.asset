@@ -36,8 +36,8 @@ MonoBehaviour:
   isEndCanCatch: 0
   isSetEndKinematic: 0
   isEndKinematic: 0
-  isSetEndHide: 0
-  isEndHide: 0
+  isSetEndHide: 1
+  isEndHide: 1
   isSetEndHighlight: 1
   isEndHighlight: 0
   isSetEndScaleSize: 0

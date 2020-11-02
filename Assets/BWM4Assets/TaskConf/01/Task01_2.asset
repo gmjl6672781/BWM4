@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5c45a8f43e4676f4fb6bb535e43d49d0, type: 3}
-  m_Name: TaskConf_Select
+  m_Name: Task01_2
   m_EditorClassIdentifier: 
-  parent: {fileID: 0}
+  parent: {fileID: 11400000, guid: c1ee1d546ebe54944ab3c89d61aca2e1, type: 2}
   child: {fileID: 0}
-  littleBrother: {fileID: 11400000, guid: 7542fa615f20a0a4e82f542645b84e4b, type: 2}
-  oldBrother: {fileID: 11400000, guid: 51f8e07598c0f484c8b43a4aaca7622b, type: 2}
+  littleBrother: {fileID: 0}
+  oldBrother: {fileID: 11400000, guid: 5ea12dd9724298e4fbf5aa108370940c, type: 2}
   isRead: 0
-  taskName: 
-  index: 0
-  keyTitle: 
+  taskName: "\u62C6\u5378\u5DE6\u540E\u548C\u53F3\u540E\u2ECB\u8F6E1"
+  index: 8
+  keyTitle: T22
   keyTip: 
   isCanRecord: 0
   score: 0
@@ -27,27 +27,30 @@ MonoBehaviour:
   examScore: 10
   taskType: 0
   taskGoals:
-  - {fileID: 11400000, guid: ed2955760c51b4243800e0d8815f7cae, type: 2}
+  - {fileID: 11400000, guid: 1d1696c4ae005064e8c5919cd4dca7b0, type: 2}
   taskTools: []
   dynamicConfs: []
-  delayTimeStartToDoing: 1
+  delayTimeStartToDoing: 3
   delayTimeToStart: 1
-  isPlayAudioSuccessTask: 0
+  isPlayAudioSuccessTask: 1
   isPlayAudioOnError: 1
   isPlayAudioOnErrorInExaming: 1
-  audioOnErrorKeys: []
-  sceneAudioKeys: []
+  audioOnErrorKeys:
+  - T1014
+  sceneAudioKeys:
+  - T1012
   isJumpBigOnGoalError: 1
-  isRePlayStartAudio: 0
-  isPlayDynOnTaskError: 0
+  isRePlayStartAudio: 1
+  isPlayDynOnTaskError: 1
   errorTaskDynamics: []
-  isAutoPopQuest: 0
-  watieTime: 10
+  isAutoPopQuest: 1
+  watieTime: 20
   isJustPlayAudio: 0
   reDoTime: 10
   errorSound: -1
   TaskOverDynamicConf: []
   isCanPopDlg: 0
   judgementDlgConf: {fileID: 0}
+  confirmUIConf: {fileID: 0}
   isForceShow: 0
   isShowTaskGoalsMsg: 1

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0b6749785c1d4d4ab7786d78076d138, type: 3}
+  m_Name: 01_GoalShowConfirmUIDlgConf_0
+  m_EditorClassIdentifier: 
+  goalName: "\u53E6\u4E00\u4FA7\u8F6E\u80CE\u81EA\u52A8\u5F52\u4F4D"
+  goalMode: 0
+  priority: 0
+  isAutoPlayStartAudio: 0
+  isAutoHighlightStartTool: 1
+  goalKey: 
+  goalTrainingStartAudioKeys:
+  - T1013
+  goalTrainingErrorAudioKeys: []
+  goalTrainingStartHighlightTools:
+  - toolConf: {fileID: 11400000, guid: 6c6e22fe4557bde40bc213b98390a417, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: 1cded35339309664d919a1abf52262a4, type: 2}
+    isHighlight: 1
+  goalExaminationStartAudioKeys:
+  - T1013
+  goalExaminationErrorAudioKeys: []
+  goalExaminationStartHighlightTools:
+  - toolConf: {fileID: 11400000, guid: 6c6e22fe4557bde40bc213b98390a417, type: 2}
+    isHighlight: 1
+  - toolConf: {fileID: 11400000, guid: 1cded35339309664d919a1abf52262a4, type: 2}
+    isHighlight: 1
+  goalTeachingStartAudioKeys: []
+  playDeltTime: 0
+  isFinalGoal: 0
+  confirmUIConf: {fileID: 11400000, guid: 4c1295219f6fb3943a5409b074a0ddf9, type: 2}
+  taskGoalConf: {fileID: 11400000, guid: 86374d0f0f713514b9f8131a6105a9cd, type: 2}

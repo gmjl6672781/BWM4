@@ -90,6 +90,7 @@
     <Compile Include="Assets\AB_VRTraing_Local\Codes\VRTraing\Task\TaskGoal\GoalSetZhaDaiGearConf.cs" />
     <Compile Include="Assets\AB_VRTraing_Local\Codes\VRTraing\Task\TaskGoal\GoalShowAnswerFeedDlgConf.cs" />
     <Compile Include="Assets\AB_VRTraing_Local\Codes\VRTraing\Task\TaskGoal\GoalShowChoiceDlgConf.cs" />
+    <Compile Include="Assets\AB_VRTraing_Local\Codes\VRTraing\Task\TaskGoal\GoalShowConfirmUIDlgConf.cs" />
     <Compile Include="Assets\AB_VRTraing_Local\Codes\VRTraing\Task\TaskGoal\GoalShowJudgementDlgConf.cs" />
     <Compile Include="Assets\AB_VRTraing_Local\Codes\VRTraing\Task\TaskGoal\GoalShowMenuConf.cs" />
     <Compile Include="Assets\AB_VRTraing_Local\Codes\VRTraing\Task\TaskGoal\GoalShowSceneConf.cs" />
@@ -151,6 +152,8 @@
     <Compile Include="Assets\AB_VRTraing_Local\Codes\VRTraing\UI\AnswerFeedDlgConf.cs" />
     <Compile Include="Assets\AB_VRTraing_Local\Codes\VRTraing\UI\ChoiceQuestionConf.cs" />
     <Compile Include="Assets\AB_VRTraing_Local\Codes\VRTraing\UI\ChoiceQuestionDlg.cs" />
+    <Compile Include="Assets\AB_VRTraing_Local\Codes\VRTraing\UI\ConfirmUIConf.cs" />
+    <Compile Include="Assets\AB_VRTraing_Local\Codes\VRTraing\UI\ConfirmUIDlg.cs" />
     <Compile Include="Assets\AB_VRTraing_Local\Codes\VRTraing\UI\ErrorOperationRecordDlg.cs" />
     <Compile Include="Assets\AB_VRTraing_Local\Codes\VRTraing\UI\FScroll\FScrollItem.cs" />
     <Compile Include="Assets\AB_VRTraing_Local\Codes\VRTraing\UI\FScroll\FScrollPage.cs" />

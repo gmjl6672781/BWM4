@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Task01_Scene
   m_EditorClassIdentifier: 
   parent: {fileID: 0}
-  child: {fileID: 0}
+  child: {fileID: 11400000, guid: 352126ea4c07ab04c9ee066cfe1e0e18, type: 2}
   littleBrother: {fileID: 11400000, guid: bac87b3d06a06cd418d7833348e3d070, type: 2}
   oldBrother: {fileID: 11400000, guid: 5d7837ed74c094548b11d15dd49a7b3a, type: 2}
   isRead: 0
@@ -26,14 +26,8 @@ MonoBehaviour:
   traingScore: 5
   examScore: 15
   taskType: 0
-  taskGoals:
-  - {fileID: 11400000, guid: 20e89a92a944da14c8935c23759bfc1b, type: 2}
-  - {fileID: 11400000, guid: 86374d0f0f713514b9f8131a6105a9cd, type: 2}
-  taskTools:
-  - {fileID: 11400000, guid: cd9aa667d7a31e94483e3f737b5fd4fb, type: 2}
-  - {fileID: 11400000, guid: 85f6b2389e0d7714b9e8f13b98aac2cd, type: 2}
-  - {fileID: 11400000, guid: 0747bdf2c041e50429666e05489c75d9, type: 2}
-  - {fileID: 11400000, guid: bee8488263e4a0646bf49705e8397636, type: 2}
+  taskGoals: []
+  taskTools: []
   dynamicConfs: []
   delayTimeStartToDoing: 1
   delayTimeToStart: 1
@@ -41,19 +35,19 @@ MonoBehaviour:
   isPlayAudioOnError: 0
   isPlayAudioOnErrorInExaming: 0
   audioOnErrorKeys: []
-  sceneAudioKeys:
-  - 
+  sceneAudioKeys: []
   isJumpBigOnGoalError: 0
   isRePlayStartAudio: 0
   isPlayDynOnTaskError: 0
   errorTaskDynamics: []
   isAutoPopQuest: 0
   watieTime: 10
-  isJustPlayAudio: 1
+  isJustPlayAudio: 0
   reDoTime: 10
   errorSound: -1
   TaskOverDynamicConf: []
   isCanPopDlg: 0
   judgementDlgConf: {fileID: 0}
+  confirmUIConf: {fileID: 0}
   isForceShow: 0
   isShowTaskGoalsMsg: 1

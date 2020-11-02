@@ -121,6 +121,9 @@ namespace BeinLab.VRTraing.Conf
             else if (TaskManager.Instance.taskMode == TaskMode.Training)
             {
                 goalTrainingStartHighlightTools.ForEach(t => t.toolConf.toolBasic.SetToolHighlight(t.isHighlight));
+            }else
+            {
+                goalExaminationStartHighlightTools.ForEach(t => t.toolConf.toolBasic.SetToolHighlight(t.isHighlight));
             }
         }
 
@@ -133,7 +136,7 @@ namespace BeinLab.VRTraing.Conf
             HasDone = false;
             isAchieveGoal = false;
             OnGoalStart();
-
+            
             if (TaskManager.Instance.taskMode == TaskMode.Examination)
             {
                 if (goalMode == GoalType.OnlyTraining)

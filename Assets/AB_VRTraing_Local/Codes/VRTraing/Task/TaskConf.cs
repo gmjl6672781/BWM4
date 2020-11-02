@@ -362,11 +362,13 @@ namespace BeinLab.VRTraing.Conf
                 {
                     if (!result.HasDone)
                     {
+                        ToCompleteTask();
                         result.PlayStartAudio();
                         result.HighlightStartTool();
                         return;
                     }
                 }
+
             }
         }
         /// <summary>
@@ -468,6 +470,7 @@ namespace BeinLab.VRTraing.Conf
             LanguageMgr.Instance.OnPlayComplete -= OnPlayComplete;
 
             JudgementQuestionDlg.Instance.SendAnswer += SendAnswer;
+            ConfirmUIDlg.Instance.SendAnswer+= SendAnswer;
 
             if (sceneAudioKeys.Count != 0)
             {
@@ -533,6 +536,21 @@ namespace BeinLab.VRTraing.Conf
                         }
                     }, watieTime);
                 }
+                if (confirmUIConf)
+                {
+                    if (watieTimer != null)
+                    {
+                        TimerMgr.Instance.DestroyTimer(watieTimer);
+                    }
+                    watieTimer = TimerMgr.Instance.CreateTimer(() =>
+                    {
+                        if (confirmUIConf && TaskManager.Instance.CurrentTask == this)
+                        {
+                            VRHandHelper.Instance.AddHint(name, Player.instance.leftHand,
+                                confirmUIConf.vr_Action_Button, "Tips");
+                        }
+                    }, watieTime);
+                }
             }
         }
 
@@ -560,6 +578,15 @@ namespace BeinLab.VRTraing.Conf
                 {
                     VRHandHelper.Instance.RemoveHint(name);
                     JudgementQuestionDlg.Instance.ShowDlg(judgementDlgConf);
+                    if (watieTimer != null)
+                    {
+                        TimerMgr.Instance.DestroyTimer(watieTimer);
+                    }
+                }
+                if (confirmUIConf)
+                {
+                    VRHandHelper.Instance.RemoveHint(name);
+                    ConfirmUIDlg.Instance.ShowDlg(confirmUIConf);
                     if (watieTimer != null)
                     {
                         TimerMgr.Instance.DestroyTimer(watieTimer);
@@ -593,8 +620,13 @@ namespace BeinLab.VRTraing.Conf
         {
             //Debug.LogFormat("任务:{0} OnTaskEnd Index:{1} 时间：{2}", this.taskName, this.index, Time.time);
             JudgementQuestionDlg.Instance.SendAnswer -= SendAnswer;
+            ConfirmUIDlg.Instance.SendAnswer -= SendAnswer;
             if (judgementDlgConf)
                 JudgementQuestionDlg.Instance.HideDlg();
+            if (confirmUIConf)
+            {
+                ConfirmUIDlg.Instance.HideDlg();
+            }
 
             taskGoals.ForEach(t => t.OnTaskEnd(this));
             taskTools.ForEach(t => t.OnTaskEnd(this));
@@ -614,6 +646,7 @@ namespace BeinLab.VRTraing.Conf
         private TaskState mTaskState = TaskState.UnInit;
         public bool isCanPopDlg = true;
         public JudgementQuestionConf judgementDlgConf;
+        public ConfirmUIConf confirmUIConf;
         private Timer dynTimer;
         public bool isForceShow = false;
         public bool isShowTaskGoalsMsg = true;

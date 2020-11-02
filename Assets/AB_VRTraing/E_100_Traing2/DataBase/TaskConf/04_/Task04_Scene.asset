@@ -13,17 +13,18 @@ MonoBehaviour:
   m_Name: Task04_Scene
   m_EditorClassIdentifier: 
   parent: {fileID: 0}
-  child: {fileID: 11400000, guid: 5fa97973b8442ff4285d63421f3fe393, type: 2}
+  child: {fileID: 11400000, guid: 5ea12dd9724298e4fbf5aa108370940c, type: 2}
   littleBrother: {fileID: 11400000, guid: 65722b4d94e0b0f45a2c415f1cff421b, type: 2}
   oldBrother: {fileID: 11400000, guid: 0ca27ce9e1b1928469be88b1c6c5228f, type: 2}
   isRead: 0
   taskName: "\u64AC\u5F00\u9AD8\u538B\u63D2\u5934\u573A\u666F"
-  index: 12
+  index: 6
   keyTitle: T42
   keyTip: T114
   isCanRecord: 1
-  isPass: 0
   score: 0
+  traingScore: 5
+  examScore: 10
   taskType: 1
   taskGoals: []
   taskTools: []
@@ -32,6 +33,7 @@ MonoBehaviour:
   delayTimeToStart: 3
   isPlayAudioSuccessTask: 0
   isPlayAudioOnError: 1
+  isPlayAudioOnErrorInExaming: 1
   audioOnErrorKeys: []
   sceneAudioKeys:
   - T1026
@@ -42,5 +44,10 @@ MonoBehaviour:
   isAutoPopQuest: 0
   watieTime: 10
   isJustPlayAudio: 1
+  reDoTime: 10
+  errorSound: -1
+  TaskOverDynamicConf: []
   isCanPopDlg: 1
   judgementDlgConf: {fileID: 0}
+  isForceShow: 0
+  isShowTaskGoalsMsg: 1

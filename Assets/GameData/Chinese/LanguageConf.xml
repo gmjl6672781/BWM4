@@ -149,7 +149,7 @@
     <T1010 PriKey="T1010" Message="&lt;b&gt;2.考试模式：&lt;/b&gt;主要针对已参加过学习并具备维修经验的学员，该模式用于考查学员对核心操作规范的掌握情况。操作者需要结合已有经验和任务引导完成操作步骤。" AudioPath="examination.wav" />
     <T1011 PriKey="T1011" Message="一辆G38PHEV车辆在ISTA诊断中提示：更换1&amp;2号高压电池模组。现在该高压电池总成已经拆下，请您继续完成相关操作" AudioPath="background.wav" />
     <T1012 PriKey="T1012" Message="您觉得这个维修工位有什么问题？请主动修正" AudioPath="station.wav" />
-    <T1013 PriKey="T1013" Message="请确认维修工位是否完成了修正？" AudioPath="amend.wav" />
+    <T1013 PriKey="T1013" Message="另⼀侧⻋轮拆卸同理，系统会⾃动完成拆卸并放在指定位置" AudioPath="amend.wav" />
     <T1014 PriKey="T1014" Message="请注意电池维修区域的隔离，并放置合适的警示牌" AudioPath="region.wav" />
     <T1015 PriKey="T1015" Message="请拉出隔离墩上的隔离带并将维修区域封闭" AudioPath="closed.wav" />
     <T1016 PriKey="T1016" Message="请用白板笔在高压警示牌书写操作人信息" AudioPath="pen.wav" />
@@ -224,5 +224,6 @@
     <T1090 PriKey="T1090" Message="滑动手柄上的pad键，将扎带枪调整至高压线束扎带的标准力矩4" AudioPath="滑动pad键调整力矩.wav" />
     <T1091 PriKey="T1091" Message="请使用正确的力矩紧固扎带，滑动手柄上的pad键，将扎带枪调整至高压线束扎带的标准力矩4" AudioPath="请使用正确的力矩.wav" />
     <T1092 PriKey="T1092" Message="结束" AudioPath="" />
+    <T1077 PriKey="T1093" Message="我知道了" AudioPath="" />
   </LanguageConf>
 </Config>
